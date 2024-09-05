@@ -1,0 +1,169 @@
+                                 _____________________________
+
+                                         SaTScan v10.0
+                                 _____________________________
+
+
+Program run on: Tue Jan 23 11:44:34 2024
+
+Prospective Space-Time analysis
+scanning for clusters with high rates
+using the Space-Time Permutation model.
+_______________________________________________________________________________________________
+
+SUMMARY OF DATA
+
+Study period.......................: 2001/11/1 to 2001/11/24
+Number of locations................: 192
+Total number of cases..............: 194
+_______________________________________________________________________________________________
+
+CLUSTERS DETECTED
+
+1.Location IDs included.: 11418, 11415, 11419, 11435, 11416, 11421, 11451, 11375, 11417
+  Coordinates / radius..: (40.699240 N, 73.831760 W) / 2.90 km
+  Time frame............: 2001/11/22 to 2001/11/24
+  Number of cases.......: 4
+  Expected cases........: 0.67
+  Observed / expected...: 5.97
+  Test statistic........: 3.845418
+  P-value...............: 0.242
+  Recurrence interval...: 4 days
+
+2.Location IDs included.: 11372
+  Coordinates / radius..: (40.751460 N, 73.883070 W) / 0 km
+  Time frame............: 2001/11/24 to 2001/11/24
+  Number of cases.......: 2
+  Expected cases........: 0.16
+  Observed / expected...: 12.12
+  Test statistic........: 3.164201
+  P-value...............: 0.575
+  Recurrence interval...: 2 days
+
+3.Location IDs included.: 10472
+  Coordinates / radius..: (40.829960 N, 73.864640 W) / 0 km
+  Time frame............: 2001/11/23 to 2001/11/24
+  Number of cases.......: 2
+  Expected cases........: 0.29
+  Observed / expected...: 6.81
+  Test statistic........: 2.137259
+  P-value...............: 0.966
+  Recurrence interval...: 1 day
+
+NOTE: The sequential Monte Carlo procedure was used to terminate the calculations after 207
+replications.
+
+_______________________________________________________________________________________________
+
+PARAMETER SETTINGS
+
+Input
+-----
+  Case File        : /tmp/RtmpwuoBZ6/NYCfever.cas
+  Time Precision   : Day
+  Start Time       : 2001/11/1
+  End Time         : 2001/11/24
+  Coordinates File : /tmp/RtmpwuoBZ6/NYCfever.geo
+  Coordinates      : Latitude/Longitude
+
+Analysis
+--------
+  Type of Analysis        : Prospective Space-Time
+  Probability Model       : Space-Time Permutation
+  Scan for Areas with     : High Rates
+  Time Aggregation Units  : Day
+  Time Aggregation Length : 1
+
+Output
+------
+  Main Results File       : /tmp/RtmpwuoBZ6/NYCfever.txt
+  Google Maps File        : /tmp/RtmpwuoBZ6/NYCfever.clustermap.html
+  Shapefile (Cluster)     : /tmp/RtmpwuoBZ6/NYCfever.clustermap.col.shp
+  Cluster File            : /tmp/RtmpwuoBZ6/NYCfever.clustermap.col.dbf
+  Stratified Cluster File : /tmp/RtmpwuoBZ6/NYCfever.clustermap.sci.dbf
+  Location File           : /tmp/RtmpwuoBZ6/NYCfever.clustermap.gis.dbf
+  Shapefile (Locations)   : /tmp/RtmpwuoBZ6/NYCfever.clustermap.gis.shp
+  Simulated LLRs File     : /tmp/RtmpwuoBZ6/NYCfever.clustermap.llr.dbf
+
+Data Checking
+-------------
+  Temporal Data Check     : Check to ensure that all cases and controls are within the specified temporal study period.
+  Geographical Data Check : Check to ensure that all observations (cases, controls and populations) are within the specified geographical area.
+
+Spatial Neighbors
+-----------------
+  Use Non-Euclidean Neighbors file : No
+  Use Meta Locations File          : No
+  Multiple Coordinates Type        : Allow only one set of coordinates per location ID.
+
+Locations Network
+-----------------
+  Use Locations Network File : No
+  Locations Network File     : 
+  Locations Network Purpose  : Network Definition
+
+Spatial Window
+--------------
+  Maximum Spatial Cluster Size : 50 percent of population at risk
+  Maximum Spatial Cluster Size : 3 km
+  Window Shape                 : Circular
+
+Temporal Window
+---------------
+  Minimum Temporal Cluster Size : 1 Day
+  Maximum Temporal Cluster Size : 7 Days
+
+Cluster Restrictions
+--------------------
+  Minimum Cases in Cluster for High Rates : 2
+  Restrict High Rate Clusters             : No
+
+Space And Time Adjustments
+--------------------------
+  Adjust for Weekly Trends, Nonparametric : No
+
+Inference
+---------
+  P-Value Reporting                  : Default Combination
+  Number of Replications             : 999
+  Adjusting for More Likely Clusters : No
+
+Cluster Drilldown
+-----------------
+  Standard Drilldown on Detected Clusters  : No
+  Bernoulli Drilldown on Detected Clusters : No
+
+Miscellaneous Analysis
+----------------------
+  Prospective Analysis Frequency : Same As Time Aggregation
+
+Spatial Output
+--------------
+  Automatically Launch Map                  : Yes
+  Report Hierarchical Clusters              : Yes
+  Criteria for Reporting Secondary Clusters : No Geographical Overlap
+  Restrict Reporting to Smaller Clusters    : No
+
+Temporal Graphs
+---------------
+  Produce Temporal Graphs : No
+
+Other Output
+------------
+  Report Critical Values  : No
+  Report Monte Carlo Rank : No
+
+Run Options
+-----------
+  Processor Usage   : All Available Processors
+  Suppress Warnings : No
+  Logging Analysis  : No
+
+System
+------
+  Parameters Version : 10.1.1
+_______________________________________________________________________________________________
+
+Program completed  : Tue Jan 23 11:44:37 2024
+Total Running Time : 3 seconds
+Processor Usage    : 32 processors

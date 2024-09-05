@@ -1,0 +1,230 @@
+                                 _____________________________
+
+                                         SaTScan v10.0
+                                 _____________________________
+
+
+Program run on: Wed Feb 21 22:37:21 2024
+
+Prospective Space-Time analysis
+scanning for clusters with high rates
+using the Space-Time Permutation model.
+_______________________________________________________________________________________________
+
+SUMMARY OF DATA
+
+Study period.......................: 2024/01/01 to 2024/01/14
+Number of locations................: 8057
+Total number of cases..............: 113016
+_______________________________________________________________________________________________
+
+CLUSTERS DETECTED
+
+1.Location IDs included.: 06001421200, 06001421100, 06001421300, 06001421400, 06013392000,
+                          06013391000, 06001420100
+  Coordinates / radius..: (37.897500 N, 122.275200 W) / 1.42 km
+  Time frame............: 2024/1/10 to 2024/1/14
+  Number of cases.......: 57
+  Expected cases........: 32.93
+  Observed / expected...: 1.73
+  Test statistic........: 7.209782
+  P-value...............: 0.64
+  Recurrence interval...: 2 days
+
+2.Location IDs included.: 06075017700, 06075020100, 06075022801, 06075017802, 06075020200,
+                          06075020800, 06075022802, 06075022704, 06075018000, 06075016802,
+                          06075017601, 06075022803, 06075016200, 06075020700, 06075012402,
+                          06075016801, 06075020300, 06075022702, 06075012501, 06075012401,
+                          06075016300, 06075016900, 06075012502, 06075016000, 06075020600,
+                          06075017801, 06075022902
+  Coordinates / radius..: (37.768000 N, 122.412400 W) / 1.86 km
+  Time frame............: 2024/1/13 to 2024/1/14
+  Number of cases.......: 78
+  Expected cases........: 49.31
+  Observed / expected...: 1.58
+  Test statistic........: 7.081432
+  P-value...............: 0.74
+  Recurrence interval...: 1 day
+
+3.Location IDs included.: 06037576503, 06037576502, 06037576801, 06037576403, 06037576501,
+                          06037576402, 06037576901, 06037576601, 06037576802, 06037576401,
+                          06037576904, 06037576700, 06037576302, 06037576903
+  Coordinates / radius..: (33.771800 N, 118.169700 W) / 1.56 km
+  Time frame............: 2024/1/12 to 2024/1/14
+  Number of cases.......: 65
+  Expected cases........: 39.26
+  Observed / expected...: 1.66
+  Test statistic........: 7.036990
+  P-value...............: 0.76
+  Recurrence interval...: 1 day
+
+4.Location IDs included.: 06085505403, 06085505401, 06085506101
+  Coordinates / radius..: (37.341800 N, 121.986200 W) / 0.86 km
+  Time frame............: 2024/1/14 to 2024/1/14
+  Number of cases.......: 11
+  Expected cases........: 2.86
+  Observed / expected...: 3.85
+  Test statistic........: 6.679760
+  P-value...............: 0.85
+  Recurrence interval...: 1 day
+
+5.Location IDs included.: 06059076208, 06059075811, 06059076201, 06059075813, 06059076206,
+                          06059076202, 06059076204
+  Coordinates / radius..: (33.822600 N, 117.843400 W) / 1.96 km
+  Time frame............: 2024/1/12 to 2024/1/14
+  Number of cases.......: 34
+  Expected cases........: 17.04
+  Observed / expected...: 2.00
+  Test statistic........: 6.528456
+  P-value...............: 0.91
+  Recurrence interval...: 1 day
+
+6.Location IDs included.: 06037189300, 06037190402, 06037190301, 06037190401, 06037189500,
+                          06037189202, 06037190510
+  Coordinates / radius..: (34.111300 N, 118.309300 W) / 1.27 km
+  Time frame............: 2024/1/14 to 2024/1/14
+  Number of cases.......: 17
+  Expected cases........: 6.15
+  Observed / expected...: 2.77
+  Test statistic........: 6.439435
+  P-value...............: 0.94
+  Recurrence interval...: 1 day
+
+7.Location IDs included.: 06019004602, 06019004902, 06019004601, 06019005000, 06019004506
+  Coordinates / radius..: (36.801100 N, 119.808400 W) / 1.61 km
+  Time frame............: 2024/1/13 to 2024/1/14
+  Number of cases.......: 21
+  Expected cases........: 8.58
+  Observed / expected...: 2.45
+  Test statistic........: 6.383145
+  P-value...............: 0.94
+  Recurrence interval...: 1 day
+
+8.Location IDs included.: 06037191820, 06037191810, 06037192300, 06037191710, 06037190802,
+                          06037191902, 06037190801
+  Coordinates / radius..: (34.085300 N, 118.327700 W) / 1.06 km
+  Time frame............: 2024/1/11 to 2024/1/14
+  Number of cases.......: 47
+  Expected cases........: 26.99
+  Observed / expected...: 1.74
+  Test statistic........: 6.061182
+  P-value...............: 0.99
+  Recurrence interval...: 1 day
+
+NOTE: The sequential Monte Carlo procedure was used to terminate the calculations after 78
+replications.
+
+_______________________________________________________________________________________________
+
+PARAMETER SETTINGS
+
+Input
+-----
+  Case File        : /tmp/RtmptSPaM8/CAtest.cas
+  Time Precision   : Day
+  Start Time       : 2024/01/01
+  End Time         : 2024/01/14
+  Coordinates File : /tmp/RtmptSPaM8/CAtest.geo
+  Coordinates      : Latitude/Longitude
+
+Analysis
+--------
+  Type of Analysis        : Prospective Space-Time
+  Probability Model       : Space-Time Permutation
+  Scan for Areas with     : High Rates
+  Time Aggregation Units  : Day
+  Time Aggregation Length : 1
+
+Output
+------
+  Main Results File       : /tmp/RtmptSPaM8/CAtest.txt
+  Google Maps File        : /tmp/RtmptSPaM8/CAtest.clustermap.html
+  Shapefile (Cluster)     : /tmp/RtmptSPaM8/CAtest.clustermap.col.shp
+  Cluster File            : /tmp/RtmptSPaM8/CAtest.clustermap.col.dbf
+  Stratified Cluster File : /tmp/RtmptSPaM8/CAtest.clustermap.sci.dbf
+  Location File           : /tmp/RtmptSPaM8/CAtest.clustermap.gis.dbf
+  Shapefile (Locations)   : /tmp/RtmptSPaM8/CAtest.clustermap.gis.shp
+  Simulated LLRs File     : /tmp/RtmptSPaM8/CAtest.clustermap.llr.dbf
+
+Data Checking
+-------------
+  Temporal Data Check     : Check to ensure that all cases and controls are within the specified temporal study period.
+  Geographical Data Check : Check to ensure that all observations (cases, controls and populations) are within the specified geographical area.
+
+Spatial Neighbors
+-----------------
+  Use Non-Euclidean Neighbors file : No
+  Use Meta Locations File          : No
+  Multiple Coordinates Type        : Allow only one set of coordinates per location ID.
+
+Locations Network
+-----------------
+  Use Locations Network File : No
+  Locations Network File     : 
+  Locations Network Purpose  : Network Definition
+
+Spatial Window
+--------------
+  Maximum Spatial Cluster Size : 50 percent of population at risk
+  Maximum Spatial Cluster Size : 3 km
+  Window Shape                 : Circular
+
+Temporal Window
+---------------
+  Minimum Temporal Cluster Size : 1 Day
+  Maximum Temporal Cluster Size : 7 Days
+
+Cluster Restrictions
+--------------------
+  Minimum Cases in Cluster for High Rates : 2
+  Restrict High Rate Clusters             : No
+
+Space And Time Adjustments
+--------------------------
+  Adjust for Weekly Trends, Nonparametric : No
+
+Inference
+---------
+  P-Value Reporting                  : Default Combination
+  Number of Replications             : 999
+  Adjusting for More Likely Clusters : No
+
+Cluster Drilldown
+-----------------
+  Standard Drilldown on Detected Clusters  : No
+  Bernoulli Drilldown on Detected Clusters : No
+
+Miscellaneous Analysis
+----------------------
+  Prospective Analysis Frequency : Same As Time Aggregation
+
+Spatial Output
+--------------
+  Automatically Launch Map                  : Yes
+  Report Hierarchical Clusters              : Yes
+  Criteria for Reporting Secondary Clusters : No Geographical Overlap
+  Restrict Reporting to Smaller Clusters    : No
+
+Temporal Graphs
+---------------
+  Produce Temporal Graphs : No
+
+Other Output
+------------
+  Report Critical Values  : No
+  Report Monte Carlo Rank : No
+
+Run Options
+-----------
+  Processor Usage   : All Available Processors
+  Suppress Warnings : No
+  Logging Analysis  : No
+
+System
+------
+  Parameters Version : 10.1.1
+_______________________________________________________________________________________________
+
+Program completed  : Wed Feb 21 22:37:28 2024
+Total Running Time : 7 seconds
+Processor Usage    : 32 processors

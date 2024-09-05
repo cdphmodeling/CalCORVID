@@ -1,0 +1,6305 @@
+                                 _____________________________
+
+                                         SaTScan v10.0
+                                 _____________________________
+
+
+Program run on: Mon Jun  3 17:23:00 2024
+
+Prospective Space-Time analysis
+scanning for clusters with low rates
+using the Discrete Poisson model.
+_______________________________________________________________________________________________
+
+SUMMARY OF DATA
+
+Study period.......................: 2021/09/21 to 2022/02/08
+Number of locations................: 1769
+Population, averaged over time.....: 38996287
+Total number of cases..............: 3728665
+Annual cases / 100000..............: 24768.1
+_______________________________________________________________________________________________
+
+CLUSTERS DETECTED
+
+1.Location IDs included.: 92055
+  Coordinates / radius..: (33.387739 N, 117.444796 W) / 0 km
+  Time frame............: 2022/1/5 to 2022/2/8
+  Population............: 11765
+  Number of cases.......: 3
+  Expected cases........: 279.24
+  Annual cases / 100000.: 266.1
+  Observed / expected...: 0.011
+  Relative risk.........: 0.011
+  Log likelihood ratio..: 262.645623
+  P-value...............: < 0.00000000000000001
+  Recurrence interval...: 1916495550992471 years
+
+2.Location IDs included.: 92310
+  Coordinates / radius..: (35.261739 N, 116.690639 W) / 0 km
+  Time frame............: 2022/1/5 to 2022/2/8
+  Population............: 9872
+  Number of cases.......: 11
+  Expected cases........: 234.31
+  Annual cases / 100000.: 1162.8
+  Observed / expected...: 0.047
+  Relative risk.........: 0.047
+  Log likelihood ratio..: 189.667029
+  P-value...............: < 0.00000000000000001
+  Recurrence interval...: 1916495550992471 years
+
+3.Location IDs included.: 96121, 96114, 96113, 96128, 96136, 96109, 95983, 95947
+  Coordinates / radius..: (40.168863 N, 120.373154 W) / 37.92 km
+  Time frame............: 2022/1/12 to 2022/2/8
+  Population............: 9084
+  Number of cases.......: 16
+  Expected cases........: 172.48
+  Annual cases / 100000.: 2297.6
+  Observed / expected...: 0.093
+  Relative risk.........: 0.093
+  Log likelihood ratio..: 118.442874
+  P-value...............: < 0.00000000000000001
+  Recurrence interval...: 1916495550992471 years
+
+4.Location IDs included.: 92278
+  Coordinates / radius..: (34.229974 N, 116.055054 W) / 0 km
+  Time frame............: 2022/1/5 to 2022/2/8
+  Population............: 4890
+  Number of cases.......: 0
+  Expected cases........: 116.06
+  Annual cases / 100000.: 0
+  Observed / expected...: 0
+  Relative risk.........: 0
+  Log likelihood ratio..: 116.063233
+  P-value...............: < 0.00000000000000001
+  Recurrence interval...: 1916495550992471 years
+
+5.Location IDs included.: 94582
+  Coordinates / radius..: (37.763595 N, 121.915514 W) / 0 km
+  Time frame............: 2022/1/26 to 2022/2/8
+  Population............: 39254
+  Number of cases.......: 0
+  Expected cases........: 86.62
+  Annual cases / 100000.: 0
+  Observed / expected...: 0
+  Relative risk.........: 0
+  Log likelihood ratio..: 86.616804
+  P-value...............: < 0.00000000000000001
+  Recurrence interval...: 1916495550992471 years
+
+6.Location IDs included.: 95633
+  Coordinates / radius..: (38.847835 N, 120.825823 W) / 0 km
+  Time frame............: 2022/1/12 to 2022/2/8
+  Population............: 4188
+  Number of cases.......: 5
+  Expected cases........: 79.52
+  Annual cases / 100000.: 1557.4
+  Observed / expected...: 0.063
+  Relative risk.........: 0.063
+  Log likelihood ratio..: 60.687777
+  P-value...............: < 0.00000000000000001
+  Recurrence interval...: 1916495550992471 years
+
+7.Location IDs included.: 95379, 95372, 95346
+  Coordinates / radius..: (37.946920 N, 120.193981 W) / 13.46 km
+  Time frame............: 2022/1/26 to 2022/2/8
+  Population............: 7310
+  Number of cases.......: 5
+  Expected cases........: 69.40
+  Annual cases / 100000.: 1784.5
+  Observed / expected...: 0.072
+  Relative risk.........: 0.072
+  Log likelihood ratio..: 51.247858
+  P-value...............: < 0.00000000000000001
+  Recurrence interval...: 1916495550992471 years
+
+8.Location IDs included.: 93605, 93664, 93643, 93602, 93634, 93669, 93667, 93604, 93651
+  Coordinates / radius..: (37.203158 N, 119.249243 W) / 33.82 km
+  Time frame............: 2022/2/2 to 2022/2/8
+  Population............: 11638
+  Number of cases.......: 5
+  Expected cases........: 54.29
+  Annual cases / 100000.: 2281.1
+  Observed / expected...: 0.092
+  Relative risk.........: 0.092
+  Log likelihood ratio..: 37.365965
+  P-value...............: 0.000000000000020
+  Recurrence interval...: 938166157533 years
+
+9.Location IDs included.: 96065, 96084, 96011, 96013, 96069, 96096, 96008, 96016
+  Coordinates / radius..: (40.888194 N, 121.880843 W) / 30.16 km
+  Time frame............: 2022/2/2 to 2022/2/8
+  Population............: 7685
+  Number of cases.......: 1
+  Expected cases........: 36.48
+  Annual cases / 100000.: 679.0
+  Observed / expected...: 0.027
+  Relative risk.........: 0.027
+  Log likelihood ratio..: 31.883248
+  P-value...............: 0.0000000000039
+  Recurrence interval...: 4933060126 years
+
+10.Location IDs included.: 94020, 94021, 94028
+   Coordinates / radius..: (37.284223 N, 122.228307 W) / 10.55 km
+   Time frame............: 2022/2/2 to 2022/2/8
+   Population............: 9141
+   Number of cases.......: 3
+   Expected cases........: 41.88
+   Annual cases / 100000.: 1774.3
+   Observed / expected...: 0.072
+   Relative risk.........: 0.072
+   Log likelihood ratio..: 30.968877
+   P-value...............: 0.0000000000093
+   Recurrence interval...: 2055617950 years
+
+11.Location IDs included.: 92242
+   Coordinates / radius..: (34.165159 N, 114.319671 W) / 0 km
+   Time frame............: 2022/1/5 to 2022/2/8
+   Population............: 1312
+   Number of cases.......: 1
+   Expected cases........: 31.14
+   Annual cases / 100000.: 795.4
+   Observed / expected...: 0.032
+   Relative risk.........: 0.032
+   Log likelihood ratio..: 26.701231
+   P-value...............: 0.00000000055
+   Recurrence interval...: 34557503 years
+
+12.Location IDs included.: 96135, 96105, 96129, 96118
+   Coordinates / radius..: (39.808683 N, 120.205655 W) / 18.98 km
+   Time frame............: 2022/1/19 to 2022/2/8
+   Population............: 2286
+   Number of cases.......: 3
+   Expected cases........: 35.43
+   Annual cases / 100000.: 2097.0
+   Observed / expected...: 0.085
+   Relative risk.........: 0.085
+   Log likelihood ratio..: 25.025874
+   P-value...............: 0.0000000028
+   Recurrence interval...: 6949640 years
+
+13.Location IDs included.: 95916
+   Coordinates / radius..: (39.660726 N, 121.363596 W) / 0 km
+   Time frame............: 2022/1/5 to 2022/2/8
+   Population............: 1359
+   Number of cases.......: 2
+   Expected cases........: 32.26
+   Annual cases / 100000.: 1535.8
+   Observed / expected...: 0.062
+   Relative risk.........: 0.062
+   Log likelihood ratio..: 24.694172
+   P-value...............: 0.0000000038
+   Recurrence interval...: 5058798 years
+
+14.Location IDs included.: 93437, 93429
+   Coordinates / radius..: (34.737356 N, 120.543486 W) / 14.24 km
+   Time frame............: 2022/1/26 to 2022/2/8
+   Population............: 3488
+   Number of cases.......: 3
+   Expected cases........: 33.52
+   Annual cases / 100000.: 2216.5
+   Observed / expected...: 0.089
+   Relative risk.........: 0.089
+   Log likelihood ratio..: 23.281836
+   P-value...............: 0.000000015
+   Recurrence interval...: 1308658 years
+
+15.Location IDs included.: 94939
+   Coordinates / radius..: (37.937167 N, 122.534071 W) / 0 km
+   Time frame............: 2022/2/2 to 2022/2/8
+   Population............: 6747
+   Number of cases.......: 3
+   Expected cases........: 32.03
+   Annual cases / 100000.: 2320.0
+   Observed / expected...: 0.094
+   Relative risk.........: 0.094
+   Log likelihood ratio..: 21.923445
+   P-value...............: 0.000000054
+   Recurrence interval...: 356479 years
+
+16.Location IDs included.: 96023
+   Coordinates / radius..: (41.926854 N, 121.907037 W) / 0 km
+   Time frame............: 2022/1/5 to 2022/2/8
+   Population............: 1184
+   Number of cases.......: 2
+   Expected cases........: 28.10
+   Annual cases / 100000.: 1762.8
+   Observed / expected...: 0.071
+   Relative risk.........: 0.071
+   Log likelihood ratio..: 20.816315
+   P-value...............: 0.00000016
+   Recurrence interval...: 123513 years
+
+17.Location IDs included.: 92327, 92398
+   Coordinates / radius..: (34.862958 N, 116.862017 W) / 5.59 km
+   Time frame............: 2022/1/26 to 2022/2/8
+   Population............: 2932
+   Number of cases.......: 2
+   Expected cases........: 27.84
+   Annual cases / 100000.: 1779.6
+   Observed / expected...: 0.072
+   Relative risk.........: 0.072
+   Log likelihood ratio..: 20.569496
+   P-value...............: 0.00000020
+   Recurrence interval...: 97519 years
+
+18.Location IDs included.: 95410, 95456
+   Coordinates / radius..: (39.206147 N, 123.692641 W) / 7.93 km
+   Time frame............: 2022/1/19 to 2022/2/8
+   Population............: 1835
+   Number of cases.......: 2
+   Expected cases........: 26.13
+   Annual cases / 100000.: 1895.6
+   Observed / expected...: 0.077
+   Relative risk.........: 0.077
+   Log likelihood ratio..: 18.991702
+   P-value...............: 0.00000089
+   Recurrence interval...: 21531 years
+
+19.Location IDs included.: 95595, 95511, 95552, 95514
+   Coordinates / radius..: (40.116729 N, 123.424554 W) / 27.39 km
+   Time frame............: 2022/1/5 to 2022/2/8
+   Population............: 851
+   Number of cases.......: 2
+   Expected cases........: 24.97
+   Annual cases / 100000.: 1983.9
+   Observed / expected...: 0.080
+   Relative risk.........: 0.080
+   Log likelihood ratio..: 17.919758
+   P-value...............: 0.0000025
+   Recurrence interval...: 7716 years
+
+20.Location IDs included.: 96009, 96068, 96006, 96056
+   Coordinates / radius..: (41.063471 N, 121.041044 W) / 20.76 km
+   Time frame............: 2022/1/26 to 2022/2/8
+   Population............: 2240
+   Number of cases.......: 1
+   Expected cases........: 21.27
+   Annual cases / 100000.: 1164.7
+   Observed / expected...: 0.047
+   Relative risk.........: 0.047
+   Log likelihood ratio..: 17.209004
+   P-value...............: 0.0000049
+   Recurrence interval...: 3907 years
+
+21.Location IDs included.: 96107
+   Coordinates / radius..: (38.480285 N, 119.472780 W) / 0 km
+   Time frame............: 2022/1/19 to 2022/2/8
+   Population............: 1433
+   Number of cases.......: 1
+   Expected cases........: 20.41
+   Annual cases / 100000.: 1213.7
+   Observed / expected...: 0.049
+   Relative risk.........: 0.049
+   Log likelihood ratio..: 16.391053
+   P-value...............: 0.000011
+   Recurrence interval...: 1786 years
+
+22.Location IDs included.: 96104
+   Coordinates / radius..: (41.516146 N, 120.129154 W) / 0 km
+   Time frame............: 2022/1/5 to 2022/2/8
+   Population............: 842
+   Number of cases.......: 1
+   Expected cases........: 19.98
+   Annual cases / 100000.: 1239.4
+   Observed / expected...: 0.050
+   Relative risk.........: 0.050
+   Log likelihood ratio..: 15.989497
+   P-value...............: 0.000016
+   Recurrence interval...: 1216 years
+
+23.Location IDs included.: 96103
+   Coordinates / radius..: (39.801177 N, 120.660841 W) / 0 km
+   Time frame............: 2022/1/19 to 2022/2/8
+   Population............: 1401
+   Number of cases.......: 1
+   Expected cases........: 19.95
+   Annual cases / 100000.: 1241.4
+   Observed / expected...: 0.050
+   Relative risk.........: 0.050
+   Log likelihood ratio..: 15.957933
+   P-value...............: 0.000016
+   Recurrence interval...: 1179 years
+
+24.Location IDs included.: 93432
+   Coordinates / radius..: (35.471927 N, 120.471053 W) / 0 km
+   Time frame............: 2022/1/19 to 2022/2/8
+   Population............: 1503
+   Number of cases.......: 2
+   Expected cases........: 21.40
+   Annual cases / 100000.: 2314.4
+   Observed / expected...: 0.093
+   Relative risk.........: 0.093
+   Log likelihood ratio..: 14.662936
+   P-value...............: 0.000056
+   Recurrence interval...: 341 years
+
+25.Location IDs included.: 90401
+   Coordinates / radius..: (34.014191 N, 118.494120 W) / 0 km
+   Time frame............: 2022/1/26 to 2022/2/8
+   Population............: 6556
+   Number of cases.......: 0
+   Expected cases........: 14.47
+   Annual cases / 100000.: 0
+   Observed / expected...: 0
+   Relative risk.........: 0
+   Log likelihood ratio..: 14.466510
+   P-value...............: 0.000068
+   Recurrence interval...: 283 years
+
+26.Location IDs included.: 94511
+   Coordinates / radius..: (38.029003 N, 121.640567 W) / 0 km
+   Time frame............: 2022/1/26 to 2022/2/8
+   Population............: 2161
+   Number of cases.......: 2
+   Expected cases........: 20.52
+   Annual cases / 100000.: 2414.5
+   Observed / expected...: 0.097
+   Relative risk.........: 0.097
+   Log likelihood ratio..: 13.859978
+   P-value...............: 0.00012
+   Recurrence interval...: 158 years
+
+27.Location IDs included.: 95551
+   Coordinates / radius..: (40.669463 N, 124.221242 W) / 0 km
+   Time frame............: 2022/1/26 to 2022/2/8
+   Population............: 1416
+   Number of cases.......: 0
+   Expected cases........: 13.44
+   Annual cases / 100000.: 0
+   Observed / expected...: 0
+   Relative risk.........: 0
+   Log likelihood ratio..: 13.443213
+   P-value...............: 0.00018
+   Recurrence interval...: 106 years
+
+28.Location IDs included.: 94923, 94922, 95465
+   Coordinates / radius..: (38.341625 N, 123.030989 W) / 7.27 km
+   Time frame............: 2022/2/2 to 2022/2/8
+   Population............: 3319
+   Number of cases.......: 1
+   Expected cases........: 15.75
+   Annual cases / 100000.: 1572.1
+   Observed / expected...: 0.063
+   Relative risk.........: 0.063
+   Log likelihood ratio..: 11.997800
+   P-value...............: 0.00072
+   Recurrence interval...: 27 years
+
+29.Location IDs included.: 96086, 96049, 96085, 96050, 96039
+   Coordinates / radius..: (41.874547 N, 123.220336 W) / 30.03 km
+   Time frame............: 2022/1/26 to 2022/2/8
+   Population............: 1380
+   Number of cases.......: 1
+   Expected cases........: 14.84
+   Annual cases / 100000.: 1669.1
+   Observed / expected...: 0.067
+   Relative risk.........: 0.067
+   Log likelihood ratio..: 11.141556
+   P-value...............: 0.0016
+   Recurrence interval...: 12 years
+
+30.Location IDs included.: 93633, 93628, 93262, 93603, 93641, 93271, 93526
+   Coordinates / radius..: (36.793055 N, 118.722697 W) / 38.99 km
+   Time frame............: 2022/2/2 to 2022/2/8
+   Population............: 3221
+   Number of cases.......: 1
+   Expected cases........: 14.75
+   Annual cases / 100000.: 1678.8
+   Observed / expected...: 0.068
+   Relative risk.........: 0.068
+   Log likelihood ratio..: 11.061886
+   P-value...............: 0.0018
+   Recurrence interval...: 11 years
+
+31.Location IDs included.: 91931
+   Coordinates / radius..: (32.846367 N, 116.557718 W) / 0 km
+   Time frame............: 2022/1/5 to 2022/2/8
+   Population............: 613
+   Number of cases.......: 1
+   Expected cases........: 14.55
+   Annual cases / 100000.: 1702.4
+   Observed / expected...: 0.069
+   Relative risk.........: 0.069
+   Log likelihood ratio..: 10.871701
+   P-value...............: 0.0021
+   Recurrence interval...: 9.1 years
+
+32.Location IDs included.: 95412, 95497
+   Coordinates / radius..: (38.713434 N, 123.349810 W) / 8.92 km
+   Time frame............: 2022/1/26 to 2022/2/8
+   Population............: 1531
+   Number of cases.......: 1
+   Expected cases........: 14.53
+   Annual cases / 100000.: 1704.0
+   Observed / expected...: 0.069
+   Relative risk.........: 0.069
+   Log likelihood ratio..: 10.858440
+   P-value...............: 0.0021
+   Recurrence interval...: 9.0 years
+
+33.Location IDs included.: 92066, 92086
+   Coordinates / radius..: (33.219366 N, 116.535249 W) / 14.81 km
+   Time frame............: 2022/2/2 to 2022/2/8
+   Population............: 2030
+   Number of cases.......: 0
+   Expected cases........: 10.61
+   Annual cases / 100000.: 0
+   Observed / expected...: 0
+   Relative risk.........: 0
+   Log likelihood ratio..: 10.614058
+   P-value...............: 0.0027
+   Recurrence interval...: 7.1 years
+
+34.Location IDs included.: 93254, 93441, 93224
+   Coordinates / radius..: (34.948656 N, 119.771066 W) / 36.08 km
+   Time frame............: 2022/2/2 to 2022/2/8
+   Population............: 2179
+   Number of cases.......: 0
+   Expected cases........: 10.34
+   Annual cases / 100000.: 0
+   Observed / expected...: 0
+   Relative risk.........: 0
+   Log likelihood ratio..: 10.343485
+   P-value...............: 0.0035
+   Recurrence interval...: 5.5 years
+
+35.Location IDs included.: 92309
+   Coordinates / radius..: (35.216397 N, 116.130261 W) / 0 km
+   Time frame............: 2022/1/5 to 2022/2/8
+   Population............: 572
+   Number of cases.......: 1
+   Expected cases........: 13.58
+   Annual cases / 100000.: 1824.4
+   Observed / expected...: 0.074
+   Relative risk.........: 0.074
+   Log likelihood ratio..: 9.967812
+   P-value...............: 0.0050
+   Recurrence interval...: 3.8 years
+
+36.Location IDs included.: 95563, 95527, 95573
+   Coordinates / radius..: (40.876266 N, 123.498483 W) / 13.73 km
+   Time frame............: 2022/2/2 to 2022/2/8
+   Population............: 2682
+   Number of cases.......: 1
+   Expected cases........: 12.97
+   Annual cases / 100000.: 1909.9
+   Observed / expected...: 0.077
+   Relative risk.........: 0.077
+   Log likelihood ratio..: 9.405996
+   P-value...............: 0.0086
+   Recurrence interval...: 2.2 years
+
+37.Location IDs included.: 96059
+   Coordinates / radius..: (40.427473 N, 121.832260 W) / 0 km
+   Time frame............: 2022/1/5 to 2022/2/8
+   Population............: 542
+   Number of cases.......: 1
+   Expected cases........: 12.86
+   Annual cases / 100000.: 1925.4
+   Observed / expected...: 0.078
+   Relative risk.........: 0.078
+   Log likelihood ratio..: 9.309649
+   P-value...............: 0.0094
+   Recurrence interval...: 2.0 years
+
+38.Location IDs included.: 95975
+   Coordinates / radius..: (39.224412 N, 121.151620 W) / 0 km
+   Time frame............: 2022/2/2 to 2022/2/8
+   Population............: 1877
+   Number of cases.......: 0
+   Expected cases........: 8.91
+   Annual cases / 100000.: 0
+   Observed / expected...: 0
+   Relative risk.........: 0
+   Log likelihood ratio..: 8.909921
+   P-value...............: 0.010
+   Recurrence interval...: 1.9 years
+
+39.Location IDs included.: 96014, 96034, 96027
+   Coordinates / radius..: (41.338946 N, 122.777931 W) / 24.77 km
+   Time frame............: 2022/2/2 to 2022/2/8
+   Population............: 2592
+   Number of cases.......: 1
+   Expected cases........: 12.37
+   Annual cases / 100000.: 2002.2
+   Observed / expected...: 0.081
+   Relative risk.........: 0.081
+   Log likelihood ratio..: 8.855103
+   P-value...............: 0.011
+   Recurrence interval...: 1.7 years
+
+40.Location IDs included.: 96024
+   Coordinates / radius..: (40.575408 N, 122.890465 W) / 0 km
+   Time frame............: 2022/1/19 to 2022/2/8
+   Population............: 846
+   Number of cases.......: 1
+   Expected cases........: 12.05
+   Annual cases / 100000.: 2055.9
+   Observed / expected...: 0.083
+   Relative risk.........: 0.083
+   Log likelihood ratio..: 8.558754
+   P-value...............: 0.015
+   Recurrence interval...: 1.3 years
+
+41.Location IDs included.: 95981, 95930, 95922, 95944, 95936, 95941, 95925, 95956
+   Coordinates / radius..: (39.635995 N, 121.036034 W) / 24.04 km
+   Time frame............: 2022/2/2 to 2022/2/8
+   Population............: 1570
+   Number of cases.......: 0
+   Expected cases........: 8.48
+   Annual cases / 100000.: 0
+   Observed / expected...: 0
+   Relative risk.........: 0
+   Log likelihood ratio..: 8.483378
+   P-value...............: 0.015
+   Recurrence interval...: 1.3 years
+
+42.Location IDs included.: 93562
+   Coordinates / radius..: (35.748083 N, 117.380823 W) / 0 km
+   Time frame............: 2022/2/2 to 2022/2/8
+   Population............: 1771
+   Number of cases.......: 0
+   Expected cases........: 8.41
+   Annual cases / 100000.: 0
+   Observed / expected...: 0
+   Relative risk.........: 0
+   Log likelihood ratio..: 8.406749
+   P-value...............: 0.015
+   Recurrence interval...: 1.3 years
+
+43.Location IDs included.: 96091
+   Coordinates / radius..: (41.035815 N, 122.788158 W) / 0 km
+   Time frame............: 2022/1/12 to 2022/2/8
+   Population............: 618
+   Number of cases.......: 1
+   Expected cases........: 11.73
+   Annual cases / 100000.: 2110.7
+   Observed / expected...: 0.085
+   Relative risk.........: 0.085
+   Log likelihood ratio..: 8.271807
+   P-value...............: 0.018
+   Recurrence interval...: 1.1 years
+
+44.Location IDs included.: 95943
+   Coordinates / radius..: (39.585702 N, 122.036697 W) / 0 km
+   Time frame............: 2022/1/26 to 2022/2/8
+   Population............: 871
+   Number of cases.......: 0
+   Expected cases........: 8.27
+   Annual cases / 100000.: 0
+   Observed / expected...: 0
+   Relative risk.........: 0
+   Log likelihood ratio..: 8.269089
+   P-value...............: 0.018
+   Recurrence interval...: 1.1 years
+
+45.Location IDs included.: 93601
+   Coordinates / radius..: (37.393772 N, 119.744410 W) / 0 km
+   Time frame............: 2022/2/2 to 2022/2/8
+   Population............: 1674
+   Number of cases.......: 0
+   Expected cases........: 7.95
+   Annual cases / 100000.: 0
+   Observed / expected...: 0
+   Relative risk.........: 0
+   Log likelihood ratio..: 7.946300
+   P-value...............: 0.034
+   Recurrence interval...: 206 days
+
+46.Location IDs included.: 92328
+   Coordinates / radius..: (36.528969 N, 116.870433 W) / 0 km
+   Time frame............: 2022/1/5 to 2022/2/8
+   Population............: 230
+   Number of cases.......: 1
+   Expected cases........: 10.40
+   Annual cases / 100000.: 2382.5
+   Observed / expected...: 0.096
+   Relative risk.........: 0.096
+   Log likelihood ratio..: 7.054307
+   P-value...............: 0.088
+   Recurrence interval...: 80 days
+
+47.Location IDs included.: 93531
+   Coordinates / radius..: (35.216036 N, 118.589984 W) / 0 km
+   Time frame............: 2022/1/12 to 2022/2/8
+   Population............: 338
+   Number of cases.......: 0
+   Expected cases........: 6.42
+   Annual cases / 100000.: 0
+   Observed / expected...: 0
+   Relative risk.........: 0
+   Log likelihood ratio..: 6.417799
+   P-value...............: 0.156
+   Recurrence interval...: 45 days
+
+48.Location IDs included.: 95306
+   Coordinates / radius..: (37.384081 N, 120.129093 W) / 0 km
+   Time frame............: 2022/1/26 to 2022/2/8
+   Population............: 654
+   Number of cases.......: 0
+   Expected cases........: 6.21
+   Annual cases / 100000.: 0
+   Observed / expected...: 0
+   Relative risk.........: 0
+   Log likelihood ratio..: 6.208935
+   P-value...............: 0.200
+   Recurrence interval...: 35 days
+
+49.Location IDs included.: 90021
+   Coordinates / radius..: (34.029340 N, 118.238768 W) / 0 km
+   Time frame............: 2022/1/5 to 2022/2/8
+   Population............: 2277
+   Number of cases.......: 0
+   Expected cases........: 5.99
+   Annual cases / 100000.: 0
+   Observed / expected...: 0
+   Relative risk.........: 0
+   Log likelihood ratio..: 5.991256
+   P-value...............: 0.229
+   Recurrence interval...: 31 days
+
+50.Location IDs included.: 93954
+   Coordinates / radius..: (36.133125 N, 120.942060 W) / 0 km
+   Time frame............: 2022/1/26 to 2022/2/8
+   Population............: 551
+   Number of cases.......: 0
+   Expected cases........: 5.23
+   Annual cases / 100000.: 0
+   Observed / expected...: 0
+   Relative risk.........: 0
+   Log likelihood ratio..: 5.231075
+   P-value...............: 0.403
+   Recurrence interval...: 17 days
+
+51.Location IDs included.: 95970, 95920
+   Coordinates / radius..: (39.400567 N, 122.060300 W) / 12.52 km
+   Time frame............: 2022/2/2 to 2022/2/8
+   Population............: 868
+   Number of cases.......: 0
+   Expected cases........: 4.42
+   Annual cases / 100000.: 0
+   Observed / expected...: 0
+   Relative risk.........: 0
+   Log likelihood ratio..: 4.419356
+   P-value...............: 0.605
+   Recurrence interval...: 12 days
+
+52.Location IDs included.: 96120
+   Coordinates / radius..: (38.753730 N, 119.833355 W) / 0 km
+   Time frame............: 2022/2/2 to 2022/2/8
+   Population............: 926
+   Number of cases.......: 0
+   Expected cases........: 4.40
+   Annual cases / 100000.: 0
+   Observed / expected...: 0
+   Relative risk.........: 0
+   Log likelihood ratio..: 4.395621
+   P-value...............: 0.615
+   Recurrence interval...: 11 days
+
+53.Location IDs included.: 94938
+   Coordinates / radius..: (38.029070 N, 122.726527 W) / 0 km
+   Time frame............: 2022/2/2 to 2022/2/8
+   Population............: 920
+   Number of cases.......: 0
+   Expected cases........: 4.37
+   Annual cases / 100000.: 0
+   Observed / expected...: 0
+   Relative risk.........: 0
+   Log likelihood ratio..: 4.367140
+   P-value...............: 0.633
+   Recurrence interval...: 11 days
+
+54.Location IDs included.: 92268
+   Coordinates / radius..: (34.222096 N, 116.564253 W) / 0 km
+   Time frame............: 2022/1/26 to 2022/2/8
+   Population............: 455
+   Number of cases.......: 0
+   Expected cases........: 4.32
+   Annual cases / 100000.: 0
+   Observed / expected...: 0
+   Relative risk.........: 0
+   Log likelihood ratio..: 4.319671
+   P-value...............: 0.652
+   Recurrence interval...: 11 days
+
+55.Location IDs included.: 92239
+   Coordinates / radius..: (33.764763 N, 115.470257 W) / 0 km
+   Time frame............: 2022/1/12 to 2022/2/8
+   Population............: 227
+   Number of cases.......: 0
+   Expected cases........: 4.31
+   Annual cases / 100000.: 0
+   Observed / expected...: 0
+   Relative risk.........: 0
+   Log likelihood ratio..: 4.310177
+   P-value...............: 0.653
+   Recurrence interval...: 11 days
+
+56.Location IDs included.: 95569, 95571, 95554
+   Coordinates / radius..: (40.367460 N, 123.855316 W) / 10.59 km
+   Time frame............: 2022/2/2 to 2022/2/8
+   Population............: 978
+   Number of cases.......: 0
+   Expected cases........: 4.17
+   Annual cases / 100000.: 0
+   Observed / expected...: 0
+   Relative risk.........: 0
+   Log likelihood ratio..: 4.172517
+   P-value...............: 0.682
+   Recurrence interval...: 10 days
+
+57.Location IDs included.: 95979
+   Coordinates / radius..: (39.301516 N, 122.515851 W) / 0 km
+   Time frame............: 2022/1/26 to 2022/2/8
+   Population............: 414
+   Number of cases.......: 0
+   Expected cases........: 3.93
+   Annual cases / 100000.: 0
+   Observed / expected...: 0
+   Relative risk.........: 0
+   Log likelihood ratio..: 3.930426
+   P-value...............: 0.778
+   Recurrence interval...: 9 days
+
+58.Location IDs included.: 93518
+   Coordinates / radius..: (35.370071 N, 118.461230 W) / 0 km
+   Time frame............: 2022/2/2 to 2022/2/8
+   Population............: 814
+   Number of cases.......: 0
+   Expected cases........: 3.86
+   Annual cases / 100000.: 0
+   Observed / expected...: 0
+   Relative risk.........: 0
+   Log likelihood ratio..: 3.863969
+   P-value...............: 0.802
+   Recurrence interval...: 9 days
+
+59.Location IDs included.: 95345
+   Coordinates / radius..: (37.590183 N, 119.965193 W) / 0 km
+   Time frame............: 2022/2/2 to 2022/2/8
+   Population............: 802
+   Number of cases.......: 0
+   Expected cases........: 3.81
+   Annual cases / 100000.: 0
+   Observed / expected...: 0
+   Relative risk.........: 0
+   Log likelihood ratio..: 3.807007
+   P-value...............: 0.821
+   Recurrence interval...: 9 days
+
+60.Location IDs included.: 95607
+   Coordinates / radius..: (38.791517 N, 122.127329 W) / 0 km
+   Time frame............: 2022/1/26 to 2022/2/8
+   Population............: 389
+   Number of cases.......: 0
+   Expected cases........: 3.69
+   Annual cases / 100000.: 0
+   Observed / expected...: 0
+   Relative risk.........: 0
+   Log likelihood ratio..: 3.693081
+   P-value...............: 0.846
+   Recurrence interval...: 8 days
+
+61.Location IDs included.: 95674
+   Coordinates / radius..: (38.954156 N, 121.481864 W) / 0 km
+   Time frame............: 2022/2/2 to 2022/2/8
+   Population............: 767
+   Number of cases.......: 0
+   Expected cases........: 3.64
+   Annual cases / 100000.: 0
+   Observed / expected...: 0
+   Relative risk.........: 0
+   Log likelihood ratio..: 3.640865
+   P-value...............: 0.865
+   Recurrence interval...: 8 days
+
+62.Location IDs included.: 95830
+   Coordinates / radius..: (38.494162 N, 121.272414 W) / 0 km
+   Time frame............: 2022/2/2 to 2022/2/8
+   Population............: 734
+   Number of cases.......: 0
+   Expected cases........: 3.48
+   Annual cases / 100000.: 0
+   Observed / expected...: 0
+   Relative risk.........: 0
+   Log likelihood ratio..: 3.484218
+   P-value...............: 0.924
+   Recurrence interval...: 8 days
+
+63.Location IDs included.: 96038
+   Coordinates / radius..: (41.608924 N, 122.546434 W) / 0 km
+   Time frame............: 2022/2/2 to 2022/2/8
+   Population............: 732
+   Number of cases.......: 0
+   Expected cases........: 3.47
+   Annual cases / 100000.: 0
+   Observed / expected...: 0
+   Relative risk.........: 0
+   Log likelihood ratio..: 3.474724
+   P-value...............: 0.929
+   Recurrence interval...: 8 days
+
+64.Location IDs included.: 94970
+   Coordinates / radius..: (37.914514 N, 122.646895 W) / 0 km
+   Time frame............: 2022/2/2 to 2022/2/8
+   Population............: 698
+   Number of cases.......: 0
+   Expected cases........: 3.31
+   Annual cases / 100000.: 0
+   Observed / expected...: 0
+   Relative risk.........: 0
+   Log likelihood ratio..: 3.313330
+   P-value...............: 0.960
+   Recurrence interval...: 7 days
+
+65.Location IDs included.: 93452
+   Coordinates / radius..: (35.709514 N, 121.207824 W) / 0 km
+   Time frame............: 2022/2/2 to 2022/2/8
+   Population............: 658
+   Number of cases.......: 0
+   Expected cases........: 3.12
+   Annual cases / 100000.: 0
+   Observed / expected...: 0
+   Relative risk.........: 0
+   Log likelihood ratio..: 3.123454
+   P-value...............: 0.982
+   Recurrence interval...: 7 days
+
+66.Location IDs included.: 95227
+   Coordinates / radius..: (38.206665 N, 121.043247 W) / 0 km
+   Time frame............: 2022/2/2 to 2022/2/8
+   Population............: 654
+   Number of cases.......: 0
+   Expected cases........: 3.10
+   Annual cases / 100000.: 0
+   Observed / expected...: 0
+   Relative risk.........: 0
+   Log likelihood ratio..: 3.104466
+   P-value...............: 0.982
+   Recurrence interval...: 7 days
+
+67.Location IDs included.: 95459
+   Coordinates / radius..: (38.981137 N, 123.590821 W) / 0 km
+   Time frame............: 2022/2/2 to 2022/2/8
+   Population............: 641
+   Number of cases.......: 0
+   Expected cases........: 3.04
+   Annual cases / 100000.: 0
+   Observed / expected...: 0
+   Relative risk.........: 0
+   Log likelihood ratio..: 3.042757
+   P-value...............: 0.983
+   Recurrence interval...: 7 days
+
+68.Location IDs included.: 95251
+   Coordinates / radius..: (38.082348 N, 120.454730 W) / 0 km
+   Time frame............: 2022/2/2 to 2022/2/8
+   Population............: 625
+   Number of cases.......: 0
+   Expected cases........: 2.97
+   Annual cases / 100000.: 0
+   Observed / expected...: 0
+   Relative risk.........: 0
+   Log likelihood ratio..: 2.966807
+   P-value...............: 0.987
+   Recurrence interval...: 7 days
+
+69.Location IDs included.: 93244
+   Coordinates / radius..: (36.466920 N, 119.015560 W) / 0 km
+   Time frame............: 2022/1/26 to 2022/2/8
+   Population............: 308
+   Number of cases.......: 0
+   Expected cases........: 2.92
+   Annual cases / 100000.: 0
+   Observed / expected...: 0
+   Relative risk.........: 0
+   Log likelihood ratio..: 2.924085
+   P-value...............: 0.987
+   Recurrence interval...: 7 days
+
+70.Location IDs included.: 95675
+   Coordinates / radius..: (38.544700 N, 120.740500 W) / 0 km
+   Time frame............: 2022/2/2 to 2022/2/8
+   Population............: 566
+   Number of cases.......: 0
+   Expected cases........: 2.69
+   Annual cases / 100000.: 0
+   Observed / expected...: 0
+   Relative risk.........: 0
+   Log likelihood ratio..: 2.686740
+   P-value...............: 0.990
+   Recurrence interval...: 7 days
+
+71.Location IDs included.: 96087
+   Coordinates / radius..: (40.623936 N, 122.615979 W) / 0 km
+   Time frame............: 2022/2/2 to 2022/2/8
+   Population............: 544
+   Number of cases.......: 0
+   Expected cases........: 2.58
+   Annual cases / 100000.: 0
+   Observed / expected...: 0
+   Relative risk.........: 0
+   Log likelihood ratio..: 2.582308
+   P-value...............: 0.994
+   Recurrence interval...: 7 days
+
+72.Location IDs included.: 94973
+   Coordinates / radius..: (38.012697 N, 122.639598 W) / 0 km
+   Time frame............: 2022/1/12 to 2022/2/8
+   Population............: 1010
+   Number of cases.......: 0
+   Expected cases........: 2.50
+   Annual cases / 100000.: 0
+   Observed / expected...: 0
+   Relative risk.........: 0
+   Log likelihood ratio..: 2.498220
+   P-value...............: 0.997
+   Recurrence interval...: 7 days
+
+73.Location IDs included.: 95420
+   Coordinates / radius..: (39.367347 N, 123.806364 W) / 0 km
+   Time frame............: 2022/2/2 to 2022/2/8
+   Population............: 523
+   Number of cases.......: 0
+   Expected cases........: 2.48
+   Annual cases / 100000.: 0
+   Observed / expected...: 0
+   Relative risk.........: 0
+   Log likelihood ratio..: 2.482624
+   P-value...............: 0.997
+   Recurrence interval...: 7 days
+
+74.Location IDs included.: 93524
+   Coordinates / radius..: (34.931987 N, 117.907127 W) / 0 km
+   Time frame............: 2022/1/19 to 2022/2/8
+   Population............: 165
+   Number of cases.......: 0
+   Expected cases........: 2.35
+   Annual cases / 100000.: 0
+   Observed / expected...: 0
+   Relative risk.........: 0
+   Log likelihood ratio..: 2.349711
+   P-value...............: 0.999
+   Recurrence interval...: 7 days
+
+75.Location IDs included.: 95585
+   Coordinates / radius..: (39.844707 N, 123.657004 W) / 0 km
+   Time frame............: 2022/2/2 to 2022/2/8
+   Population............: 457
+   Number of cases.......: 0
+   Expected cases........: 2.17
+   Annual cases / 100000.: 0
+   Observed / expected...: 0
+   Relative risk.........: 0
+   Log likelihood ratio..: 2.169329
+   P-value...............: 0.999
+   Recurrence interval...: 7 days
+_______________________________________________________________________________________________
+
+Warning: The following locations have a population totaling zero for the specified date(s).
+Location 89010, 2021/9/21
+Location 89010, 2021/9/28
+Location 89010, 2021/10/5
+Location 89010, 2021/10/12
+Location 89010, 2021/10/19
+Location 89010, 2021/10/26
+Location 89010, 2021/11/2
+Location 89010, 2021/11/9
+Location 89010, 2021/11/16
+Location 89010, 2021/11/23
+Location 89010, 2021/11/30
+Location 89010, 2021/12/7
+Location 89010, 2021/12/14
+Location 89010, 2021/12/21
+Location 89010, 2021/12/28
+Location 89010, 2022/1/4
+Location 89010, 2022/1/11
+Location 89010, 2022/1/18
+Location 89010, 2022/1/25
+Location 89010, 2022/2/1
+Location 89010, 2022/2/8
+Location 89019, 2021/9/21
+Location 89019, 2021/9/28
+Location 89019, 2021/10/5
+Location 89019, 2021/10/12
+Location 89019, 2021/10/19
+Location 89019, 2021/10/26
+Location 89019, 2021/11/2
+Location 89019, 2021/11/9
+Location 89019, 2021/11/16
+Location 89019, 2021/11/23
+Location 89019, 2021/11/30
+Location 89019, 2021/12/7
+Location 89019, 2021/12/14
+Location 89019, 2021/12/21
+Location 89019, 2021/12/28
+Location 89019, 2022/1/4
+Location 89019, 2022/1/11
+Location 89019, 2022/1/18
+Location 89019, 2022/1/25
+Location 89019, 2022/2/1
+Location 89019, 2022/2/8
+Location 89060, 2021/9/21
+Location 89060, 2021/9/28
+Location 89060, 2021/10/5
+Location 89060, 2021/10/12
+Location 89060, 2021/10/19
+Location 89060, 2021/10/26
+Location 89060, 2021/11/2
+Location 89060, 2021/11/9
+Location 89060, 2021/11/16
+Location 89060, 2021/11/23
+Location 89060, 2021/11/30
+Location 89060, 2021/12/7
+Location 89060, 2021/12/14
+Location 89060, 2021/12/21
+Location 89060, 2021/12/28
+Location 89060, 2022/1/4
+Location 89060, 2022/1/11
+Location 89060, 2022/1/18
+Location 89060, 2022/1/25
+Location 89060, 2022/2/1
+Location 89060, 2022/2/8
+Location 89061, 2021/9/21
+Location 89061, 2021/9/28
+Location 89061, 2021/10/5
+Location 89061, 2021/10/12
+Location 89061, 2021/10/19
+Location 89061, 2021/10/26
+Location 89061, 2021/11/2
+Location 89061, 2021/11/9
+Location 89061, 2021/11/16
+Location 89061, 2021/11/23
+Location 89061, 2021/11/30
+Location 89061, 2021/12/7
+Location 89061, 2021/12/14
+Location 89061, 2021/12/21
+Location 89061, 2021/12/28
+Location 89061, 2022/1/4
+Location 89061, 2022/1/11
+Location 89061, 2022/1/18
+Location 89061, 2022/1/25
+Location 89061, 2022/2/1
+Location 89061, 2022/2/8
+Location 89439, 2021/9/21
+Location 89439, 2021/9/28
+Location 89439, 2021/10/5
+Location 89439, 2021/10/12
+Location 89439, 2021/10/19
+Location 89439, 2021/10/26
+Location 89439, 2021/11/2
+Location 89439, 2021/11/9
+Location 89439, 2021/11/16
+Location 89439, 2021/11/23
+Location 89439, 2021/11/30
+Location 89439, 2021/12/7
+Location 89439, 2021/12/14
+Location 89439, 2021/12/21
+Location 89439, 2021/12/28
+Location 89439, 2022/1/4
+Location 89439, 2022/1/11
+Location 89439, 2022/1/18
+Location 89439, 2022/1/25
+Location 89439, 2022/2/1
+Location 89439, 2022/2/8
+Location 90010, 2021/10/26
+Location 90010, 2021/11/2
+Location 90010, 2021/11/9
+Location 90010, 2021/11/16
+Location 90010, 2021/11/23
+Location 90010, 2021/11/30
+Location 90010, 2021/12/7
+Location 90010, 2021/12/14
+Location 90010, 2021/12/21
+Location 90010, 2021/12/28
+Location 90010, 2022/1/4
+Location 90010, 2022/1/11
+Location 90010, 2022/1/18
+Location 90010, 2022/1/25
+Location 90010, 2022/2/1
+Location 90010, 2022/2/8
+Location 90021, 2022/1/11
+Location 90021, 2022/1/18
+Location 90021, 2022/1/25
+Location 90021, 2022/2/1
+Location 90021, 2022/2/8
+Location 90058, 2021/9/21
+Location 90058, 2021/9/28
+Location 90058, 2021/10/5
+Location 90058, 2021/10/12
+Location 90058, 2021/10/19
+Location 90058, 2021/10/26
+Location 90058, 2021/11/2
+Location 90058, 2021/11/9
+Location 90058, 2021/11/16
+Location 90058, 2021/11/23
+Location 90058, 2021/11/30
+Location 90058, 2021/12/7
+Location 90058, 2021/12/14
+Location 90058, 2021/12/21
+Location 90058, 2021/12/28
+Location 90058, 2022/1/4
+Location 90058, 2022/1/11
+Location 90058, 2022/1/18
+Location 90058, 2022/1/25
+Location 90058, 2022/2/1
+Location 90058, 2022/2/8
+Location 90067, 2021/9/21
+Location 90067, 2021/9/28
+Location 90067, 2021/10/5
+Location 90067, 2021/10/12
+Location 90067, 2021/10/19
+Location 90067, 2021/10/26
+Location 90067, 2021/11/2
+Location 90067, 2021/11/9
+Location 90067, 2021/11/16
+Location 90067, 2021/11/23
+Location 90067, 2021/11/30
+Location 90067, 2021/12/7
+Location 90067, 2021/12/14
+Location 90067, 2021/12/21
+Location 90067, 2021/12/28
+Location 90067, 2022/1/4
+Location 90067, 2022/1/11
+Location 90067, 2022/1/18
+Location 90067, 2022/1/25
+Location 90067, 2022/2/1
+Location 90067, 2022/2/8
+Location 90071, 2021/9/21
+Location 90071, 2021/9/28
+Location 90071, 2021/10/5
+Location 90071, 2021/10/12
+Location 90071, 2021/10/19
+Location 90071, 2021/10/26
+Location 90071, 2021/11/2
+Location 90071, 2021/11/9
+Location 90071, 2021/11/16
+Location 90071, 2021/11/23
+Location 90071, 2021/11/30
+Location 90071, 2021/12/7
+Location 90071, 2021/12/14
+Location 90071, 2021/12/21
+Location 90071, 2021/12/28
+Location 90071, 2022/1/4
+Location 90071, 2022/1/11
+Location 90071, 2022/1/18
+Location 90071, 2022/1/25
+Location 90071, 2022/2/1
+Location 90071, 2022/2/8
+Location 90073, 2021/9/21
+Location 90073, 2021/9/28
+Location 90073, 2021/10/5
+Location 90073, 2021/10/12
+Location 90073, 2021/10/19
+Location 90073, 2021/10/26
+Location 90073, 2021/11/2
+Location 90073, 2021/11/9
+Location 90073, 2021/11/16
+Location 90073, 2021/11/23
+Location 90073, 2021/11/30
+Location 90073, 2021/12/7
+Location 90073, 2021/12/14
+Location 90073, 2021/12/21
+Location 90073, 2021/12/28
+Location 90073, 2022/1/4
+Location 90073, 2022/1/11
+Location 90073, 2022/1/18
+Location 90073, 2022/1/25
+Location 90073, 2022/2/1
+Location 90073, 2022/2/8
+Location 90079, 2021/9/21
+Location 90079, 2021/9/28
+Location 90079, 2021/10/5
+Location 90079, 2021/10/12
+Location 90079, 2021/10/19
+Location 90079, 2021/10/26
+Location 90079, 2021/11/2
+Location 90079, 2021/11/9
+Location 90079, 2021/11/16
+Location 90079, 2021/11/23
+Location 90079, 2021/11/30
+Location 90079, 2021/12/7
+Location 90079, 2021/12/14
+Location 90079, 2021/12/21
+Location 90079, 2021/12/28
+Location 90079, 2022/1/4
+Location 90079, 2022/1/11
+Location 90079, 2022/1/18
+Location 90079, 2022/1/25
+Location 90079, 2022/2/1
+Location 90079, 2022/2/8
+Location 90089, 2021/9/21
+Location 90089, 2021/9/28
+Location 90089, 2021/10/5
+Location 90089, 2021/10/12
+Location 90089, 2021/10/19
+Location 90089, 2021/10/26
+Location 90089, 2021/11/2
+Location 90089, 2021/11/9
+Location 90089, 2021/11/16
+Location 90089, 2021/11/23
+Location 90089, 2021/11/30
+Location 90089, 2021/12/7
+Location 90089, 2021/12/14
+Location 90089, 2021/12/21
+Location 90089, 2021/12/28
+Location 90089, 2022/1/4
+Location 90089, 2022/1/11
+Location 90089, 2022/1/18
+Location 90089, 2022/1/25
+Location 90089, 2022/2/1
+Location 90089, 2022/2/8
+Location 90090, 2021/9/21
+Location 90090, 2021/9/28
+Location 90090, 2021/10/5
+Location 90090, 2021/10/12
+Location 90090, 2021/10/19
+Location 90090, 2021/10/26
+Location 90090, 2021/11/2
+Location 90090, 2021/11/9
+Location 90090, 2021/11/16
+Location 90090, 2021/11/23
+Location 90090, 2021/11/30
+Location 90090, 2021/12/7
+Location 90090, 2021/12/14
+Location 90090, 2021/12/21
+Location 90090, 2021/12/28
+Location 90090, 2022/1/4
+Location 90090, 2022/1/11
+Location 90090, 2022/1/18
+Location 90090, 2022/1/25
+Location 90090, 2022/2/1
+Location 90090, 2022/2/8
+Location 90095, 2021/9/21
+Location 90095, 2021/9/28
+Location 90095, 2021/10/5
+Location 90095, 2021/10/12
+Location 90095, 2021/10/19
+Location 90095, 2021/10/26
+Location 90095, 2021/11/2
+Location 90095, 2021/11/9
+Location 90095, 2021/11/16
+Location 90095, 2021/11/23
+Location 90095, 2021/11/30
+Location 90095, 2021/12/7
+Location 90095, 2021/12/14
+Location 90095, 2021/12/21
+Location 90095, 2021/12/28
+Location 90095, 2022/1/4
+Location 90095, 2022/1/11
+Location 90095, 2022/1/18
+Location 90095, 2022/1/25
+Location 90095, 2022/2/1
+Location 90095, 2022/2/8
+Location 90401, 2022/2/1
+Location 90401, 2022/2/8
+Location 90506, 2021/9/21
+Location 90506, 2021/9/28
+Location 90506, 2021/10/5
+Location 90506, 2021/10/12
+Location 90506, 2021/10/19
+Location 90506, 2021/10/26
+Location 90506, 2021/11/2
+Location 90506, 2021/11/9
+Location 90506, 2021/11/16
+Location 90506, 2021/11/23
+Location 90506, 2021/11/30
+Location 90506, 2021/12/7
+Location 90506, 2021/12/14
+Location 90506, 2021/12/21
+Location 90506, 2021/12/28
+Location 90506, 2022/1/4
+Location 90506, 2022/1/11
+Location 90506, 2022/1/18
+Location 90506, 2022/1/25
+Location 90506, 2022/2/1
+Location 90506, 2022/2/8
+Location 90743, 2021/9/21
+Location 90743, 2021/9/28
+Location 90743, 2021/10/5
+Location 90743, 2021/10/12
+Location 90743, 2021/10/19
+Location 90743, 2021/10/26
+Location 90743, 2021/11/2
+Location 90743, 2021/11/9
+Location 90743, 2021/11/16
+Location 90743, 2021/11/23
+Location 90743, 2021/11/30
+Location 90743, 2021/12/7
+Location 90743, 2021/12/14
+Location 90743, 2021/12/21
+Location 90743, 2021/12/28
+Location 90743, 2022/1/4
+Location 90743, 2022/1/11
+Location 90743, 2022/1/18
+Location 90743, 2022/1/25
+Location 90743, 2022/2/1
+Location 90743, 2022/2/8
+Location 90747, 2021/9/21
+Location 90747, 2021/9/28
+Location 90747, 2021/10/5
+Location 90747, 2021/10/12
+Location 90747, 2021/10/19
+Location 90747, 2021/10/26
+Location 90747, 2021/11/2
+Location 90747, 2021/11/9
+Location 90747, 2021/11/16
+Location 90747, 2021/11/23
+Location 90747, 2021/11/30
+Location 90747, 2021/12/7
+Location 90747, 2021/12/14
+Location 90747, 2021/12/21
+Location 90747, 2021/12/28
+Location 90747, 2022/1/4
+Location 90747, 2022/1/11
+Location 90747, 2022/1/18
+Location 90747, 2022/1/25
+Location 90747, 2022/2/1
+Location 90747, 2022/2/8
+Location 90822, 2021/9/21
+Location 90822, 2021/9/28
+Location 90822, 2021/10/5
+Location 90822, 2021/10/12
+Location 90822, 2021/10/19
+Location 90822, 2021/10/26
+Location 90822, 2021/11/2
+Location 90822, 2021/11/9
+Location 90822, 2021/11/16
+Location 90822, 2021/11/23
+Location 90822, 2021/11/30
+Location 90822, 2021/12/7
+Location 90822, 2021/12/14
+Location 90822, 2021/12/21
+Location 90822, 2021/12/28
+Location 90822, 2022/1/4
+Location 90822, 2022/1/11
+Location 90822, 2022/1/18
+Location 90822, 2022/1/25
+Location 90822, 2022/2/1
+Location 90822, 2022/2/8
+Location 90831, 2021/9/21
+Location 90831, 2021/9/28
+Location 90831, 2021/10/5
+Location 90831, 2021/10/12
+Location 90831, 2021/10/19
+Location 90831, 2021/10/26
+Location 90831, 2021/11/2
+Location 90831, 2021/11/9
+Location 90831, 2021/11/16
+Location 90831, 2021/11/23
+Location 90831, 2021/11/30
+Location 90831, 2021/12/7
+Location 90831, 2021/12/14
+Location 90831, 2021/12/21
+Location 90831, 2021/12/28
+Location 90831, 2022/1/4
+Location 90831, 2022/1/11
+Location 90831, 2022/1/18
+Location 90831, 2022/1/25
+Location 90831, 2022/2/1
+Location 90831, 2022/2/8
+Location 91046, 2021/9/21
+Location 91046, 2021/9/28
+Location 91046, 2021/10/5
+Location 91046, 2021/10/12
+Location 91046, 2021/10/19
+Location 91046, 2021/10/26
+Location 91046, 2021/11/2
+Location 91046, 2021/11/9
+Location 91046, 2021/11/16
+Location 91046, 2021/11/23
+Location 91046, 2021/11/30
+Location 91046, 2021/12/7
+Location 91046, 2021/12/14
+Location 91046, 2021/12/21
+Location 91046, 2021/12/28
+Location 91046, 2022/1/4
+Location 91046, 2022/1/11
+Location 91046, 2022/1/18
+Location 91046, 2022/1/25
+Location 91046, 2022/2/1
+Location 91210, 2021/9/21
+Location 91210, 2021/9/28
+Location 91210, 2021/10/5
+Location 91210, 2021/10/12
+Location 91210, 2021/10/19
+Location 91210, 2021/10/26
+Location 91210, 2021/11/2
+Location 91210, 2021/11/9
+Location 91210, 2021/11/16
+Location 91210, 2021/11/23
+Location 91210, 2021/11/30
+Location 91210, 2021/12/7
+Location 91210, 2021/12/14
+Location 91210, 2021/12/21
+Location 91210, 2021/12/28
+Location 91210, 2022/1/4
+Location 91210, 2022/1/11
+Location 91210, 2022/1/18
+Location 91210, 2022/1/25
+Location 91210, 2022/2/1
+Location 91210, 2022/2/8
+Location 91330, 2021/9/21
+Location 91330, 2021/9/28
+Location 91330, 2021/10/5
+Location 91330, 2021/10/12
+Location 91330, 2021/10/19
+Location 91330, 2021/10/26
+Location 91330, 2021/11/2
+Location 91330, 2021/11/9
+Location 91330, 2021/11/16
+Location 91330, 2021/11/23
+Location 91330, 2021/11/30
+Location 91330, 2021/12/7
+Location 91330, 2021/12/14
+Location 91330, 2021/12/21
+Location 91330, 2021/12/28
+Location 91330, 2022/1/4
+Location 91330, 2022/1/11
+Location 91330, 2022/1/18
+Location 91330, 2022/1/25
+Location 91330, 2022/2/1
+Location 91330, 2022/2/8
+Location 91371, 2021/9/21
+Location 91371, 2021/9/28
+Location 91371, 2021/10/5
+Location 91371, 2021/10/12
+Location 91371, 2021/10/19
+Location 91371, 2021/10/26
+Location 91371, 2021/11/2
+Location 91371, 2021/11/9
+Location 91371, 2021/11/16
+Location 91371, 2021/11/23
+Location 91371, 2021/11/30
+Location 91371, 2021/12/7
+Location 91371, 2021/12/14
+Location 91371, 2021/12/21
+Location 91371, 2021/12/28
+Location 91371, 2022/1/4
+Location 91371, 2022/1/11
+Location 91371, 2022/1/18
+Location 91371, 2022/1/25
+Location 91371, 2022/2/1
+Location 91371, 2022/2/8
+Location 91608, 2021/9/21
+Location 91608, 2021/9/28
+Location 91608, 2021/10/5
+Location 91608, 2021/10/12
+Location 91608, 2021/10/19
+Location 91608, 2021/10/26
+Location 91608, 2021/11/2
+Location 91608, 2021/11/9
+Location 91608, 2021/11/16
+Location 91608, 2021/11/23
+Location 91608, 2021/11/30
+Location 91608, 2021/12/7
+Location 91608, 2021/12/14
+Location 91608, 2021/12/21
+Location 91608, 2021/12/28
+Location 91608, 2022/1/4
+Location 91608, 2022/1/11
+Location 91608, 2022/1/18
+Location 91608, 2022/1/25
+Location 91608, 2022/2/1
+Location 91608, 2022/2/8
+Location 91708, 2021/9/21
+Location 91708, 2021/9/28
+Location 91708, 2021/10/5
+Location 91708, 2021/10/12
+Location 91708, 2021/10/19
+Location 91708, 2021/10/26
+Location 91708, 2021/11/2
+Location 91708, 2021/11/9
+Location 91708, 2021/11/16
+Location 91708, 2021/11/23
+Location 91708, 2021/11/30
+Location 91708, 2021/12/7
+Location 91708, 2021/12/14
+Location 91708, 2021/12/21
+Location 91708, 2021/12/28
+Location 91708, 2022/1/4
+Location 91708, 2022/1/11
+Location 91708, 2022/1/18
+Location 91708, 2022/1/25
+Location 91708, 2022/2/1
+Location 91708, 2022/2/8
+Location 91917, 2022/2/1
+Location 91917, 2022/2/8
+Location 91934, 2021/9/21
+Location 91934, 2021/9/28
+Location 91934, 2021/10/5
+Location 91934, 2021/10/12
+Location 91934, 2021/10/19
+Location 91934, 2021/10/26
+Location 91934, 2021/11/2
+Location 91934, 2021/11/9
+Location 91934, 2021/11/16
+Location 91934, 2021/11/23
+Location 91934, 2021/11/30
+Location 91934, 2021/12/7
+Location 91934, 2021/12/14
+Location 91934, 2021/12/21
+Location 91934, 2021/12/28
+Location 91934, 2022/1/4
+Location 91934, 2022/1/11
+Location 91934, 2022/1/18
+Location 91934, 2022/1/25
+Location 91934, 2022/2/1
+Location 91934, 2022/2/8
+Location 91948, 2021/9/21
+Location 91948, 2021/9/28
+Location 91948, 2021/10/5
+Location 91948, 2021/10/12
+Location 91948, 2021/10/19
+Location 91948, 2021/10/26
+Location 91948, 2021/11/2
+Location 91948, 2021/11/9
+Location 91948, 2021/11/16
+Location 91948, 2021/11/23
+Location 91948, 2021/11/30
+Location 91948, 2021/12/7
+Location 91948, 2021/12/14
+Location 91948, 2021/12/21
+Location 91948, 2021/12/28
+Location 91948, 2022/1/4
+Location 91948, 2022/1/11
+Location 91948, 2022/1/18
+Location 91948, 2022/1/25
+Location 91948, 2022/2/1
+Location 91948, 2022/2/8
+Location 91980, 2021/9/21
+Location 91980, 2021/9/28
+Location 91980, 2021/10/5
+Location 91980, 2021/10/12
+Location 91980, 2021/10/19
+Location 91980, 2021/10/26
+Location 91980, 2021/11/2
+Location 91980, 2021/11/9
+Location 91980, 2021/11/16
+Location 91980, 2021/11/23
+Location 91980, 2021/11/30
+Location 91980, 2021/12/7
+Location 91980, 2021/12/14
+Location 91980, 2021/12/21
+Location 91980, 2021/12/28
+Location 91980, 2022/1/4
+Location 91980, 2022/1/11
+Location 91980, 2022/1/18
+Location 91980, 2022/1/25
+Location 91980, 2022/2/1
+Location 91980, 2022/2/8
+Location 92004, 2021/9/28
+Location 92004, 2021/10/5
+Location 92004, 2021/10/12
+Location 92004, 2021/10/19
+Location 92004, 2021/10/26
+Location 92004, 2021/11/2
+Location 92004, 2021/11/9
+Location 92004, 2021/11/16
+Location 92004, 2021/11/23
+Location 92004, 2021/11/30
+Location 92004, 2021/12/7
+Location 92004, 2021/12/14
+Location 92004, 2021/12/21
+Location 92004, 2021/12/28
+Location 92004, 2022/1/4
+Location 92004, 2022/1/11
+Location 92004, 2022/1/18
+Location 92004, 2022/1/25
+Location 92004, 2022/2/1
+Location 92004, 2022/2/8
+Location 92060, 2021/10/12
+Location 92060, 2021/10/19
+Location 92060, 2021/11/16
+Location 92060, 2021/11/23
+Location 92060, 2021/11/30
+Location 92060, 2021/12/7
+Location 92060, 2021/12/14
+Location 92060, 2021/12/21
+Location 92060, 2021/12/28
+Location 92060, 2022/1/4
+Location 92060, 2022/1/11
+Location 92060, 2022/1/18
+Location 92060, 2022/1/25
+Location 92060, 2022/2/1
+Location 92060, 2022/2/8
+Location 92066, 2021/11/9
+Location 92066, 2021/12/28
+Location 92066, 2022/1/4
+Location 92066, 2022/1/11
+Location 92066, 2022/1/18
+Location 92066, 2022/1/25
+Location 92067, 2021/9/21
+Location 92067, 2021/9/28
+Location 92067, 2021/10/5
+Location 92067, 2021/10/12
+Location 92067, 2021/10/19
+Location 92067, 2021/10/26
+Location 92067, 2021/11/2
+Location 92067, 2021/11/9
+Location 92067, 2021/11/16
+Location 92067, 2021/11/23
+Location 92067, 2021/11/30
+Location 92067, 2021/12/7
+Location 92067, 2021/12/14
+Location 92067, 2021/12/21
+Location 92067, 2021/12/28
+Location 92067, 2022/1/4
+Location 92067, 2022/1/11
+Location 92067, 2022/1/18
+Location 92067, 2022/1/25
+Location 92067, 2022/2/1
+Location 92067, 2022/2/8
+Location 92103, 2021/9/21
+Location 92103, 2021/9/28
+Location 92103, 2021/10/5
+Location 92103, 2021/10/12
+Location 92103, 2021/10/19
+Location 92103, 2021/10/26
+Location 92103, 2021/11/2
+Location 92103, 2021/11/9
+Location 92103, 2021/11/16
+Location 92103, 2021/11/23
+Location 92103, 2021/11/30
+Location 92103, 2021/12/7
+Location 92103, 2021/12/14
+Location 92103, 2021/12/21
+Location 92103, 2021/12/28
+Location 92103, 2022/1/4
+Location 92103, 2022/1/11
+Location 92103, 2022/1/18
+Location 92103, 2022/1/25
+Location 92103, 2022/2/1
+Location 92103, 2022/2/8
+Location 92121, 2021/11/9
+Location 92121, 2021/11/16
+Location 92121, 2021/11/23
+Location 92121, 2021/11/30
+Location 92121, 2021/12/7
+Location 92121, 2021/12/14
+Location 92121, 2021/12/21
+Location 92121, 2021/12/28
+Location 92121, 2022/1/4
+Location 92121, 2022/1/11
+Location 92121, 2022/1/18
+Location 92121, 2022/1/25
+Location 92121, 2022/2/1
+Location 92121, 2022/2/8
+Location 92132, 2021/9/21
+Location 92132, 2021/9/28
+Location 92132, 2021/10/5
+Location 92132, 2021/10/12
+Location 92132, 2021/10/19
+Location 92132, 2021/10/26
+Location 92132, 2021/11/2
+Location 92132, 2021/11/9
+Location 92132, 2021/11/16
+Location 92132, 2021/11/23
+Location 92132, 2021/11/30
+Location 92132, 2021/12/7
+Location 92132, 2021/12/14
+Location 92132, 2021/12/21
+Location 92132, 2021/12/28
+Location 92132, 2022/1/4
+Location 92132, 2022/1/11
+Location 92132, 2022/1/18
+Location 92132, 2022/1/25
+Location 92132, 2022/2/1
+Location 92132, 2022/2/8
+Location 92134, 2021/9/21
+Location 92134, 2021/9/28
+Location 92134, 2021/10/5
+Location 92134, 2021/10/12
+Location 92134, 2021/10/19
+Location 92134, 2021/10/26
+Location 92134, 2021/11/2
+Location 92134, 2021/11/9
+Location 92134, 2021/11/16
+Location 92134, 2021/11/23
+Location 92134, 2021/11/30
+Location 92134, 2021/12/7
+Location 92134, 2021/12/14
+Location 92134, 2021/12/21
+Location 92134, 2021/12/28
+Location 92134, 2022/1/4
+Location 92134, 2022/1/11
+Location 92134, 2022/1/18
+Location 92134, 2022/1/25
+Location 92134, 2022/2/1
+Location 92134, 2022/2/8
+Location 92135, 2021/9/21
+Location 92135, 2021/9/28
+Location 92135, 2021/10/5
+Location 92135, 2021/10/12
+Location 92135, 2021/10/19
+Location 92135, 2021/10/26
+Location 92135, 2021/11/2
+Location 92135, 2021/11/9
+Location 92135, 2021/11/16
+Location 92135, 2021/11/23
+Location 92135, 2021/11/30
+Location 92135, 2021/12/7
+Location 92135, 2021/12/14
+Location 92135, 2021/12/21
+Location 92135, 2021/12/28
+Location 92135, 2022/1/4
+Location 92135, 2022/1/11
+Location 92135, 2022/1/18
+Location 92135, 2022/1/25
+Location 92135, 2022/2/1
+Location 92135, 2022/2/8
+Location 92140, 2021/9/21
+Location 92140, 2021/9/28
+Location 92140, 2021/10/5
+Location 92140, 2021/10/12
+Location 92140, 2021/10/19
+Location 92140, 2021/10/26
+Location 92140, 2021/11/2
+Location 92140, 2021/11/9
+Location 92140, 2021/11/16
+Location 92140, 2021/11/23
+Location 92140, 2021/11/30
+Location 92140, 2021/12/7
+Location 92140, 2021/12/14
+Location 92140, 2021/12/21
+Location 92140, 2021/12/28
+Location 92140, 2022/1/4
+Location 92140, 2022/1/11
+Location 92140, 2022/1/18
+Location 92140, 2022/1/25
+Location 92140, 2022/2/1
+Location 92140, 2022/2/8
+Location 92145, 2021/9/21
+Location 92145, 2021/9/28
+Location 92145, 2021/10/5
+Location 92145, 2021/10/12
+Location 92145, 2021/10/19
+Location 92145, 2021/10/26
+Location 92145, 2021/11/2
+Location 92145, 2021/11/9
+Location 92145, 2021/11/16
+Location 92145, 2021/11/23
+Location 92145, 2021/11/30
+Location 92145, 2021/12/7
+Location 92145, 2021/12/14
+Location 92145, 2021/12/21
+Location 92145, 2021/12/28
+Location 92145, 2022/1/4
+Location 92145, 2022/1/11
+Location 92145, 2022/1/18
+Location 92145, 2022/1/25
+Location 92145, 2022/2/1
+Location 92145, 2022/2/8
+Location 92147, 2021/9/21
+Location 92147, 2021/9/28
+Location 92147, 2021/10/5
+Location 92147, 2021/10/12
+Location 92147, 2021/10/19
+Location 92147, 2021/10/26
+Location 92147, 2021/11/2
+Location 92147, 2021/11/9
+Location 92147, 2021/11/16
+Location 92147, 2021/11/23
+Location 92147, 2021/11/30
+Location 92147, 2021/12/7
+Location 92147, 2021/12/14
+Location 92147, 2021/12/21
+Location 92147, 2021/12/28
+Location 92147, 2022/1/4
+Location 92147, 2022/1/11
+Location 92147, 2022/1/18
+Location 92147, 2022/1/25
+Location 92147, 2022/2/1
+Location 92147, 2022/2/8
+Location 92155, 2021/9/21
+Location 92155, 2021/9/28
+Location 92155, 2021/10/5
+Location 92155, 2021/10/12
+Location 92155, 2021/10/19
+Location 92155, 2021/10/26
+Location 92155, 2021/11/2
+Location 92155, 2021/11/9
+Location 92155, 2021/11/16
+Location 92155, 2021/11/23
+Location 92155, 2021/11/30
+Location 92155, 2021/12/7
+Location 92155, 2021/12/14
+Location 92155, 2021/12/21
+Location 92155, 2021/12/28
+Location 92155, 2022/1/4
+Location 92155, 2022/1/11
+Location 92155, 2022/1/18
+Location 92155, 2022/1/25
+Location 92155, 2022/2/1
+Location 92155, 2022/2/8
+Location 92173, 2021/9/21
+Location 92173, 2021/9/28
+Location 92173, 2021/10/5
+Location 92173, 2021/10/12
+Location 92173, 2021/10/19
+Location 92173, 2021/10/26
+Location 92173, 2021/11/2
+Location 92173, 2021/11/9
+Location 92173, 2021/11/16
+Location 92173, 2021/11/23
+Location 92173, 2021/11/30
+Location 92173, 2021/12/7
+Location 92173, 2021/12/14
+Location 92173, 2021/12/21
+Location 92173, 2021/12/28
+Location 92173, 2022/1/4
+Location 92173, 2022/1/11
+Location 92173, 2022/1/18
+Location 92173, 2022/1/25
+Location 92173, 2022/2/1
+Location 92173, 2022/2/8
+Location 92222, 2021/9/21
+Location 92222, 2021/9/28
+Location 92222, 2021/10/5
+Location 92222, 2021/10/12
+Location 92222, 2021/10/19
+Location 92222, 2021/10/26
+Location 92222, 2021/11/2
+Location 92222, 2021/11/9
+Location 92222, 2021/11/16
+Location 92222, 2021/11/23
+Location 92222, 2021/11/30
+Location 92222, 2021/12/7
+Location 92222, 2021/12/14
+Location 92222, 2021/12/21
+Location 92222, 2021/12/28
+Location 92222, 2022/1/4
+Location 92222, 2022/1/11
+Location 92222, 2022/1/18
+Location 92222, 2022/1/25
+Location 92222, 2022/2/1
+Location 92222, 2022/2/8
+Location 92231, 2021/9/21
+Location 92231, 2021/9/28
+Location 92231, 2021/10/5
+Location 92231, 2021/10/12
+Location 92231, 2021/10/19
+Location 92231, 2021/10/26
+Location 92231, 2021/11/2
+Location 92231, 2021/11/9
+Location 92231, 2021/11/16
+Location 92231, 2021/11/23
+Location 92231, 2021/11/30
+Location 92231, 2021/12/7
+Location 92231, 2021/12/14
+Location 92231, 2021/12/21
+Location 92231, 2021/12/28
+Location 92231, 2022/1/4
+Location 92231, 2022/1/11
+Location 92231, 2022/1/18
+Location 92231, 2022/1/25
+Location 92231, 2022/2/1
+Location 92231, 2022/2/8
+Location 92259, 2021/9/21
+Location 92259, 2021/9/28
+Location 92259, 2021/10/5
+Location 92259, 2021/10/12
+Location 92259, 2021/10/19
+Location 92259, 2021/10/26
+Location 92259, 2021/11/2
+Location 92259, 2021/11/9
+Location 92259, 2021/11/16
+Location 92259, 2021/11/23
+Location 92259, 2021/11/30
+Location 92259, 2021/12/7
+Location 92259, 2021/12/14
+Location 92259, 2021/12/21
+Location 92259, 2021/12/28
+Location 92259, 2022/1/4
+Location 92259, 2022/1/11
+Location 92259, 2022/1/18
+Location 92259, 2022/1/25
+Location 92259, 2022/2/1
+Location 92259, 2022/2/8
+Location 92266, 2021/9/21
+Location 92266, 2021/9/28
+Location 92266, 2021/10/5
+Location 92266, 2021/10/12
+Location 92266, 2021/10/19
+Location 92266, 2021/10/26
+Location 92266, 2021/11/2
+Location 92266, 2021/11/9
+Location 92266, 2021/11/16
+Location 92266, 2021/11/23
+Location 92266, 2021/11/30
+Location 92266, 2021/12/7
+Location 92266, 2021/12/14
+Location 92266, 2021/12/21
+Location 92266, 2021/12/28
+Location 92266, 2022/1/4
+Location 92266, 2022/1/11
+Location 92266, 2022/1/18
+Location 92266, 2022/1/25
+Location 92267, 2021/9/21
+Location 92267, 2021/9/28
+Location 92267, 2021/10/5
+Location 92267, 2021/10/12
+Location 92267, 2021/10/19
+Location 92267, 2021/10/26
+Location 92267, 2021/11/2
+Location 92267, 2021/11/9
+Location 92267, 2021/11/16
+Location 92267, 2021/11/23
+Location 92267, 2021/11/30
+Location 92267, 2021/12/7
+Location 92267, 2021/12/14
+Location 92267, 2021/12/21
+Location 92267, 2021/12/28
+Location 92267, 2022/1/4
+Location 92267, 2022/1/11
+Location 92267, 2022/1/18
+Location 92267, 2022/1/25
+Location 92267, 2022/2/1
+Location 92267, 2022/2/8
+Location 92280, 2021/9/21
+Location 92280, 2021/9/28
+Location 92280, 2021/10/5
+Location 92280, 2021/10/12
+Location 92280, 2021/10/19
+Location 92280, 2021/10/26
+Location 92280, 2021/11/2
+Location 92280, 2021/11/9
+Location 92280, 2021/11/16
+Location 92280, 2021/11/23
+Location 92280, 2021/11/30
+Location 92280, 2021/12/7
+Location 92280, 2021/12/14
+Location 92280, 2021/12/21
+Location 92280, 2021/12/28
+Location 92280, 2022/1/4
+Location 92280, 2022/1/11
+Location 92280, 2022/1/18
+Location 92280, 2022/1/25
+Location 92280, 2022/2/1
+Location 92280, 2022/2/8
+Location 92304, 2021/9/21
+Location 92304, 2021/9/28
+Location 92304, 2021/10/5
+Location 92304, 2021/10/12
+Location 92304, 2021/10/19
+Location 92304, 2021/10/26
+Location 92304, 2021/11/2
+Location 92304, 2021/11/9
+Location 92304, 2021/11/16
+Location 92304, 2021/11/23
+Location 92304, 2021/11/30
+Location 92304, 2021/12/7
+Location 92304, 2021/12/14
+Location 92304, 2021/12/21
+Location 92304, 2021/12/28
+Location 92304, 2022/1/4
+Location 92304, 2022/1/11
+Location 92304, 2022/1/18
+Location 92304, 2022/1/25
+Location 92304, 2022/2/1
+Location 92304, 2022/2/8
+Location 92305, 2021/9/21
+Location 92305, 2021/9/28
+Location 92305, 2021/10/5
+Location 92305, 2021/10/12
+Location 92305, 2021/10/19
+Location 92305, 2021/10/26
+Location 92305, 2021/11/2
+Location 92305, 2021/11/9
+Location 92305, 2021/11/16
+Location 92305, 2021/11/23
+Location 92305, 2021/11/30
+Location 92305, 2021/12/7
+Location 92305, 2021/12/14
+Location 92305, 2021/12/21
+Location 92305, 2021/12/28
+Location 92305, 2022/1/4
+Location 92305, 2022/1/11
+Location 92305, 2022/1/18
+Location 92305, 2022/1/25
+Location 92305, 2022/2/1
+Location 92305, 2022/2/8
+Location 92322, 2021/9/21
+Location 92322, 2021/9/28
+Location 92322, 2021/10/5
+Location 92322, 2021/10/12
+Location 92322, 2021/10/19
+Location 92322, 2021/10/26
+Location 92322, 2021/11/2
+Location 92322, 2021/11/9
+Location 92322, 2021/11/16
+Location 92322, 2021/11/23
+Location 92322, 2021/11/30
+Location 92322, 2021/12/7
+Location 92322, 2021/12/14
+Location 92322, 2021/12/21
+Location 92322, 2021/12/28
+Location 92322, 2022/1/4
+Location 92322, 2022/1/11
+Location 92322, 2022/1/18
+Location 92322, 2022/1/25
+Location 92322, 2022/2/1
+Location 92322, 2022/2/8
+Location 92328, 2021/9/21
+Location 92328, 2021/9/28
+Location 92328, 2021/10/5
+Location 92328, 2021/10/12
+Location 92328, 2021/10/19
+Location 92328, 2021/10/26
+Location 92328, 2021/11/2
+Location 92328, 2021/11/9
+Location 92328, 2021/11/16
+Location 92328, 2021/11/23
+Location 92332, 2021/9/21
+Location 92332, 2021/9/28
+Location 92332, 2021/10/5
+Location 92332, 2021/10/12
+Location 92332, 2021/10/19
+Location 92332, 2021/10/26
+Location 92332, 2021/11/2
+Location 92332, 2021/11/9
+Location 92332, 2021/11/16
+Location 92332, 2021/11/23
+Location 92332, 2021/11/30
+Location 92332, 2021/12/7
+Location 92332, 2021/12/14
+Location 92332, 2021/12/21
+Location 92332, 2021/12/28
+Location 92332, 2022/1/4
+Location 92332, 2022/1/11
+Location 92332, 2022/1/18
+Location 92332, 2022/1/25
+Location 92332, 2022/2/1
+Location 92332, 2022/2/8
+Location 92338, 2021/9/21
+Location 92338, 2021/9/28
+Location 92338, 2021/10/5
+Location 92338, 2021/10/12
+Location 92338, 2021/10/19
+Location 92338, 2021/10/26
+Location 92338, 2021/11/2
+Location 92338, 2021/11/9
+Location 92338, 2021/11/16
+Location 92338, 2021/11/23
+Location 92338, 2021/11/30
+Location 92338, 2021/12/7
+Location 92338, 2021/12/14
+Location 92338, 2021/12/21
+Location 92338, 2021/12/28
+Location 92338, 2022/1/4
+Location 92338, 2022/1/11
+Location 92338, 2022/1/18
+Location 92338, 2022/1/25
+Location 92338, 2022/2/1
+Location 92338, 2022/2/8
+Location 92341, 2021/9/21
+Location 92341, 2021/9/28
+Location 92341, 2021/10/5
+Location 92341, 2021/10/12
+Location 92341, 2021/10/19
+Location 92341, 2021/10/26
+Location 92341, 2021/11/2
+Location 92341, 2021/11/9
+Location 92341, 2021/11/16
+Location 92341, 2021/11/23
+Location 92341, 2021/11/30
+Location 92341, 2021/12/7
+Location 92341, 2021/12/14
+Location 92341, 2021/12/21
+Location 92341, 2021/12/28
+Location 92341, 2022/1/4
+Location 92341, 2022/1/11
+Location 92341, 2022/1/18
+Location 92341, 2022/1/25
+Location 92341, 2022/2/1
+Location 92341, 2022/2/8
+Location 92364, 2021/9/21
+Location 92364, 2021/9/28
+Location 92364, 2021/10/5
+Location 92364, 2021/10/12
+Location 92364, 2021/10/19
+Location 92364, 2021/10/26
+Location 92364, 2021/11/2
+Location 92364, 2021/11/9
+Location 92364, 2021/11/16
+Location 92364, 2021/11/23
+Location 92364, 2021/11/30
+Location 92364, 2021/12/7
+Location 92364, 2021/12/14
+Location 92364, 2021/12/21
+Location 92364, 2021/12/28
+Location 92364, 2022/1/4
+Location 92364, 2022/1/11
+Location 92364, 2022/1/18
+Location 92364, 2022/1/25
+Location 92364, 2022/2/1
+Location 92364, 2022/2/8
+Location 92378, 2021/9/21
+Location 92378, 2021/9/28
+Location 92378, 2021/10/5
+Location 92378, 2021/10/12
+Location 92378, 2021/10/19
+Location 92378, 2021/10/26
+Location 92378, 2021/11/2
+Location 92378, 2021/11/9
+Location 92378, 2021/11/16
+Location 92378, 2021/11/23
+Location 92378, 2021/11/30
+Location 92378, 2021/12/7
+Location 92378, 2021/12/14
+Location 92378, 2021/12/21
+Location 92378, 2021/12/28
+Location 92378, 2022/1/4
+Location 92378, 2022/1/11
+Location 92378, 2022/1/18
+Location 92378, 2022/1/25
+Location 92378, 2022/2/1
+Location 92378, 2022/2/8
+Location 92384, 2021/9/21
+Location 92384, 2021/9/28
+Location 92384, 2021/10/5
+Location 92384, 2021/10/12
+Location 92384, 2021/10/19
+Location 92384, 2021/10/26
+Location 92384, 2021/11/2
+Location 92384, 2021/11/9
+Location 92384, 2021/11/16
+Location 92384, 2021/11/23
+Location 92384, 2021/11/30
+Location 92384, 2021/12/7
+Location 92384, 2021/12/14
+Location 92384, 2021/12/21
+Location 92384, 2021/12/28
+Location 92384, 2022/1/4
+Location 92384, 2022/1/11
+Location 92384, 2022/1/18
+Location 92384, 2022/1/25
+Location 92384, 2022/2/1
+Location 92384, 2022/2/8
+Location 92385, 2021/9/21
+Location 92385, 2021/9/28
+Location 92385, 2021/10/5
+Location 92385, 2021/10/12
+Location 92385, 2021/10/19
+Location 92385, 2021/10/26
+Location 92385, 2021/11/2
+Location 92385, 2021/11/9
+Location 92385, 2021/11/16
+Location 92385, 2021/11/23
+Location 92385, 2021/11/30
+Location 92385, 2021/12/7
+Location 92385, 2021/12/14
+Location 92385, 2021/12/21
+Location 92385, 2021/12/28
+Location 92385, 2022/1/4
+Location 92385, 2022/1/11
+Location 92385, 2022/1/18
+Location 92385, 2022/1/25
+Location 92385, 2022/2/1
+Location 92385, 2022/2/8
+Location 92389, 2021/9/21
+Location 92389, 2021/9/28
+Location 92389, 2021/10/5
+Location 92389, 2021/10/12
+Location 92389, 2021/10/19
+Location 92389, 2021/10/26
+Location 92389, 2021/11/2
+Location 92389, 2021/11/9
+Location 92389, 2021/11/16
+Location 92389, 2021/11/23
+Location 92389, 2021/11/30
+Location 92389, 2021/12/7
+Location 92389, 2021/12/14
+Location 92389, 2021/12/21
+Location 92389, 2021/12/28
+Location 92389, 2022/1/4
+Location 92389, 2022/1/11
+Location 92389, 2022/1/18
+Location 92389, 2022/1/25
+Location 92389, 2022/2/1
+Location 92389, 2022/2/8
+Location 92602, 2021/12/14
+Location 92602, 2021/12/21
+Location 92602, 2021/12/28
+Location 92602, 2022/1/4
+Location 92602, 2022/1/11
+Location 92602, 2022/1/18
+Location 92602, 2022/1/25
+Location 92602, 2022/2/1
+Location 92602, 2022/2/8
+Location 92678, 2021/9/21
+Location 92678, 2021/9/28
+Location 92678, 2021/10/5
+Location 92678, 2021/10/12
+Location 92678, 2021/10/19
+Location 92678, 2021/10/26
+Location 92678, 2021/11/2
+Location 92678, 2021/11/9
+Location 92678, 2021/11/16
+Location 92678, 2021/11/23
+Location 92678, 2021/11/30
+Location 92678, 2021/12/7
+Location 92678, 2021/12/14
+Location 92678, 2021/12/21
+Location 92678, 2021/12/28
+Location 92678, 2022/1/4
+Location 92678, 2022/1/11
+Location 92678, 2022/1/18
+Location 92678, 2022/1/25
+Location 92678, 2022/2/1
+Location 92678, 2022/2/8
+Location 93042, 2021/9/21
+Location 93042, 2021/9/28
+Location 93042, 2021/10/5
+Location 93042, 2021/10/12
+Location 93042, 2021/10/19
+Location 93042, 2021/10/26
+Location 93042, 2021/11/2
+Location 93042, 2021/11/9
+Location 93042, 2021/11/16
+Location 93042, 2021/11/23
+Location 93042, 2021/11/30
+Location 93042, 2021/12/7
+Location 93042, 2021/12/14
+Location 93042, 2021/12/21
+Location 93042, 2021/12/28
+Location 93042, 2022/1/4
+Location 93042, 2022/1/11
+Location 93042, 2022/1/18
+Location 93042, 2022/1/25
+Location 93042, 2022/2/1
+Location 93042, 2022/2/8
+Location 93043, 2021/9/21
+Location 93043, 2021/9/28
+Location 93043, 2021/10/5
+Location 93043, 2021/10/12
+Location 93043, 2021/10/19
+Location 93043, 2021/10/26
+Location 93043, 2021/11/2
+Location 93043, 2021/11/9
+Location 93043, 2021/11/16
+Location 93043, 2021/11/23
+Location 93043, 2021/11/30
+Location 93043, 2021/12/7
+Location 93043, 2021/12/14
+Location 93043, 2021/12/21
+Location 93043, 2021/12/28
+Location 93043, 2022/1/4
+Location 93043, 2022/1/11
+Location 93043, 2022/1/18
+Location 93043, 2022/1/25
+Location 93043, 2022/2/1
+Location 93043, 2022/2/8
+Location 93064, 2021/9/21
+Location 93064, 2021/9/28
+Location 93064, 2021/10/5
+Location 93064, 2021/10/12
+Location 93064, 2021/10/19
+Location 93064, 2021/10/26
+Location 93064, 2021/11/2
+Location 93064, 2021/11/9
+Location 93064, 2021/11/16
+Location 93064, 2021/11/23
+Location 93064, 2021/11/30
+Location 93064, 2021/12/7
+Location 93064, 2021/12/14
+Location 93064, 2021/12/21
+Location 93064, 2021/12/28
+Location 93064, 2022/1/4
+Location 93064, 2022/1/11
+Location 93064, 2022/1/18
+Location 93064, 2022/1/25
+Location 93064, 2022/2/1
+Location 93064, 2022/2/8
+Location 93067, 2021/9/21
+Location 93067, 2021/9/28
+Location 93067, 2021/10/5
+Location 93067, 2021/10/12
+Location 93067, 2021/10/19
+Location 93067, 2021/10/26
+Location 93067, 2021/11/2
+Location 93067, 2021/11/9
+Location 93067, 2021/11/16
+Location 93067, 2021/11/23
+Location 93067, 2021/11/30
+Location 93067, 2021/12/7
+Location 93067, 2021/12/14
+Location 93067, 2021/12/21
+Location 93067, 2021/12/28
+Location 93067, 2022/1/4
+Location 93067, 2022/1/11
+Location 93067, 2022/1/18
+Location 93067, 2022/1/25
+Location 93067, 2022/2/1
+Location 93067, 2022/2/8
+Location 93207, 2021/9/21
+Location 93207, 2021/9/28
+Location 93207, 2021/10/5
+Location 93207, 2021/10/12
+Location 93207, 2021/10/19
+Location 93207, 2021/10/26
+Location 93207, 2021/11/2
+Location 93207, 2021/11/9
+Location 93207, 2021/11/16
+Location 93207, 2021/11/23
+Location 93207, 2021/11/30
+Location 93207, 2021/12/7
+Location 93207, 2021/12/14
+Location 93207, 2021/12/21
+Location 93207, 2021/12/28
+Location 93207, 2022/1/4
+Location 93207, 2022/1/11
+Location 93207, 2022/1/18
+Location 93207, 2022/1/25
+Location 93207, 2022/2/1
+Location 93207, 2022/2/8
+Location 93208, 2021/9/21
+Location 93208, 2021/9/28
+Location 93208, 2021/10/5
+Location 93208, 2021/10/12
+Location 93208, 2021/10/19
+Location 93208, 2021/10/26
+Location 93208, 2021/11/2
+Location 93208, 2021/11/9
+Location 93208, 2021/11/16
+Location 93208, 2021/11/23
+Location 93208, 2021/11/30
+Location 93208, 2021/12/7
+Location 93208, 2021/12/14
+Location 93208, 2021/12/21
+Location 93208, 2021/12/28
+Location 93208, 2022/1/4
+Location 93208, 2022/1/11
+Location 93208, 2022/1/18
+Location 93208, 2022/1/25
+Location 93208, 2022/2/1
+Location 93208, 2022/2/8
+Location 93220, 2021/9/28
+Location 93220, 2021/11/16
+Location 93220, 2021/11/23
+Location 93220, 2021/11/30
+Location 93220, 2021/12/7
+Location 93220, 2021/12/14
+Location 93220, 2021/12/21
+Location 93220, 2021/12/28
+Location 93220, 2022/1/4
+Location 93220, 2022/1/11
+Location 93220, 2022/1/18
+Location 93220, 2022/1/25
+Location 93220, 2022/2/1
+Location 93220, 2022/2/8
+Location 93226, 2021/11/23
+Location 93226, 2021/11/30
+Location 93226, 2021/12/7
+Location 93226, 2021/12/14
+Location 93226, 2021/12/21
+Location 93226, 2021/12/28
+Location 93226, 2022/1/4
+Location 93226, 2022/1/11
+Location 93226, 2022/1/18
+Location 93226, 2022/1/25
+Location 93226, 2022/2/1
+Location 93226, 2022/2/8
+Location 93238, 2021/9/21
+Location 93238, 2021/9/28
+Location 93238, 2021/10/5
+Location 93238, 2021/10/12
+Location 93238, 2021/10/19
+Location 93238, 2021/10/26
+Location 93238, 2021/11/2
+Location 93238, 2021/11/9
+Location 93238, 2021/11/16
+Location 93238, 2021/11/23
+Location 93238, 2021/11/30
+Location 93238, 2021/12/7
+Location 93238, 2021/12/14
+Location 93238, 2021/12/21
+Location 93238, 2021/12/28
+Location 93238, 2022/1/4
+Location 93238, 2022/1/11
+Location 93238, 2022/1/18
+Location 93238, 2022/1/25
+Location 93238, 2022/2/1
+Location 93238, 2022/2/8
+Location 93260, 2021/9/21
+Location 93260, 2021/9/28
+Location 93260, 2021/10/5
+Location 93260, 2021/10/12
+Location 93260, 2021/10/19
+Location 93260, 2021/10/26
+Location 93260, 2021/11/2
+Location 93260, 2021/11/9
+Location 93260, 2021/11/16
+Location 93260, 2021/11/23
+Location 93260, 2021/11/30
+Location 93260, 2021/12/7
+Location 93260, 2021/12/14
+Location 93260, 2021/12/21
+Location 93260, 2021/12/28
+Location 93260, 2022/1/4
+Location 93260, 2022/1/11
+Location 93260, 2022/1/18
+Location 93260, 2022/1/25
+Location 93260, 2022/2/1
+Location 93260, 2022/2/8
+Location 93262, 2021/9/21
+Location 93262, 2021/9/28
+Location 93262, 2021/10/5
+Location 93262, 2021/10/12
+Location 93262, 2021/10/19
+Location 93262, 2021/10/26
+Location 93262, 2021/11/2
+Location 93262, 2021/11/9
+Location 93262, 2021/11/16
+Location 93262, 2021/11/23
+Location 93262, 2021/11/30
+Location 93262, 2021/12/7
+Location 93262, 2021/12/14
+Location 93262, 2021/12/21
+Location 93262, 2021/12/28
+Location 93262, 2022/1/4
+Location 93262, 2022/1/11
+Location 93262, 2022/1/18
+Location 93262, 2022/1/25
+Location 93262, 2022/2/1
+Location 93262, 2022/2/8
+Location 93276, 2021/9/21
+Location 93276, 2021/9/28
+Location 93276, 2021/10/5
+Location 93276, 2021/10/12
+Location 93276, 2021/10/19
+Location 93276, 2021/10/26
+Location 93276, 2021/11/2
+Location 93276, 2021/11/9
+Location 93276, 2021/11/16
+Location 93276, 2021/11/23
+Location 93276, 2021/11/30
+Location 93276, 2021/12/7
+Location 93276, 2021/12/14
+Location 93276, 2021/12/21
+Location 93276, 2021/12/28
+Location 93276, 2022/1/4
+Location 93276, 2022/1/11
+Location 93276, 2022/1/18
+Location 93276, 2022/1/25
+Location 93276, 2022/2/1
+Location 93276, 2022/2/8
+Location 93287, 2021/11/2
+Location 93287, 2021/11/9
+Location 93287, 2021/11/16
+Location 93287, 2021/11/23
+Location 93287, 2021/11/30
+Location 93287, 2021/12/7
+Location 93287, 2021/12/14
+Location 93287, 2021/12/21
+Location 93287, 2021/12/28
+Location 93287, 2022/1/4
+Location 93287, 2022/1/11
+Location 93287, 2022/1/18
+Location 93287, 2022/1/25
+Location 93287, 2022/2/1
+Location 93287, 2022/2/8
+Location 93410, 2021/9/21
+Location 93410, 2021/9/28
+Location 93410, 2021/10/5
+Location 93410, 2021/10/12
+Location 93410, 2021/10/19
+Location 93410, 2021/10/26
+Location 93410, 2021/11/2
+Location 93410, 2021/11/9
+Location 93410, 2021/11/16
+Location 93410, 2021/11/23
+Location 93410, 2021/11/30
+Location 93410, 2021/12/7
+Location 93410, 2021/12/14
+Location 93410, 2021/12/21
+Location 93410, 2021/12/28
+Location 93410, 2022/1/4
+Location 93410, 2022/1/11
+Location 93410, 2022/1/18
+Location 93410, 2022/1/25
+Location 93410, 2022/2/1
+Location 93410, 2022/2/8
+Location 93424, 2021/9/21
+Location 93424, 2021/9/28
+Location 93424, 2021/10/5
+Location 93424, 2021/10/12
+Location 93424, 2021/10/19
+Location 93424, 2021/10/26
+Location 93424, 2021/11/2
+Location 93424, 2021/11/9
+Location 93424, 2021/11/16
+Location 93424, 2021/11/23
+Location 93424, 2021/11/30
+Location 93424, 2021/12/7
+Location 93424, 2021/12/14
+Location 93424, 2021/12/21
+Location 93424, 2021/12/28
+Location 93424, 2022/1/4
+Location 93424, 2022/1/11
+Location 93424, 2022/1/18
+Location 93424, 2022/1/25
+Location 93424, 2022/2/1
+Location 93424, 2022/2/8
+Location 93429, 2021/10/12
+Location 93429, 2021/10/26
+Location 93429, 2021/11/2
+Location 93429, 2021/11/9
+Location 93429, 2022/1/11
+Location 93429, 2022/1/18
+Location 93512, 2021/9/21
+Location 93512, 2021/9/28
+Location 93512, 2021/10/5
+Location 93512, 2021/10/12
+Location 93512, 2021/11/9
+Location 93512, 2021/11/16
+Location 93512, 2021/11/23
+Location 93512, 2021/11/30
+Location 93512, 2022/1/11
+Location 93512, 2022/1/18
+Location 93512, 2022/1/25
+Location 93512, 2022/2/1
+Location 93512, 2022/2/8
+Location 93519, 2021/9/21
+Location 93519, 2021/9/28
+Location 93519, 2021/10/5
+Location 93519, 2021/10/12
+Location 93519, 2021/10/19
+Location 93519, 2021/10/26
+Location 93519, 2021/11/2
+Location 93519, 2021/11/9
+Location 93519, 2021/11/16
+Location 93519, 2021/11/23
+Location 93519, 2021/11/30
+Location 93519, 2021/12/7
+Location 93519, 2021/12/14
+Location 93519, 2021/12/21
+Location 93519, 2021/12/28
+Location 93519, 2022/1/4
+Location 93519, 2022/1/11
+Location 93519, 2022/1/18
+Location 93519, 2022/1/25
+Location 93519, 2022/2/1
+Location 93519, 2022/2/8
+Location 93522, 2021/9/21
+Location 93522, 2021/9/28
+Location 93522, 2021/10/5
+Location 93522, 2021/10/12
+Location 93522, 2021/10/19
+Location 93522, 2021/10/26
+Location 93522, 2021/11/2
+Location 93522, 2021/11/9
+Location 93522, 2021/11/16
+Location 93522, 2021/11/23
+Location 93522, 2021/11/30
+Location 93522, 2021/12/7
+Location 93522, 2021/12/14
+Location 93522, 2021/12/21
+Location 93522, 2021/12/28
+Location 93522, 2022/1/4
+Location 93522, 2022/1/11
+Location 93522, 2022/1/18
+Location 93522, 2022/1/25
+Location 93522, 2022/2/1
+Location 93522, 2022/2/8
+Location 93528, 2021/9/21
+Location 93528, 2021/9/28
+Location 93528, 2021/10/5
+Location 93528, 2021/10/12
+Location 93528, 2021/10/19
+Location 93528, 2021/10/26
+Location 93528, 2021/11/2
+Location 93528, 2021/11/9
+Location 93528, 2021/11/16
+Location 93528, 2021/11/23
+Location 93528, 2021/11/30
+Location 93528, 2021/12/7
+Location 93528, 2021/12/14
+Location 93528, 2021/12/21
+Location 93528, 2021/12/28
+Location 93528, 2022/1/4
+Location 93528, 2022/1/11
+Location 93528, 2022/1/18
+Location 93528, 2022/1/25
+Location 93528, 2022/2/1
+Location 93528, 2022/2/8
+Location 93529, 2021/9/21
+Location 93529, 2021/9/28
+Location 93529, 2021/10/5
+Location 93529, 2021/10/12
+Location 93529, 2021/10/19
+Location 93529, 2021/10/26
+Location 93529, 2021/11/2
+Location 93529, 2021/11/9
+Location 93529, 2021/11/16
+Location 93529, 2021/11/23
+Location 93529, 2021/11/30
+Location 93529, 2021/12/7
+Location 93529, 2021/12/14
+Location 93529, 2021/12/21
+Location 93529, 2021/12/28
+Location 93529, 2022/1/4
+Location 93529, 2022/1/11
+Location 93529, 2022/1/18
+Location 93529, 2022/1/25
+Location 93529, 2022/2/1
+Location 93529, 2022/2/8
+Location 93530, 2021/9/21
+Location 93530, 2021/9/28
+Location 93530, 2021/10/5
+Location 93530, 2021/10/12
+Location 93530, 2021/10/19
+Location 93530, 2021/10/26
+Location 93530, 2021/11/2
+Location 93530, 2021/11/9
+Location 93530, 2021/11/16
+Location 93530, 2021/11/23
+Location 93530, 2021/11/30
+Location 93530, 2021/12/7
+Location 93530, 2021/12/14
+Location 93530, 2021/12/21
+Location 93530, 2021/12/28
+Location 93530, 2022/1/4
+Location 93530, 2022/1/11
+Location 93530, 2022/1/18
+Location 93530, 2022/1/25
+Location 93530, 2022/2/1
+Location 93530, 2022/2/8
+Location 93541, 2021/9/21
+Location 93541, 2021/9/28
+Location 93541, 2021/10/5
+Location 93541, 2021/10/12
+Location 93541, 2021/10/19
+Location 93541, 2021/10/26
+Location 93541, 2021/11/2
+Location 93541, 2021/11/9
+Location 93541, 2021/11/16
+Location 93541, 2021/11/23
+Location 93541, 2021/11/30
+Location 93541, 2021/12/7
+Location 93541, 2021/12/14
+Location 93541, 2021/12/21
+Location 93541, 2021/12/28
+Location 93541, 2022/1/4
+Location 93541, 2022/1/11
+Location 93541, 2022/1/18
+Location 93541, 2022/1/25
+Location 93541, 2022/2/1
+Location 93541, 2022/2/8
+Location 93549, 2021/9/21
+Location 93549, 2021/9/28
+Location 93549, 2021/10/5
+Location 93549, 2021/10/12
+Location 93549, 2021/10/19
+Location 93549, 2021/10/26
+Location 93549, 2021/11/2
+Location 93549, 2021/11/9
+Location 93549, 2021/11/16
+Location 93549, 2021/11/23
+Location 93549, 2021/11/30
+Location 93549, 2021/12/7
+Location 93549, 2021/12/14
+Location 93549, 2021/12/21
+Location 93549, 2021/12/28
+Location 93549, 2022/1/4
+Location 93549, 2022/1/11
+Location 93549, 2022/1/18
+Location 93549, 2022/1/25
+Location 93549, 2022/2/1
+Location 93549, 2022/2/8
+Location 93554, 2021/9/21
+Location 93554, 2021/9/28
+Location 93554, 2021/10/5
+Location 93554, 2021/10/12
+Location 93554, 2021/10/19
+Location 93554, 2021/10/26
+Location 93554, 2021/11/2
+Location 93554, 2021/11/9
+Location 93554, 2021/11/16
+Location 93554, 2021/11/23
+Location 93554, 2021/11/30
+Location 93554, 2021/12/7
+Location 93554, 2021/12/14
+Location 93554, 2021/12/21
+Location 93554, 2021/12/28
+Location 93554, 2022/1/4
+Location 93554, 2022/1/11
+Location 93554, 2022/1/18
+Location 93554, 2022/1/25
+Location 93554, 2022/2/1
+Location 93554, 2022/2/8
+Location 93558, 2021/9/21
+Location 93558, 2021/9/28
+Location 93558, 2021/10/5
+Location 93558, 2021/10/12
+Location 93558, 2021/10/19
+Location 93558, 2021/10/26
+Location 93558, 2021/11/2
+Location 93558, 2021/11/9
+Location 93558, 2021/11/16
+Location 93558, 2021/11/23
+Location 93558, 2021/11/30
+Location 93558, 2021/12/7
+Location 93558, 2021/12/14
+Location 93558, 2021/12/21
+Location 93558, 2021/12/28
+Location 93558, 2022/1/4
+Location 93558, 2022/1/11
+Location 93558, 2022/1/18
+Location 93558, 2022/1/25
+Location 93558, 2022/2/1
+Location 93558, 2022/2/8
+Location 93563, 2021/10/5
+Location 93563, 2021/10/12
+Location 93563, 2021/10/19
+Location 93563, 2021/10/26
+Location 93563, 2021/11/2
+Location 93563, 2021/11/30
+Location 93563, 2021/12/7
+Location 93563, 2021/12/14
+Location 93563, 2021/12/21
+Location 93563, 2021/12/28
+Location 93563, 2022/1/4
+Location 93563, 2022/1/11
+Location 93563, 2022/1/18
+Location 93563, 2022/1/25
+Location 93563, 2022/2/1
+Location 93563, 2022/2/8
+Location 93592, 2021/9/21
+Location 93592, 2021/9/28
+Location 93592, 2021/10/5
+Location 93592, 2021/10/12
+Location 93592, 2021/10/19
+Location 93592, 2021/10/26
+Location 93592, 2021/11/2
+Location 93592, 2021/11/9
+Location 93592, 2021/11/16
+Location 93592, 2021/11/23
+Location 93592, 2021/11/30
+Location 93592, 2021/12/7
+Location 93592, 2021/12/14
+Location 93592, 2021/12/21
+Location 93592, 2021/12/28
+Location 93592, 2022/1/4
+Location 93592, 2022/1/11
+Location 93592, 2022/1/18
+Location 93592, 2022/1/25
+Location 93592, 2022/2/1
+Location 93592, 2022/2/8
+Location 93603, 2021/9/21
+Location 93603, 2021/9/28
+Location 93603, 2021/10/5
+Location 93603, 2021/10/12
+Location 93603, 2021/10/19
+Location 93603, 2021/10/26
+Location 93603, 2021/11/2
+Location 93603, 2021/11/9
+Location 93603, 2021/11/16
+Location 93603, 2021/11/23
+Location 93603, 2021/11/30
+Location 93603, 2021/12/7
+Location 93603, 2021/12/14
+Location 93603, 2021/12/21
+Location 93603, 2021/12/28
+Location 93603, 2022/1/4
+Location 93603, 2022/1/11
+Location 93603, 2022/1/18
+Location 93603, 2022/1/25
+Location 93603, 2022/2/1
+Location 93603, 2022/2/8
+Location 93605, 2021/9/28
+Location 93605, 2021/10/5
+Location 93605, 2021/10/12
+Location 93605, 2021/10/19
+Location 93605, 2021/10/26
+Location 93605, 2021/11/2
+Location 93605, 2021/11/9
+Location 93605, 2021/11/16
+Location 93605, 2021/11/23
+Location 93605, 2021/11/30
+Location 93605, 2021/12/7
+Location 93605, 2021/12/14
+Location 93605, 2021/12/21
+Location 93605, 2021/12/28
+Location 93605, 2022/1/4
+Location 93605, 2022/1/11
+Location 93605, 2022/1/18
+Location 93605, 2022/1/25
+Location 93605, 2022/2/1
+Location 93605, 2022/2/8
+Location 93621, 2021/9/21
+Location 93621, 2021/9/28
+Location 93621, 2021/10/5
+Location 93621, 2021/10/12
+Location 93621, 2021/10/19
+Location 93621, 2021/10/26
+Location 93621, 2021/11/2
+Location 93621, 2021/11/9
+Location 93621, 2021/11/16
+Location 93621, 2021/11/23
+Location 93621, 2021/11/30
+Location 93621, 2021/12/7
+Location 93621, 2021/12/14
+Location 93621, 2021/12/21
+Location 93621, 2021/12/28
+Location 93621, 2022/1/4
+Location 93621, 2022/1/11
+Location 93621, 2022/1/18
+Location 93621, 2022/1/25
+Location 93621, 2022/2/1
+Location 93621, 2022/2/8
+Location 93623, 2021/9/21
+Location 93623, 2021/9/28
+Location 93623, 2021/10/5
+Location 93623, 2021/10/12
+Location 93623, 2021/10/19
+Location 93628, 2021/9/21
+Location 93628, 2021/9/28
+Location 93628, 2021/10/5
+Location 93628, 2021/10/12
+Location 93628, 2021/10/19
+Location 93628, 2021/10/26
+Location 93628, 2021/11/2
+Location 93628, 2021/11/9
+Location 93628, 2021/11/16
+Location 93628, 2021/11/23
+Location 93628, 2021/11/30
+Location 93628, 2021/12/7
+Location 93628, 2022/1/25
+Location 93628, 2022/2/1
+Location 93628, 2022/2/8
+Location 93633, 2021/9/21
+Location 93633, 2021/9/28
+Location 93633, 2021/10/5
+Location 93633, 2021/10/12
+Location 93633, 2021/10/19
+Location 93633, 2021/10/26
+Location 93633, 2021/11/2
+Location 93633, 2021/11/9
+Location 93633, 2021/11/16
+Location 93633, 2021/11/23
+Location 93633, 2021/11/30
+Location 93633, 2021/12/7
+Location 93633, 2021/12/14
+Location 93633, 2021/12/21
+Location 93633, 2021/12/28
+Location 93633, 2022/1/4
+Location 93633, 2022/1/11
+Location 93633, 2022/1/18
+Location 93633, 2022/1/25
+Location 93633, 2022/2/1
+Location 93633, 2022/2/8
+Location 93634, 2021/9/21
+Location 93634, 2021/9/28
+Location 93634, 2021/10/5
+Location 93634, 2021/10/12
+Location 93634, 2021/10/19
+Location 93634, 2021/10/26
+Location 93634, 2021/11/2
+Location 93634, 2021/11/9
+Location 93634, 2021/11/16
+Location 93634, 2021/11/23
+Location 93634, 2021/11/30
+Location 93634, 2021/12/7
+Location 93634, 2021/12/14
+Location 93634, 2021/12/21
+Location 93634, 2021/12/28
+Location 93634, 2022/1/4
+Location 93634, 2022/1/11
+Location 93634, 2022/1/18
+Location 93634, 2022/1/25
+Location 93634, 2022/2/1
+Location 93634, 2022/2/8
+Location 93641, 2021/9/21
+Location 93641, 2021/9/28
+Location 93641, 2021/10/5
+Location 93641, 2021/11/9
+Location 93641, 2021/11/16
+Location 93641, 2021/11/23
+Location 93641, 2021/11/30
+Location 93641, 2022/1/4
+Location 93641, 2022/1/11
+Location 93641, 2022/1/18
+Location 93641, 2022/1/25
+Location 93641, 2022/2/1
+Location 93641, 2022/2/8
+Location 93645, 2021/9/21
+Location 93645, 2021/9/28
+Location 93645, 2021/10/5
+Location 93645, 2021/10/12
+Location 93645, 2021/10/19
+Location 93645, 2021/10/26
+Location 93645, 2021/11/2
+Location 93645, 2021/11/9
+Location 93645, 2021/11/16
+Location 93645, 2021/11/23
+Location 93645, 2021/11/30
+Location 93645, 2021/12/7
+Location 93645, 2021/12/14
+Location 93645, 2021/12/21
+Location 93645, 2021/12/28
+Location 93645, 2022/1/4
+Location 93645, 2022/1/11
+Location 93645, 2022/1/18
+Location 93645, 2022/1/25
+Location 93645, 2022/2/1
+Location 93645, 2022/2/8
+Location 93669, 2021/12/21
+Location 93669, 2022/1/25
+Location 93669, 2022/2/1
+Location 93669, 2022/2/8
+Location 93943, 2021/9/21
+Location 93943, 2021/9/28
+Location 93943, 2021/10/5
+Location 93943, 2021/10/12
+Location 93943, 2021/10/19
+Location 93943, 2021/10/26
+Location 93943, 2021/11/2
+Location 93943, 2021/11/9
+Location 93943, 2021/11/16
+Location 93943, 2021/11/23
+Location 93943, 2021/11/30
+Location 93943, 2021/12/7
+Location 93943, 2021/12/14
+Location 93943, 2021/12/21
+Location 93943, 2021/12/28
+Location 93943, 2022/1/4
+Location 93943, 2022/1/11
+Location 93943, 2022/1/18
+Location 93943, 2022/1/25
+Location 93943, 2022/2/1
+Location 93943, 2022/2/8
+Location 93962, 2021/9/21
+Location 93962, 2021/9/28
+Location 93962, 2021/10/5
+Location 93962, 2021/10/12
+Location 93962, 2021/10/19
+Location 93962, 2021/10/26
+Location 93962, 2021/11/2
+Location 93962, 2021/11/9
+Location 93962, 2021/11/16
+Location 93962, 2021/11/23
+Location 93962, 2021/11/30
+Location 93962, 2021/12/7
+Location 93962, 2021/12/14
+Location 93962, 2021/12/21
+Location 93962, 2021/12/28
+Location 93962, 2022/1/4
+Location 93962, 2022/1/11
+Location 93962, 2022/1/18
+Location 93962, 2022/1/25
+Location 93962, 2022/2/1
+Location 93962, 2022/2/8
+Location 94021, 2021/12/7
+Location 94021, 2021/12/14
+Location 94021, 2021/12/21
+Location 94021, 2021/12/28
+Location 94021, 2022/1/4
+Location 94021, 2022/1/25
+Location 94021, 2022/2/1
+Location 94021, 2022/2/8
+Location 94060, 2021/9/21
+Location 94060, 2021/9/28
+Location 94060, 2021/10/5
+Location 94060, 2021/10/12
+Location 94060, 2021/10/19
+Location 94060, 2021/10/26
+Location 94060, 2021/11/2
+Location 94060, 2021/11/9
+Location 94060, 2021/11/16
+Location 94060, 2021/11/23
+Location 94060, 2021/11/30
+Location 94060, 2021/12/7
+Location 94060, 2021/12/14
+Location 94060, 2021/12/21
+Location 94060, 2021/12/28
+Location 94060, 2022/1/4
+Location 94060, 2022/1/11
+Location 94060, 2022/1/18
+Location 94060, 2022/1/25
+Location 94060, 2022/2/1
+Location 94060, 2022/2/8
+Location 94104, 2021/9/21
+Location 94104, 2021/9/28
+Location 94104, 2021/10/5
+Location 94104, 2021/10/12
+Location 94104, 2021/10/19
+Location 94104, 2021/10/26
+Location 94104, 2021/11/2
+Location 94104, 2021/11/9
+Location 94104, 2021/11/16
+Location 94104, 2021/11/23
+Location 94104, 2021/11/30
+Location 94104, 2021/12/7
+Location 94104, 2021/12/14
+Location 94104, 2021/12/21
+Location 94104, 2021/12/28
+Location 94104, 2022/1/4
+Location 94104, 2022/1/11
+Location 94104, 2022/1/18
+Location 94104, 2022/1/25
+Location 94104, 2022/2/1
+Location 94104, 2022/2/8
+Location 94105, 2021/9/21
+Location 94105, 2021/9/28
+Location 94105, 2021/10/5
+Location 94105, 2021/10/12
+Location 94105, 2021/10/19
+Location 94105, 2021/10/26
+Location 94105, 2021/11/2
+Location 94105, 2021/11/9
+Location 94105, 2021/11/16
+Location 94105, 2021/11/23
+Location 94105, 2021/11/30
+Location 94105, 2021/12/7
+Location 94105, 2021/12/14
+Location 94105, 2021/12/21
+Location 94105, 2021/12/28
+Location 94105, 2022/1/4
+Location 94105, 2022/1/11
+Location 94105, 2022/1/18
+Location 94105, 2022/1/25
+Location 94105, 2022/2/1
+Location 94105, 2022/2/8
+Location 94111, 2021/9/21
+Location 94111, 2021/9/28
+Location 94111, 2021/10/5
+Location 94111, 2021/10/12
+Location 94111, 2021/10/19
+Location 94111, 2021/10/26
+Location 94111, 2021/11/2
+Location 94111, 2021/11/9
+Location 94111, 2021/11/16
+Location 94111, 2021/11/23
+Location 94111, 2021/11/30
+Location 94111, 2021/12/7
+Location 94111, 2021/12/14
+Location 94111, 2021/12/21
+Location 94111, 2021/12/28
+Location 94111, 2022/1/4
+Location 94111, 2022/1/11
+Location 94111, 2022/1/18
+Location 94111, 2022/1/25
+Location 94111, 2022/2/1
+Location 94111, 2022/2/8
+Location 94128, 2021/9/21
+Location 94128, 2021/9/28
+Location 94128, 2021/10/5
+Location 94128, 2021/10/12
+Location 94128, 2021/10/19
+Location 94128, 2021/10/26
+Location 94128, 2021/11/2
+Location 94128, 2021/11/9
+Location 94128, 2021/11/16
+Location 94128, 2021/11/23
+Location 94128, 2021/11/30
+Location 94128, 2021/12/7
+Location 94128, 2021/12/14
+Location 94128, 2021/12/21
+Location 94128, 2021/12/28
+Location 94128, 2022/1/4
+Location 94128, 2022/1/11
+Location 94128, 2022/1/18
+Location 94128, 2022/1/25
+Location 94128, 2022/2/1
+Location 94128, 2022/2/8
+Location 94512, 2021/9/21
+Location 94512, 2021/9/28
+Location 94512, 2021/10/5
+Location 94512, 2021/10/12
+Location 94512, 2021/10/19
+Location 94512, 2021/10/26
+Location 94512, 2021/11/2
+Location 94512, 2021/11/9
+Location 94512, 2021/11/16
+Location 94512, 2021/11/23
+Location 94512, 2021/11/30
+Location 94512, 2021/12/7
+Location 94512, 2021/12/14
+Location 94512, 2021/12/21
+Location 94512, 2021/12/28
+Location 94512, 2022/1/4
+Location 94512, 2022/1/11
+Location 94512, 2022/1/18
+Location 94512, 2022/1/25
+Location 94512, 2022/2/1
+Location 94512, 2022/2/8
+Location 94516, 2021/9/21
+Location 94516, 2021/9/28
+Location 94516, 2021/10/5
+Location 94516, 2021/10/12
+Location 94516, 2021/10/19
+Location 94516, 2021/10/26
+Location 94516, 2021/11/2
+Location 94516, 2021/11/9
+Location 94516, 2021/11/16
+Location 94516, 2021/11/23
+Location 94516, 2021/11/30
+Location 94516, 2021/12/7
+Location 94516, 2021/12/14
+Location 94516, 2021/12/21
+Location 94516, 2021/12/28
+Location 94516, 2022/1/4
+Location 94516, 2022/1/11
+Location 94516, 2022/1/18
+Location 94516, 2022/1/25
+Location 94516, 2022/2/1
+Location 94516, 2022/2/8
+Location 94528, 2021/9/21
+Location 94528, 2021/9/28
+Location 94528, 2021/10/5
+Location 94528, 2021/10/12
+Location 94528, 2021/10/19
+Location 94528, 2021/10/26
+Location 94528, 2021/11/2
+Location 94528, 2021/11/9
+Location 94528, 2021/11/16
+Location 94528, 2021/11/23
+Location 94528, 2021/11/30
+Location 94528, 2021/12/7
+Location 94528, 2021/12/14
+Location 94528, 2021/12/21
+Location 94528, 2021/12/28
+Location 94528, 2022/1/4
+Location 94528, 2022/1/11
+Location 94528, 2022/1/18
+Location 94528, 2022/1/25
+Location 94528, 2022/2/1
+Location 94528, 2022/2/8
+Location 94548, 2021/11/2
+Location 94548, 2021/11/9
+Location 94548, 2021/11/16
+Location 94548, 2021/11/23
+Location 94548, 2021/11/30
+Location 94548, 2021/12/7
+Location 94548, 2021/12/14
+Location 94548, 2021/12/21
+Location 94548, 2021/12/28
+Location 94548, 2022/1/4
+Location 94548, 2022/1/11
+Location 94548, 2022/1/18
+Location 94548, 2022/1/25
+Location 94548, 2022/2/1
+Location 94548, 2022/2/8
+Location 94568, 2021/12/28
+Location 94568, 2022/1/4
+Location 94568, 2022/1/11
+Location 94568, 2022/1/18
+Location 94568, 2022/1/25
+Location 94568, 2022/2/1
+Location 94568, 2022/2/8
+Location 94569, 2021/9/21
+Location 94569, 2021/9/28
+Location 94569, 2021/10/5
+Location 94569, 2021/10/12
+Location 94569, 2021/10/19
+Location 94569, 2021/12/7
+Location 94569, 2021/12/14
+Location 94569, 2021/12/21
+Location 94569, 2021/12/28
+Location 94569, 2022/1/4
+Location 94569, 2022/1/11
+Location 94569, 2022/1/18
+Location 94569, 2022/1/25
+Location 94569, 2022/2/1
+Location 94569, 2022/2/8
+Location 94573, 2021/9/21
+Location 94573, 2021/9/28
+Location 94573, 2021/10/5
+Location 94573, 2021/10/12
+Location 94573, 2021/10/19
+Location 94573, 2021/10/26
+Location 94573, 2021/11/2
+Location 94573, 2021/11/9
+Location 94573, 2021/11/16
+Location 94573, 2021/11/23
+Location 94573, 2021/11/30
+Location 94573, 2021/12/7
+Location 94573, 2021/12/14
+Location 94573, 2021/12/21
+Location 94573, 2021/12/28
+Location 94573, 2022/1/4
+Location 94573, 2022/1/11
+Location 94573, 2022/1/18
+Location 94573, 2022/1/25
+Location 94573, 2022/2/1
+Location 94573, 2022/2/8
+Location 94575, 2021/9/21
+Location 94575, 2021/9/28
+Location 94575, 2021/10/5
+Location 94575, 2021/10/12
+Location 94575, 2021/10/19
+Location 94575, 2021/10/26
+Location 94575, 2021/11/2
+Location 94575, 2021/11/9
+Location 94575, 2021/11/16
+Location 94575, 2021/11/23
+Location 94575, 2021/11/30
+Location 94575, 2021/12/7
+Location 94575, 2021/12/14
+Location 94575, 2021/12/21
+Location 94575, 2021/12/28
+Location 94575, 2022/1/4
+Location 94575, 2022/1/11
+Location 94575, 2022/1/18
+Location 94575, 2022/1/25
+Location 94575, 2022/2/1
+Location 94575, 2022/2/8
+Location 94576, 2021/9/21
+Location 94576, 2021/9/28
+Location 94576, 2021/10/5
+Location 94576, 2021/10/12
+Location 94576, 2021/10/19
+Location 94576, 2021/10/26
+Location 94576, 2021/11/2
+Location 94576, 2021/11/9
+Location 94576, 2021/11/16
+Location 94576, 2021/11/23
+Location 94576, 2021/11/30
+Location 94576, 2021/12/7
+Location 94576, 2021/12/14
+Location 94576, 2021/12/21
+Location 94576, 2021/12/28
+Location 94576, 2022/1/4
+Location 94576, 2022/1/11
+Location 94576, 2022/1/18
+Location 94576, 2022/1/25
+Location 94576, 2022/2/1
+Location 94576, 2022/2/8
+Location 94582, 2022/2/1
+Location 94582, 2022/2/8
+Location 94586, 2022/1/11
+Location 94586, 2022/1/18
+Location 94586, 2022/1/25
+Location 94586, 2022/2/1
+Location 94586, 2022/2/8
+Location 94613, 2021/9/21
+Location 94613, 2021/9/28
+Location 94613, 2021/10/5
+Location 94613, 2021/10/12
+Location 94613, 2021/10/19
+Location 94613, 2021/10/26
+Location 94613, 2021/11/2
+Location 94613, 2021/11/9
+Location 94613, 2021/11/16
+Location 94613, 2021/11/23
+Location 94613, 2021/11/30
+Location 94613, 2021/12/7
+Location 94613, 2021/12/14
+Location 94613, 2021/12/21
+Location 94613, 2021/12/28
+Location 94613, 2022/1/4
+Location 94613, 2022/1/11
+Location 94613, 2022/1/18
+Location 94613, 2022/1/25
+Location 94613, 2022/2/1
+Location 94613, 2022/2/8
+Location 94707, 2021/12/14
+Location 94707, 2021/12/21
+Location 94707, 2021/12/28
+Location 94707, 2022/1/4
+Location 94707, 2022/1/11
+Location 94707, 2022/1/18
+Location 94707, 2022/1/25
+Location 94707, 2022/2/1
+Location 94707, 2022/2/8
+Location 94720, 2021/9/21
+Location 94720, 2021/9/28
+Location 94720, 2021/10/5
+Location 94720, 2021/10/12
+Location 94720, 2021/10/19
+Location 94720, 2021/10/26
+Location 94720, 2021/11/2
+Location 94720, 2021/11/9
+Location 94720, 2021/11/16
+Location 94720, 2021/11/23
+Location 94720, 2021/11/30
+Location 94720, 2021/12/7
+Location 94720, 2021/12/14
+Location 94720, 2021/12/21
+Location 94720, 2021/12/28
+Location 94720, 2022/1/4
+Location 94720, 2022/1/11
+Location 94720, 2022/1/18
+Location 94720, 2022/1/25
+Location 94720, 2022/2/1
+Location 94720, 2022/2/8
+Location 94850, 2021/9/21
+Location 94850, 2021/9/28
+Location 94850, 2021/10/5
+Location 94850, 2021/10/12
+Location 94850, 2021/10/19
+Location 94850, 2021/10/26
+Location 94850, 2021/11/2
+Location 94850, 2021/11/9
+Location 94850, 2021/11/16
+Location 94850, 2021/11/23
+Location 94850, 2021/11/30
+Location 94850, 2021/12/7
+Location 94850, 2021/12/14
+Location 94850, 2021/12/21
+Location 94850, 2021/12/28
+Location 94850, 2022/1/4
+Location 94850, 2022/1/11
+Location 94850, 2022/1/18
+Location 94850, 2022/1/25
+Location 94850, 2022/2/1
+Location 94850, 2022/2/8
+Location 94923, 2021/9/21
+Location 94923, 2021/9/28
+Location 94923, 2021/10/5
+Location 94923, 2021/10/12
+Location 94923, 2021/10/19
+Location 94923, 2021/10/26
+Location 94923, 2021/11/2
+Location 94923, 2021/11/9
+Location 94923, 2021/11/16
+Location 94923, 2021/11/23
+Location 94923, 2021/11/30
+Location 94923, 2021/12/7
+Location 94923, 2021/12/14
+Location 94923, 2021/12/21
+Location 94923, 2021/12/28
+Location 94923, 2022/1/4
+Location 94923, 2022/1/11
+Location 94923, 2022/1/18
+Location 94923, 2022/1/25
+Location 94923, 2022/2/1
+Location 94923, 2022/2/8
+Location 94929, 2021/9/21
+Location 94929, 2021/9/28
+Location 94929, 2021/10/5
+Location 94929, 2021/10/12
+Location 94929, 2021/10/19
+Location 94929, 2021/10/26
+Location 94929, 2021/11/2
+Location 94929, 2021/11/9
+Location 94929, 2021/11/16
+Location 94929, 2021/11/23
+Location 94929, 2021/11/30
+Location 94929, 2021/12/7
+Location 94929, 2021/12/14
+Location 94929, 2021/12/21
+Location 94929, 2021/12/28
+Location 94929, 2022/1/4
+Location 94929, 2022/1/11
+Location 94929, 2022/1/18
+Location 94929, 2022/1/25
+Location 94929, 2022/2/1
+Location 94929, 2022/2/8
+Location 94937, 2021/9/21
+Location 94937, 2021/9/28
+Location 94937, 2021/10/5
+Location 94937, 2021/10/12
+Location 94937, 2021/10/19
+Location 94937, 2021/10/26
+Location 94937, 2021/11/2
+Location 94937, 2021/11/9
+Location 94937, 2021/11/16
+Location 94937, 2021/11/23
+Location 94937, 2021/11/30
+Location 94937, 2021/12/7
+Location 94937, 2021/12/14
+Location 94937, 2021/12/21
+Location 94937, 2021/12/28
+Location 94937, 2022/1/4
+Location 94937, 2022/1/11
+Location 94937, 2022/1/18
+Location 94937, 2022/1/25
+Location 94937, 2022/2/1
+Location 94937, 2022/2/8
+Location 94950, 2021/9/21
+Location 94950, 2021/9/28
+Location 94950, 2021/10/5
+Location 94950, 2021/10/12
+Location 94950, 2021/10/19
+Location 94950, 2021/10/26
+Location 94950, 2021/11/2
+Location 94950, 2021/11/9
+Location 94950, 2021/11/16
+Location 94950, 2021/11/23
+Location 94950, 2021/11/30
+Location 94950, 2021/12/7
+Location 94950, 2021/12/14
+Location 94950, 2021/12/21
+Location 94950, 2021/12/28
+Location 94950, 2022/1/4
+Location 94950, 2022/1/11
+Location 94950, 2022/1/18
+Location 94950, 2022/1/25
+Location 94950, 2022/2/1
+Location 94950, 2022/2/8
+Location 94956, 2021/10/12
+Location 94956, 2021/10/19
+Location 94956, 2021/10/26
+Location 94956, 2021/11/2
+Location 94956, 2021/11/9
+Location 94956, 2021/11/16
+Location 94956, 2021/11/23
+Location 94956, 2021/11/30
+Location 94956, 2021/12/7
+Location 94956, 2021/12/14
+Location 94956, 2021/12/21
+Location 94956, 2021/12/28
+Location 94956, 2022/1/4
+Location 94956, 2022/1/11
+Location 94956, 2022/1/18
+Location 94956, 2022/1/25
+Location 94956, 2022/2/1
+Location 94956, 2022/2/8
+Location 94957, 2021/9/21
+Location 94957, 2021/9/28
+Location 94957, 2021/10/5
+Location 94957, 2021/10/12
+Location 94957, 2021/10/19
+Location 94957, 2021/10/26
+Location 94957, 2021/11/2
+Location 94957, 2021/11/9
+Location 94957, 2021/11/16
+Location 94957, 2021/11/23
+Location 94957, 2021/11/30
+Location 94957, 2021/12/7
+Location 94957, 2021/12/14
+Location 94957, 2021/12/21
+Location 94957, 2021/12/28
+Location 94957, 2022/1/4
+Location 94957, 2022/1/11
+Location 94957, 2022/1/18
+Location 94957, 2022/1/25
+Location 94957, 2022/2/1
+Location 94957, 2022/2/8
+Location 94963, 2021/9/21
+Location 94963, 2021/9/28
+Location 94963, 2021/10/5
+Location 94963, 2021/10/12
+Location 94963, 2021/10/19
+Location 94963, 2021/10/26
+Location 94963, 2021/11/2
+Location 94963, 2021/11/9
+Location 94963, 2021/11/16
+Location 94963, 2021/11/23
+Location 94963, 2021/11/30
+Location 94963, 2021/12/7
+Location 94963, 2021/12/14
+Location 94963, 2021/12/21
+Location 94963, 2021/12/28
+Location 94963, 2022/1/4
+Location 94963, 2022/1/11
+Location 94963, 2022/1/18
+Location 94963, 2022/1/25
+Location 94963, 2022/2/1
+Location 94963, 2022/2/8
+Location 94964, 2021/9/21
+Location 94964, 2021/9/28
+Location 94964, 2021/10/5
+Location 94964, 2021/10/12
+Location 94964, 2021/10/19
+Location 94964, 2021/10/26
+Location 94964, 2021/11/2
+Location 94964, 2021/11/9
+Location 94964, 2021/11/16
+Location 94964, 2021/11/23
+Location 94964, 2021/11/30
+Location 94964, 2021/12/7
+Location 94964, 2021/12/14
+Location 94964, 2021/12/21
+Location 94964, 2021/12/28
+Location 94964, 2022/1/4
+Location 94964, 2022/1/11
+Location 94964, 2022/1/18
+Location 94964, 2022/1/25
+Location 94964, 2022/2/1
+Location 94964, 2022/2/8
+Location 94971, 2021/9/21
+Location 94971, 2021/9/28
+Location 94971, 2021/10/5
+Location 94971, 2021/10/12
+Location 94971, 2021/10/19
+Location 94971, 2021/10/26
+Location 94971, 2021/11/2
+Location 94971, 2021/11/9
+Location 94971, 2021/11/16
+Location 94971, 2021/11/23
+Location 94971, 2021/11/30
+Location 94971, 2021/12/7
+Location 94971, 2021/12/14
+Location 94971, 2021/12/21
+Location 94971, 2021/12/28
+Location 94971, 2022/1/4
+Location 94971, 2022/1/11
+Location 94971, 2022/1/18
+Location 94971, 2022/1/25
+Location 94971, 2022/2/1
+Location 94971, 2022/2/8
+Location 94972, 2021/9/21
+Location 94972, 2021/9/28
+Location 94972, 2021/10/5
+Location 94972, 2021/10/12
+Location 94972, 2021/10/19
+Location 94972, 2021/10/26
+Location 94972, 2021/11/2
+Location 94972, 2021/11/9
+Location 94972, 2021/11/16
+Location 94972, 2021/11/23
+Location 94972, 2021/11/30
+Location 94972, 2021/12/7
+Location 94972, 2021/12/14
+Location 94972, 2021/12/21
+Location 94972, 2021/12/28
+Location 94972, 2022/1/4
+Location 94972, 2022/1/11
+Location 94972, 2022/1/18
+Location 94972, 2022/1/25
+Location 94972, 2022/2/1
+Location 94972, 2022/2/8
+Location 94973, 2022/1/18
+Location 94973, 2022/1/25
+Location 94973, 2022/2/1
+Location 94973, 2022/2/8
+Location 95007, 2021/9/21
+Location 95007, 2021/9/28
+Location 95007, 2021/10/5
+Location 95007, 2021/10/12
+Location 95007, 2021/10/19
+Location 95007, 2021/10/26
+Location 95007, 2021/11/2
+Location 95007, 2021/11/9
+Location 95007, 2021/11/16
+Location 95007, 2021/11/23
+Location 95007, 2021/11/30
+Location 95007, 2021/12/7
+Location 95007, 2021/12/14
+Location 95007, 2021/12/21
+Location 95007, 2021/12/28
+Location 95007, 2022/1/4
+Location 95007, 2022/1/11
+Location 95007, 2022/1/18
+Location 95007, 2022/1/25
+Location 95007, 2022/2/1
+Location 95007, 2022/2/8
+Location 95013, 2021/9/21
+Location 95013, 2021/9/28
+Location 95013, 2021/10/5
+Location 95013, 2021/10/12
+Location 95013, 2021/10/19
+Location 95013, 2021/10/26
+Location 95013, 2021/11/2
+Location 95013, 2021/11/9
+Location 95013, 2021/11/16
+Location 95013, 2021/11/23
+Location 95013, 2021/11/30
+Location 95013, 2021/12/7
+Location 95013, 2021/12/14
+Location 95013, 2021/12/21
+Location 95013, 2021/12/28
+Location 95013, 2022/1/4
+Location 95013, 2022/1/11
+Location 95013, 2022/1/18
+Location 95013, 2022/1/25
+Location 95013, 2022/2/1
+Location 95013, 2022/2/8
+Location 95039, 2021/10/19
+Location 95039, 2021/10/26
+Location 95039, 2021/11/2
+Location 95039, 2021/11/9
+Location 95039, 2021/11/16
+Location 95039, 2021/11/23
+Location 95039, 2021/11/30
+Location 95039, 2021/12/7
+Location 95039, 2021/12/14
+Location 95039, 2021/12/21
+Location 95039, 2021/12/28
+Location 95039, 2022/1/4
+Location 95039, 2022/1/11
+Location 95039, 2022/1/18
+Location 95039, 2022/1/25
+Location 95039, 2022/2/1
+Location 95039, 2022/2/8
+Location 95041, 2021/9/21
+Location 95041, 2021/9/28
+Location 95041, 2021/10/5
+Location 95041, 2021/10/12
+Location 95041, 2021/10/19
+Location 95041, 2021/10/26
+Location 95041, 2021/11/2
+Location 95041, 2021/11/9
+Location 95041, 2021/11/16
+Location 95041, 2021/11/23
+Location 95041, 2021/11/30
+Location 95041, 2021/12/7
+Location 95041, 2021/12/14
+Location 95041, 2021/12/21
+Location 95041, 2021/12/28
+Location 95041, 2022/1/4
+Location 95041, 2022/1/11
+Location 95041, 2022/1/18
+Location 95041, 2022/1/25
+Location 95041, 2022/2/1
+Location 95041, 2022/2/8
+Location 95053, 2021/9/21
+Location 95053, 2021/9/28
+Location 95053, 2021/10/5
+Location 95053, 2021/10/12
+Location 95053, 2021/10/19
+Location 95053, 2021/10/26
+Location 95053, 2021/11/2
+Location 95053, 2021/11/9
+Location 95053, 2021/11/16
+Location 95053, 2021/11/23
+Location 95053, 2021/11/30
+Location 95053, 2021/12/7
+Location 95053, 2021/12/14
+Location 95053, 2021/12/21
+Location 95053, 2021/12/28
+Location 95053, 2022/1/4
+Location 95053, 2022/1/11
+Location 95053, 2022/1/18
+Location 95053, 2022/1/25
+Location 95053, 2022/2/1
+Location 95053, 2022/2/8
+Location 95064, 2021/9/21
+Location 95064, 2021/9/28
+Location 95064, 2021/10/5
+Location 95064, 2021/10/12
+Location 95064, 2021/10/19
+Location 95064, 2021/10/26
+Location 95064, 2021/11/2
+Location 95064, 2021/11/9
+Location 95064, 2021/11/16
+Location 95064, 2021/11/23
+Location 95064, 2021/11/30
+Location 95064, 2021/12/7
+Location 95064, 2021/12/14
+Location 95064, 2021/12/21
+Location 95064, 2021/12/28
+Location 95064, 2022/1/4
+Location 95064, 2022/1/11
+Location 95064, 2022/1/18
+Location 95064, 2022/1/25
+Location 95064, 2022/2/1
+Location 95064, 2022/2/8
+Location 95113, 2021/9/21
+Location 95113, 2021/9/28
+Location 95113, 2021/10/5
+Location 95113, 2021/10/12
+Location 95113, 2021/10/19
+Location 95113, 2021/10/26
+Location 95113, 2021/11/2
+Location 95113, 2021/11/9
+Location 95113, 2021/11/16
+Location 95113, 2021/11/23
+Location 95113, 2021/11/30
+Location 95113, 2021/12/7
+Location 95113, 2021/12/14
+Location 95113, 2021/12/21
+Location 95113, 2021/12/28
+Location 95113, 2022/1/4
+Location 95113, 2022/1/11
+Location 95113, 2022/1/18
+Location 95113, 2022/1/25
+Location 95113, 2022/2/1
+Location 95113, 2022/2/8
+Location 95140, 2021/9/21
+Location 95140, 2021/9/28
+Location 95140, 2021/10/5
+Location 95140, 2021/10/12
+Location 95140, 2021/10/19
+Location 95140, 2021/10/26
+Location 95140, 2021/11/2
+Location 95140, 2021/11/9
+Location 95140, 2021/11/16
+Location 95140, 2021/11/23
+Location 95140, 2021/11/30
+Location 95140, 2021/12/7
+Location 95140, 2021/12/14
+Location 95140, 2021/12/21
+Location 95140, 2021/12/28
+Location 95140, 2022/1/4
+Location 95140, 2022/1/11
+Location 95140, 2022/1/18
+Location 95140, 2022/1/25
+Location 95140, 2022/2/1
+Location 95140, 2022/2/8
+Location 95211, 2021/9/21
+Location 95211, 2021/9/28
+Location 95211, 2021/10/5
+Location 95211, 2021/10/12
+Location 95211, 2021/10/19
+Location 95211, 2021/10/26
+Location 95211, 2021/11/2
+Location 95211, 2021/11/9
+Location 95211, 2021/11/16
+Location 95211, 2021/11/23
+Location 95211, 2021/11/30
+Location 95211, 2021/12/7
+Location 95211, 2021/12/14
+Location 95211, 2021/12/21
+Location 95211, 2021/12/28
+Location 95211, 2022/1/4
+Location 95211, 2022/1/11
+Location 95211, 2022/1/18
+Location 95211, 2022/1/25
+Location 95211, 2022/2/1
+Location 95211, 2022/2/8
+Location 95224, 2021/9/21
+Location 95224, 2021/9/28
+Location 95224, 2021/10/5
+Location 95224, 2021/10/12
+Location 95224, 2021/10/19
+Location 95224, 2021/10/26
+Location 95224, 2021/11/2
+Location 95224, 2021/11/9
+Location 95224, 2021/11/16
+Location 95224, 2021/11/23
+Location 95224, 2021/11/30
+Location 95224, 2021/12/7
+Location 95224, 2021/12/14
+Location 95224, 2021/12/21
+Location 95224, 2021/12/28
+Location 95224, 2022/1/4
+Location 95224, 2022/1/11
+Location 95224, 2022/1/18
+Location 95224, 2022/1/25
+Location 95224, 2022/2/1
+Location 95224, 2022/2/8
+Location 95226, 2021/9/21
+Location 95226, 2021/9/28
+Location 95226, 2021/10/5
+Location 95226, 2021/10/12
+Location 95226, 2021/10/19
+Location 95226, 2021/10/26
+Location 95226, 2021/11/2
+Location 95226, 2021/11/9
+Location 95226, 2021/11/16
+Location 95226, 2021/11/23
+Location 95226, 2021/11/30
+Location 95226, 2021/12/7
+Location 95226, 2021/12/14
+Location 95226, 2021/12/21
+Location 95226, 2021/12/28
+Location 95226, 2022/1/4
+Location 95226, 2022/1/11
+Location 95226, 2022/1/18
+Location 95226, 2022/1/25
+Location 95226, 2022/2/1
+Location 95226, 2022/2/8
+Location 95232, 2021/10/26
+Location 95232, 2021/11/2
+Location 95232, 2021/11/9
+Location 95232, 2021/11/16
+Location 95233, 2021/9/21
+Location 95233, 2021/9/28
+Location 95233, 2021/10/5
+Location 95233, 2021/10/12
+Location 95233, 2021/10/19
+Location 95233, 2021/10/26
+Location 95233, 2021/11/2
+Location 95233, 2021/11/9
+Location 95233, 2021/11/16
+Location 95233, 2021/11/23
+Location 95233, 2021/11/30
+Location 95233, 2021/12/7
+Location 95233, 2021/12/14
+Location 95233, 2021/12/21
+Location 95233, 2021/12/28
+Location 95233, 2022/1/4
+Location 95233, 2022/1/11
+Location 95233, 2022/1/18
+Location 95233, 2022/1/25
+Location 95233, 2022/2/1
+Location 95233, 2022/2/8
+Location 95234, 2021/9/21
+Location 95234, 2021/9/28
+Location 95234, 2021/10/5
+Location 95234, 2021/10/12
+Location 95234, 2021/10/19
+Location 95234, 2021/10/26
+Location 95234, 2021/11/2
+Location 95234, 2021/11/9
+Location 95234, 2021/11/16
+Location 95234, 2021/11/23
+Location 95234, 2021/11/30
+Location 95234, 2021/12/7
+Location 95234, 2021/12/14
+Location 95234, 2021/12/21
+Location 95234, 2021/12/28
+Location 95234, 2022/1/4
+Location 95234, 2022/1/11
+Location 95234, 2022/1/18
+Location 95234, 2022/1/25
+Location 95234, 2022/2/1
+Location 95234, 2022/2/8
+Location 95248, 2021/9/21
+Location 95248, 2021/9/28
+Location 95248, 2021/10/5
+Location 95248, 2021/10/12
+Location 95248, 2021/10/19
+Location 95248, 2021/10/26
+Location 95248, 2021/11/2
+Location 95248, 2021/11/9
+Location 95248, 2021/11/16
+Location 95248, 2021/11/23
+Location 95248, 2021/11/30
+Location 95248, 2021/12/7
+Location 95248, 2021/12/14
+Location 95248, 2021/12/21
+Location 95248, 2021/12/28
+Location 95248, 2022/1/4
+Location 95248, 2022/1/11
+Location 95248, 2022/1/18
+Location 95248, 2022/1/25
+Location 95248, 2022/2/1
+Location 95248, 2022/2/8
+Location 95250, 2021/9/21
+Location 95250, 2021/9/28
+Location 95250, 2021/10/5
+Location 95250, 2021/10/12
+Location 95250, 2021/10/19
+Location 95250, 2021/10/26
+Location 95250, 2021/11/2
+Location 95250, 2021/11/9
+Location 95250, 2021/11/16
+Location 95250, 2021/11/23
+Location 95250, 2021/11/30
+Location 95250, 2021/12/7
+Location 95250, 2021/12/14
+Location 95250, 2021/12/21
+Location 95250, 2021/12/28
+Location 95250, 2022/1/4
+Location 95250, 2022/1/11
+Location 95250, 2022/1/18
+Location 95250, 2022/1/25
+Location 95250, 2022/2/1
+Location 95250, 2022/2/8
+Location 95305, 2021/9/21
+Location 95305, 2021/9/28
+Location 95305, 2021/10/5
+Location 95305, 2021/10/12
+Location 95305, 2021/10/19
+Location 95305, 2021/10/26
+Location 95305, 2021/11/2
+Location 95305, 2021/11/9
+Location 95305, 2021/11/16
+Location 95305, 2021/11/23
+Location 95305, 2021/11/30
+Location 95305, 2021/12/7
+Location 95305, 2021/12/14
+Location 95305, 2021/12/21
+Location 95305, 2021/12/28
+Location 95305, 2022/1/4
+Location 95305, 2022/1/11
+Location 95305, 2022/1/18
+Location 95305, 2022/1/25
+Location 95305, 2022/2/1
+Location 95305, 2022/2/8
+Location 95314, 2021/9/21
+Location 95314, 2021/9/28
+Location 95314, 2021/10/5
+Location 95314, 2021/10/12
+Location 95314, 2021/10/19
+Location 95314, 2021/10/26
+Location 95314, 2021/11/2
+Location 95314, 2021/11/9
+Location 95314, 2021/11/16
+Location 95314, 2021/11/23
+Location 95314, 2021/11/30
+Location 95314, 2021/12/7
+Location 95314, 2021/12/14
+Location 95314, 2021/12/21
+Location 95314, 2021/12/28
+Location 95314, 2022/1/4
+Location 95314, 2022/1/11
+Location 95314, 2022/1/18
+Location 95314, 2022/1/25
+Location 95314, 2022/2/1
+Location 95314, 2022/2/8
+Location 95318, 2021/9/21
+Location 95318, 2021/9/28
+Location 95318, 2021/10/5
+Location 95318, 2021/10/12
+Location 95318, 2021/10/19
+Location 95318, 2021/10/26
+Location 95318, 2021/11/2
+Location 95318, 2021/11/9
+Location 95318, 2021/11/16
+Location 95318, 2021/11/23
+Location 95318, 2021/11/30
+Location 95318, 2021/12/7
+Location 95318, 2021/12/14
+Location 95318, 2021/12/21
+Location 95318, 2021/12/28
+Location 95318, 2022/1/4
+Location 95318, 2022/1/11
+Location 95318, 2022/1/18
+Location 95318, 2022/1/25
+Location 95318, 2022/2/1
+Location 95318, 2022/2/8
+Location 95325, 2021/9/21
+Location 95325, 2021/9/28
+Location 95325, 2021/10/5
+Location 95325, 2021/10/12
+Location 95325, 2021/10/19
+Location 95325, 2021/10/26
+Location 95325, 2021/11/2
+Location 95325, 2021/11/9
+Location 95325, 2021/11/16
+Location 95325, 2021/11/23
+Location 95325, 2021/11/30
+Location 95325, 2021/12/7
+Location 95325, 2021/12/14
+Location 95325, 2021/12/21
+Location 95325, 2021/12/28
+Location 95325, 2022/1/4
+Location 95325, 2022/1/11
+Location 95325, 2022/1/18
+Location 95325, 2022/1/25
+Location 95325, 2022/2/1
+Location 95325, 2022/2/8
+Location 95335, 2021/9/21
+Location 95335, 2021/9/28
+Location 95335, 2021/10/5
+Location 95335, 2021/10/12
+Location 95335, 2021/10/19
+Location 95335, 2021/10/26
+Location 95335, 2021/11/2
+Location 95335, 2021/11/9
+Location 95335, 2021/11/16
+Location 95335, 2021/11/23
+Location 95335, 2021/11/30
+Location 95335, 2021/12/7
+Location 95335, 2021/12/14
+Location 95335, 2021/12/21
+Location 95335, 2021/12/28
+Location 95335, 2022/1/4
+Location 95335, 2022/1/11
+Location 95335, 2022/1/18
+Location 95335, 2022/1/25
+Location 95335, 2022/2/1
+Location 95335, 2022/2/8
+Location 95364, 2021/9/21
+Location 95364, 2021/9/28
+Location 95364, 2021/10/5
+Location 95364, 2021/10/12
+Location 95364, 2021/10/19
+Location 95364, 2021/10/26
+Location 95364, 2021/11/2
+Location 95364, 2021/11/9
+Location 95364, 2021/11/16
+Location 95364, 2021/11/23
+Location 95364, 2021/11/30
+Location 95364, 2021/12/7
+Location 95364, 2021/12/14
+Location 95364, 2021/12/21
+Location 95364, 2021/12/28
+Location 95364, 2022/1/4
+Location 95364, 2022/1/11
+Location 95364, 2022/1/18
+Location 95364, 2022/1/25
+Location 95364, 2022/2/1
+Location 95364, 2022/2/8
+Location 95375, 2021/9/21
+Location 95375, 2021/9/28
+Location 95375, 2021/10/5
+Location 95375, 2021/10/12
+Location 95375, 2021/10/19
+Location 95375, 2021/10/26
+Location 95375, 2021/11/2
+Location 95375, 2021/11/9
+Location 95375, 2021/11/16
+Location 95375, 2021/11/23
+Location 95375, 2021/11/30
+Location 95375, 2021/12/7
+Location 95375, 2021/12/14
+Location 95375, 2021/12/21
+Location 95375, 2021/12/28
+Location 95375, 2022/1/4
+Location 95375, 2022/1/11
+Location 95375, 2022/1/18
+Location 95375, 2022/1/25
+Location 95375, 2022/2/1
+Location 95375, 2022/2/8
+Location 95389, 2021/9/21
+Location 95389, 2021/9/28
+Location 95389, 2021/10/5
+Location 95389, 2021/10/12
+Location 95389, 2021/10/19
+Location 95389, 2021/10/26
+Location 95389, 2021/11/2
+Location 95389, 2021/11/9
+Location 95389, 2021/11/16
+Location 95389, 2021/11/23
+Location 95389, 2021/11/30
+Location 95389, 2021/12/7
+Location 95389, 2021/12/14
+Location 95389, 2021/12/21
+Location 95389, 2021/12/28
+Location 95389, 2022/1/4
+Location 95389, 2022/1/11
+Location 95389, 2022/1/18
+Location 95389, 2022/1/25
+Location 95389, 2022/2/1
+Location 95389, 2022/2/8
+Location 95417, 2021/9/21
+Location 95417, 2021/9/28
+Location 95417, 2021/10/5
+Location 95417, 2021/10/12
+Location 95417, 2021/10/19
+Location 95417, 2021/10/26
+Location 95417, 2021/11/2
+Location 95417, 2021/11/9
+Location 95417, 2021/11/16
+Location 95417, 2021/11/23
+Location 95417, 2021/11/30
+Location 95417, 2021/12/7
+Location 95417, 2021/12/21
+Location 95417, 2021/12/28
+Location 95417, 2022/1/11
+Location 95417, 2022/1/18
+Location 95417, 2022/1/25
+Location 95417, 2022/2/1
+Location 95417, 2022/2/8
+Location 95427, 2021/9/21
+Location 95427, 2021/9/28
+Location 95427, 2021/10/5
+Location 95427, 2021/10/12
+Location 95427, 2021/10/19
+Location 95427, 2021/10/26
+Location 95427, 2021/11/2
+Location 95427, 2021/11/9
+Location 95427, 2021/11/16
+Location 95427, 2021/11/23
+Location 95427, 2021/11/30
+Location 95427, 2021/12/7
+Location 95427, 2021/12/14
+Location 95427, 2021/12/21
+Location 95427, 2021/12/28
+Location 95427, 2022/1/4
+Location 95427, 2022/1/11
+Location 95427, 2022/1/18
+Location 95427, 2022/1/25
+Location 95427, 2022/2/1
+Location 95427, 2022/2/8
+Location 95429, 2021/9/21
+Location 95429, 2021/9/28
+Location 95429, 2021/10/5
+Location 95429, 2021/10/12
+Location 95429, 2021/10/19
+Location 95429, 2021/10/26
+Location 95429, 2021/11/2
+Location 95429, 2021/11/9
+Location 95429, 2021/11/16
+Location 95429, 2021/11/23
+Location 95429, 2021/11/30
+Location 95429, 2021/12/7
+Location 95429, 2021/12/14
+Location 95429, 2021/12/21
+Location 95429, 2021/12/28
+Location 95429, 2022/1/4
+Location 95429, 2022/1/11
+Location 95429, 2022/1/18
+Location 95429, 2022/1/25
+Location 95429, 2022/2/1
+Location 95429, 2022/2/8
+Location 95430, 2021/9/21
+Location 95430, 2021/9/28
+Location 95430, 2021/10/5
+Location 95430, 2021/10/12
+Location 95430, 2021/10/19
+Location 95430, 2021/10/26
+Location 95430, 2021/11/2
+Location 95430, 2021/11/9
+Location 95430, 2021/11/16
+Location 95430, 2021/11/23
+Location 95430, 2021/11/30
+Location 95430, 2021/12/7
+Location 95430, 2021/12/14
+Location 95430, 2021/12/21
+Location 95430, 2021/12/28
+Location 95430, 2022/1/4
+Location 95430, 2022/1/11
+Location 95430, 2022/1/18
+Location 95430, 2022/1/25
+Location 95430, 2022/2/1
+Location 95430, 2022/2/8
+Location 95431, 2021/9/21
+Location 95431, 2021/9/28
+Location 95431, 2021/10/5
+Location 95431, 2021/10/12
+Location 95431, 2021/10/19
+Location 95431, 2021/10/26
+Location 95431, 2021/11/2
+Location 95431, 2021/11/9
+Location 95431, 2021/11/16
+Location 95431, 2021/11/23
+Location 95431, 2021/11/30
+Location 95431, 2021/12/7
+Location 95431, 2021/12/14
+Location 95431, 2021/12/21
+Location 95431, 2021/12/28
+Location 95431, 2022/1/4
+Location 95431, 2022/1/11
+Location 95431, 2022/1/18
+Location 95431, 2022/1/25
+Location 95431, 2022/2/1
+Location 95431, 2022/2/8
+Location 95441, 2021/9/21
+Location 95441, 2021/9/28
+Location 95441, 2021/10/5
+Location 95441, 2021/10/12
+Location 95441, 2021/10/19
+Location 95441, 2021/10/26
+Location 95441, 2021/11/2
+Location 95441, 2021/11/9
+Location 95441, 2021/11/16
+Location 95441, 2021/11/23
+Location 95441, 2021/11/30
+Location 95441, 2021/12/7
+Location 95441, 2021/12/14
+Location 95441, 2021/12/21
+Location 95441, 2021/12/28
+Location 95441, 2022/1/4
+Location 95441, 2022/1/11
+Location 95441, 2022/1/18
+Location 95441, 2022/1/25
+Location 95441, 2022/2/1
+Location 95441, 2022/2/8
+Location 95443, 2021/9/21
+Location 95443, 2021/9/28
+Location 95443, 2021/10/5
+Location 95443, 2021/10/12
+Location 95443, 2021/10/19
+Location 95443, 2021/10/26
+Location 95443, 2021/11/2
+Location 95443, 2021/11/9
+Location 95443, 2021/11/16
+Location 95443, 2021/11/23
+Location 95443, 2021/11/30
+Location 95443, 2021/12/7
+Location 95443, 2021/12/14
+Location 95443, 2021/12/21
+Location 95443, 2021/12/28
+Location 95443, 2022/1/4
+Location 95443, 2022/1/11
+Location 95443, 2022/1/18
+Location 95443, 2022/1/25
+Location 95443, 2022/2/1
+Location 95443, 2022/2/8
+Location 95444, 2021/9/21
+Location 95444, 2021/9/28
+Location 95444, 2021/10/5
+Location 95444, 2021/10/12
+Location 95444, 2021/10/19
+Location 95444, 2021/10/26
+Location 95444, 2021/11/2
+Location 95444, 2021/11/9
+Location 95444, 2021/11/16
+Location 95444, 2021/11/23
+Location 95444, 2021/11/30
+Location 95444, 2021/12/7
+Location 95444, 2021/12/14
+Location 95444, 2021/12/21
+Location 95444, 2021/12/28
+Location 95444, 2022/1/4
+Location 95444, 2022/1/11
+Location 95444, 2022/1/18
+Location 95444, 2022/1/25
+Location 95444, 2022/2/1
+Location 95444, 2022/2/8
+Location 95450, 2021/9/21
+Location 95450, 2021/9/28
+Location 95450, 2021/10/5
+Location 95450, 2021/10/12
+Location 95450, 2021/10/19
+Location 95450, 2021/10/26
+Location 95450, 2021/11/2
+Location 95450, 2021/11/9
+Location 95450, 2021/11/16
+Location 95450, 2021/11/23
+Location 95450, 2021/11/30
+Location 95450, 2021/12/7
+Location 95450, 2021/12/14
+Location 95450, 2021/12/21
+Location 95450, 2021/12/28
+Location 95450, 2022/1/4
+Location 95450, 2022/1/11
+Location 95450, 2022/1/18
+Location 95450, 2022/1/25
+Location 95450, 2022/2/1
+Location 95450, 2022/2/8
+Location 95452, 2021/9/21
+Location 95452, 2021/9/28
+Location 95452, 2021/10/5
+Location 95452, 2021/10/12
+Location 95452, 2021/10/19
+Location 95452, 2021/10/26
+Location 95452, 2021/11/2
+Location 95452, 2021/11/9
+Location 95452, 2021/11/16
+Location 95452, 2021/11/23
+Location 95452, 2021/11/30
+Location 95452, 2021/12/7
+Location 95452, 2021/12/14
+Location 95452, 2021/12/21
+Location 95452, 2021/12/28
+Location 95452, 2022/1/4
+Location 95452, 2022/1/11
+Location 95452, 2022/1/18
+Location 95452, 2022/1/25
+Location 95452, 2022/2/1
+Location 95452, 2022/2/8
+Location 95463, 2021/9/21
+Location 95463, 2021/9/28
+Location 95463, 2021/10/5
+Location 95463, 2021/10/12
+Location 95463, 2021/10/19
+Location 95463, 2021/10/26
+Location 95463, 2021/11/2
+Location 95463, 2021/11/9
+Location 95463, 2021/11/16
+Location 95463, 2021/11/23
+Location 95463, 2021/12/7
+Location 95463, 2021/12/14
+Location 95463, 2021/12/21
+Location 95463, 2021/12/28
+Location 95463, 2022/1/4
+Location 95463, 2022/1/11
+Location 95463, 2022/1/18
+Location 95463, 2022/1/25
+Location 95463, 2022/2/1
+Location 95463, 2022/2/8
+Location 95466, 2021/11/23
+Location 95466, 2021/11/30
+Location 95466, 2021/12/7
+Location 95466, 2021/12/14
+Location 95466, 2021/12/21
+Location 95466, 2021/12/28
+Location 95466, 2022/1/4
+Location 95466, 2022/1/11
+Location 95466, 2022/1/18
+Location 95466, 2022/1/25
+Location 95466, 2022/2/1
+Location 95466, 2022/2/8
+Location 95471, 2021/9/21
+Location 95471, 2021/9/28
+Location 95471, 2021/10/5
+Location 95471, 2021/10/12
+Location 95471, 2021/10/19
+Location 95471, 2021/10/26
+Location 95471, 2021/11/2
+Location 95471, 2021/11/9
+Location 95471, 2021/11/16
+Location 95471, 2021/11/23
+Location 95471, 2021/11/30
+Location 95471, 2021/12/7
+Location 95471, 2021/12/14
+Location 95471, 2021/12/21
+Location 95471, 2021/12/28
+Location 95471, 2022/1/4
+Location 95471, 2022/1/11
+Location 95471, 2022/1/18
+Location 95471, 2022/1/25
+Location 95471, 2022/2/1
+Location 95471, 2022/2/8
+Location 95486, 2021/9/21
+Location 95486, 2021/9/28
+Location 95486, 2021/10/5
+Location 95486, 2021/10/12
+Location 95486, 2021/10/19
+Location 95486, 2021/10/26
+Location 95486, 2021/11/2
+Location 95486, 2021/11/9
+Location 95486, 2021/11/16
+Location 95486, 2021/11/23
+Location 95486, 2021/11/30
+Location 95486, 2021/12/7
+Location 95486, 2021/12/14
+Location 95486, 2021/12/21
+Location 95486, 2021/12/28
+Location 95486, 2022/1/4
+Location 95486, 2022/1/11
+Location 95486, 2022/1/18
+Location 95486, 2022/1/25
+Location 95486, 2022/2/1
+Location 95486, 2022/2/8
+Location 95488, 2021/9/21
+Location 95488, 2021/9/28
+Location 95488, 2021/10/5
+Location 95488, 2021/10/12
+Location 95488, 2021/10/19
+Location 95488, 2021/10/26
+Location 95488, 2021/11/2
+Location 95488, 2021/11/9
+Location 95488, 2021/11/16
+Location 95488, 2021/11/23
+Location 95488, 2021/11/30
+Location 95488, 2021/12/7
+Location 95488, 2021/12/14
+Location 95488, 2021/12/21
+Location 95488, 2021/12/28
+Location 95488, 2022/1/4
+Location 95488, 2022/1/11
+Location 95488, 2022/1/18
+Location 95488, 2022/1/25
+Location 95488, 2022/2/1
+Location 95488, 2022/2/8
+Location 95493, 2021/9/21
+Location 95493, 2021/9/28
+Location 95493, 2021/10/5
+Location 95493, 2021/10/12
+Location 95493, 2021/10/19
+Location 95493, 2021/10/26
+Location 95493, 2021/11/2
+Location 95493, 2021/11/9
+Location 95493, 2021/11/16
+Location 95493, 2021/11/23
+Location 95493, 2021/11/30
+Location 95493, 2021/12/7
+Location 95493, 2021/12/14
+Location 95493, 2021/12/21
+Location 95493, 2021/12/28
+Location 95493, 2022/1/4
+Location 95493, 2022/1/11
+Location 95493, 2022/1/18
+Location 95493, 2022/1/25
+Location 95493, 2022/2/1
+Location 95493, 2022/2/8
+Location 95494, 2021/9/21
+Location 95494, 2021/9/28
+Location 95494, 2021/10/5
+Location 95494, 2021/10/12
+Location 95494, 2021/10/19
+Location 95494, 2021/10/26
+Location 95494, 2021/11/2
+Location 95494, 2021/11/9
+Location 95494, 2021/11/16
+Location 95494, 2021/11/23
+Location 95494, 2021/11/30
+Location 95494, 2021/12/7
+Location 95494, 2021/12/14
+Location 95494, 2021/12/21
+Location 95494, 2021/12/28
+Location 95494, 2022/1/4
+Location 95494, 2022/1/11
+Location 95494, 2022/1/18
+Location 95494, 2022/1/25
+Location 95494, 2022/2/1
+Location 95494, 2022/2/8
+Location 95514, 2021/9/21
+Location 95514, 2021/9/28
+Location 95514, 2021/10/12
+Location 95514, 2021/10/19
+Location 95514, 2021/10/26
+Location 95514, 2021/11/2
+Location 95514, 2021/11/9
+Location 95514, 2021/11/16
+Location 95514, 2022/1/18
+Location 95514, 2022/1/25
+Location 95514, 2022/2/1
+Location 95514, 2022/2/8
+Location 95526, 2021/11/2
+Location 95526, 2021/11/9
+Location 95526, 2021/11/16
+Location 95526, 2021/11/23
+Location 95526, 2021/11/30
+Location 95526, 2021/12/7
+Location 95526, 2021/12/14
+Location 95526, 2021/12/21
+Location 95526, 2021/12/28
+Location 95526, 2022/1/4
+Location 95526, 2022/1/11
+Location 95526, 2022/1/18
+Location 95526, 2022/1/25
+Location 95526, 2022/2/1
+Location 95526, 2022/2/8
+Location 95527, 2021/11/16
+Location 95527, 2021/11/23
+Location 95545, 2021/9/21
+Location 95545, 2021/9/28
+Location 95545, 2021/10/5
+Location 95545, 2021/10/12
+Location 95545, 2021/10/19
+Location 95545, 2021/10/26
+Location 95545, 2021/11/2
+Location 95545, 2021/11/9
+Location 95545, 2021/11/16
+Location 95545, 2021/11/23
+Location 95545, 2021/12/7
+Location 95545, 2021/12/14
+Location 95545, 2021/12/21
+Location 95545, 2021/12/28
+Location 95545, 2022/1/4
+Location 95545, 2022/1/18
+Location 95545, 2022/1/25
+Location 95545, 2022/2/1
+Location 95545, 2022/2/8
+Location 95550, 2021/9/21
+Location 95550, 2021/9/28
+Location 95550, 2021/10/5
+Location 95550, 2021/10/12
+Location 95550, 2021/10/19
+Location 95550, 2021/10/26
+Location 95550, 2021/11/2
+Location 95550, 2021/11/9
+Location 95550, 2021/11/16
+Location 95550, 2021/11/23
+Location 95550, 2021/11/30
+Location 95550, 2021/12/7
+Location 95550, 2021/12/14
+Location 95550, 2021/12/21
+Location 95550, 2021/12/28
+Location 95550, 2022/1/4
+Location 95550, 2022/1/11
+Location 95550, 2022/1/18
+Location 95550, 2022/1/25
+Location 95550, 2022/2/1
+Location 95550, 2022/2/8
+Location 95552, 2021/9/28
+Location 95552, 2021/10/5
+Location 95552, 2021/10/12
+Location 95552, 2021/10/19
+Location 95552, 2021/10/26
+Location 95552, 2021/11/2
+Location 95559, 2021/9/21
+Location 95559, 2021/9/28
+Location 95559, 2021/10/5
+Location 95559, 2021/10/12
+Location 95559, 2021/10/19
+Location 95559, 2021/10/26
+Location 95559, 2021/11/2
+Location 95559, 2021/11/9
+Location 95559, 2021/11/16
+Location 95559, 2021/11/23
+Location 95559, 2021/11/30
+Location 95559, 2021/12/7
+Location 95559, 2021/12/14
+Location 95559, 2021/12/21
+Location 95559, 2021/12/28
+Location 95559, 2022/1/4
+Location 95559, 2022/1/11
+Location 95559, 2022/1/18
+Location 95559, 2022/1/25
+Location 95559, 2022/2/1
+Location 95559, 2022/2/8
+Location 95571, 2021/10/12
+Location 95571, 2021/10/19
+Location 95571, 2021/10/26
+Location 95571, 2021/11/2
+Location 95571, 2021/11/9
+Location 95571, 2021/12/14
+Location 95571, 2021/12/21
+Location 95571, 2021/12/28
+Location 95571, 2022/1/4
+Location 95571, 2022/1/11
+Location 95571, 2022/1/18
+Location 95571, 2022/1/25
+Location 95571, 2022/2/1
+Location 95571, 2022/2/8
+Location 95587, 2021/9/21
+Location 95587, 2021/9/28
+Location 95587, 2021/10/5
+Location 95587, 2021/10/12
+Location 95587, 2021/10/19
+Location 95587, 2021/10/26
+Location 95587, 2021/11/2
+Location 95587, 2021/11/9
+Location 95587, 2021/11/16
+Location 95587, 2021/11/23
+Location 95587, 2021/11/30
+Location 95587, 2021/12/7
+Location 95587, 2021/12/14
+Location 95587, 2021/12/21
+Location 95587, 2021/12/28
+Location 95587, 2022/1/4
+Location 95587, 2022/1/11
+Location 95587, 2022/1/18
+Location 95587, 2022/1/25
+Location 95587, 2022/2/1
+Location 95587, 2022/2/8
+Location 95595, 2021/9/21
+Location 95595, 2021/9/28
+Location 95595, 2021/10/5
+Location 95595, 2021/10/12
+Location 95595, 2021/10/19
+Location 95595, 2021/10/26
+Location 95595, 2021/11/2
+Location 95595, 2021/11/9
+Location 95595, 2021/11/16
+Location 95595, 2021/11/23
+Location 95595, 2021/11/30
+Location 95595, 2021/12/7
+Location 95595, 2021/12/14
+Location 95595, 2021/12/21
+Location 95595, 2021/12/28
+Location 95595, 2022/1/4
+Location 95595, 2022/1/11
+Location 95595, 2022/1/18
+Location 95595, 2022/1/25
+Location 95595, 2022/2/1
+Location 95595, 2022/2/8
+Location 95601, 2021/9/21
+Location 95601, 2021/9/28
+Location 95601, 2021/10/5
+Location 95601, 2021/10/12
+Location 95601, 2021/10/19
+Location 95601, 2021/10/26
+Location 95601, 2021/11/2
+Location 95601, 2021/11/9
+Location 95601, 2021/11/16
+Location 95601, 2021/11/23
+Location 95601, 2021/11/30
+Location 95601, 2021/12/7
+Location 95601, 2021/12/14
+Location 95601, 2021/12/21
+Location 95601, 2021/12/28
+Location 95601, 2022/1/4
+Location 95601, 2022/1/11
+Location 95601, 2022/1/18
+Location 95601, 2022/1/25
+Location 95601, 2022/2/1
+Location 95601, 2022/2/8
+Location 95604, 2021/9/21
+Location 95604, 2021/9/28
+Location 95604, 2021/10/5
+Location 95604, 2021/10/12
+Location 95604, 2021/10/19
+Location 95604, 2021/10/26
+Location 95604, 2021/11/2
+Location 95604, 2021/11/9
+Location 95604, 2021/11/16
+Location 95604, 2021/11/23
+Location 95604, 2021/11/30
+Location 95604, 2021/12/7
+Location 95604, 2021/12/14
+Location 95604, 2021/12/21
+Location 95604, 2021/12/28
+Location 95604, 2022/1/4
+Location 95604, 2022/1/11
+Location 95604, 2022/1/18
+Location 95604, 2022/1/25
+Location 95604, 2022/2/1
+Location 95604, 2022/2/8
+Location 95625, 2021/9/21
+Location 95625, 2021/9/28
+Location 95625, 2021/10/5
+Location 95625, 2021/10/12
+Location 95625, 2021/10/19
+Location 95625, 2021/10/26
+Location 95625, 2021/11/2
+Location 95625, 2021/11/9
+Location 95625, 2021/11/16
+Location 95625, 2021/11/23
+Location 95625, 2021/11/30
+Location 95625, 2021/12/7
+Location 95625, 2021/12/14
+Location 95625, 2021/12/21
+Location 95625, 2021/12/28
+Location 95625, 2022/1/4
+Location 95625, 2022/1/11
+Location 95625, 2022/1/18
+Location 95625, 2022/1/25
+Location 95625, 2022/2/1
+Location 95625, 2022/2/8
+Location 95639, 2021/9/21
+Location 95639, 2021/9/28
+Location 95639, 2021/10/5
+Location 95639, 2021/10/12
+Location 95639, 2021/10/19
+Location 95639, 2021/10/26
+Location 95639, 2021/11/2
+Location 95639, 2021/11/9
+Location 95639, 2021/11/16
+Location 95639, 2021/12/28
+Location 95639, 2022/1/4
+Location 95639, 2022/1/11
+Location 95639, 2022/1/18
+Location 95639, 2022/1/25
+Location 95639, 2022/2/1
+Location 95639, 2022/2/8
+Location 95646, 2021/9/21
+Location 95646, 2021/9/28
+Location 95646, 2021/10/5
+Location 95646, 2021/10/12
+Location 95646, 2021/10/19
+Location 95646, 2021/10/26
+Location 95646, 2021/11/2
+Location 95646, 2021/11/9
+Location 95646, 2021/11/16
+Location 95646, 2021/11/23
+Location 95646, 2021/11/30
+Location 95646, 2021/12/7
+Location 95646, 2021/12/14
+Location 95646, 2021/12/21
+Location 95646, 2021/12/28
+Location 95646, 2022/1/4
+Location 95646, 2022/1/11
+Location 95646, 2022/1/18
+Location 95646, 2022/1/25
+Location 95646, 2022/2/1
+Location 95646, 2022/2/8
+Location 95652, 2021/9/21
+Location 95652, 2021/9/28
+Location 95652, 2021/10/5
+Location 95652, 2021/10/12
+Location 95652, 2021/10/19
+Location 95652, 2021/10/26
+Location 95652, 2021/11/2
+Location 95652, 2021/11/9
+Location 95652, 2021/11/16
+Location 95652, 2021/11/23
+Location 95652, 2021/11/30
+Location 95652, 2021/12/7
+Location 95652, 2021/12/14
+Location 95652, 2021/12/21
+Location 95652, 2021/12/28
+Location 95652, 2022/1/4
+Location 95652, 2022/1/11
+Location 95652, 2022/1/18
+Location 95652, 2022/1/25
+Location 95652, 2022/2/1
+Location 95652, 2022/2/8
+Location 95679, 2021/9/21
+Location 95679, 2021/9/28
+Location 95679, 2021/10/5
+Location 95679, 2021/10/12
+Location 95679, 2021/10/19
+Location 95679, 2021/10/26
+Location 95679, 2021/11/2
+Location 95679, 2021/11/9
+Location 95679, 2021/11/16
+Location 95679, 2021/11/23
+Location 95679, 2021/11/30
+Location 95679, 2021/12/7
+Location 95679, 2021/12/14
+Location 95679, 2021/12/21
+Location 95679, 2021/12/28
+Location 95679, 2022/1/4
+Location 95679, 2022/1/11
+Location 95679, 2022/1/18
+Location 95679, 2022/1/25
+Location 95679, 2022/2/1
+Location 95679, 2022/2/8
+Location 95680, 2021/9/21
+Location 95680, 2021/9/28
+Location 95680, 2021/10/5
+Location 95680, 2021/10/12
+Location 95680, 2021/10/19
+Location 95680, 2021/10/26
+Location 95680, 2021/11/2
+Location 95680, 2021/11/9
+Location 95680, 2021/11/16
+Location 95680, 2021/11/23
+Location 95680, 2021/11/30
+Location 95680, 2021/12/7
+Location 95680, 2021/12/14
+Location 95680, 2021/12/21
+Location 95680, 2021/12/28
+Location 95680, 2022/1/4
+Location 95680, 2022/1/11
+Location 95680, 2022/1/18
+Location 95680, 2022/1/25
+Location 95680, 2022/2/1
+Location 95680, 2022/2/8
+Location 95697, 2021/9/21
+Location 95697, 2021/9/28
+Location 95697, 2021/10/5
+Location 95697, 2021/10/12
+Location 95697, 2021/10/19
+Location 95697, 2021/10/26
+Location 95697, 2021/11/2
+Location 95697, 2021/11/9
+Location 95697, 2021/11/16
+Location 95697, 2021/11/23
+Location 95697, 2021/11/30
+Location 95697, 2021/12/7
+Location 95697, 2021/12/14
+Location 95697, 2021/12/21
+Location 95697, 2021/12/28
+Location 95697, 2022/1/4
+Location 95697, 2022/1/11
+Location 95697, 2022/1/18
+Location 95697, 2022/1/25
+Location 95697, 2022/2/1
+Location 95697, 2022/2/8
+Location 95698, 2021/9/21
+Location 95698, 2021/9/28
+Location 95698, 2021/10/5
+Location 95698, 2021/10/12
+Location 95698, 2021/10/19
+Location 95698, 2021/10/26
+Location 95698, 2021/11/2
+Location 95698, 2021/11/9
+Location 95698, 2021/11/16
+Location 95698, 2021/11/23
+Location 95698, 2021/11/30
+Location 95698, 2021/12/7
+Location 95698, 2021/12/14
+Location 95698, 2021/12/21
+Location 95698, 2021/12/28
+Location 95698, 2022/1/4
+Location 95698, 2022/1/11
+Location 95698, 2022/1/18
+Location 95698, 2022/1/25
+Location 95698, 2022/2/1
+Location 95698, 2022/2/8
+Location 95699, 2021/9/21
+Location 95699, 2021/9/28
+Location 95699, 2021/10/5
+Location 95699, 2021/10/12
+Location 95699, 2021/10/19
+Location 95699, 2021/10/26
+Location 95699, 2021/11/2
+Location 95699, 2021/11/9
+Location 95699, 2021/11/16
+Location 95699, 2021/11/23
+Location 95699, 2021/11/30
+Location 95699, 2021/12/7
+Location 95699, 2021/12/14
+Location 95699, 2021/12/21
+Location 95699, 2021/12/28
+Location 95699, 2022/1/4
+Location 95699, 2022/1/11
+Location 95699, 2022/1/18
+Location 95699, 2022/1/25
+Location 95699, 2022/2/1
+Location 95699, 2022/2/8
+Location 95703, 2021/9/21
+Location 95703, 2021/9/28
+Location 95703, 2021/10/5
+Location 95703, 2021/10/12
+Location 95703, 2021/10/19
+Location 95703, 2021/10/26
+Location 95703, 2021/11/2
+Location 95703, 2021/11/9
+Location 95703, 2021/11/16
+Location 95703, 2021/11/23
+Location 95703, 2021/11/30
+Location 95703, 2021/12/7
+Location 95703, 2021/12/14
+Location 95703, 2021/12/21
+Location 95703, 2021/12/28
+Location 95703, 2022/1/4
+Location 95703, 2022/1/11
+Location 95703, 2022/1/18
+Location 95703, 2022/1/25
+Location 95703, 2022/2/1
+Location 95703, 2022/2/8
+Location 95715, 2021/9/21
+Location 95715, 2021/9/28
+Location 95715, 2021/10/5
+Location 95715, 2021/10/12
+Location 95715, 2021/10/19
+Location 95715, 2021/10/26
+Location 95715, 2021/11/2
+Location 95715, 2021/11/9
+Location 95715, 2021/11/16
+Location 95715, 2021/11/23
+Location 95715, 2021/11/30
+Location 95715, 2021/12/7
+Location 95715, 2021/12/14
+Location 95715, 2021/12/21
+Location 95715, 2021/12/28
+Location 95715, 2022/1/4
+Location 95715, 2022/1/11
+Location 95715, 2022/1/18
+Location 95715, 2022/1/25
+Location 95715, 2022/2/1
+Location 95715, 2022/2/8
+Location 95717, 2021/9/28
+Location 95717, 2021/10/5
+Location 95717, 2021/10/12
+Location 95717, 2021/10/19
+Location 95717, 2021/10/26
+Location 95717, 2021/11/2
+Location 95717, 2021/11/9
+Location 95717, 2021/12/7
+Location 95717, 2021/12/14
+Location 95717, 2021/12/21
+Location 95717, 2021/12/28
+Location 95717, 2022/1/18
+Location 95720, 2021/9/21
+Location 95720, 2021/9/28
+Location 95720, 2021/10/5
+Location 95720, 2021/10/12
+Location 95720, 2021/10/19
+Location 95720, 2021/10/26
+Location 95720, 2021/11/2
+Location 95720, 2021/11/9
+Location 95720, 2021/11/16
+Location 95720, 2021/11/23
+Location 95720, 2021/11/30
+Location 95720, 2021/12/7
+Location 95720, 2021/12/14
+Location 95720, 2021/12/21
+Location 95720, 2021/12/28
+Location 95720, 2022/1/4
+Location 95720, 2022/1/11
+Location 95720, 2022/1/18
+Location 95720, 2022/1/25
+Location 95721, 2021/9/21
+Location 95721, 2021/9/28
+Location 95721, 2021/10/5
+Location 95721, 2021/10/12
+Location 95721, 2021/10/19
+Location 95721, 2021/10/26
+Location 95721, 2021/11/2
+Location 95721, 2021/11/9
+Location 95721, 2021/11/16
+Location 95721, 2021/11/23
+Location 95721, 2021/11/30
+Location 95721, 2021/12/7
+Location 95721, 2021/12/14
+Location 95721, 2021/12/21
+Location 95721, 2021/12/28
+Location 95721, 2022/1/4
+Location 95721, 2022/1/11
+Location 95721, 2022/1/18
+Location 95721, 2022/1/25
+Location 95721, 2022/2/1
+Location 95721, 2022/2/8
+Location 95724, 2021/9/21
+Location 95724, 2021/9/28
+Location 95724, 2021/10/5
+Location 95724, 2021/10/12
+Location 95724, 2021/10/19
+Location 95724, 2021/10/26
+Location 95724, 2021/11/2
+Location 95724, 2021/11/9
+Location 95724, 2021/11/16
+Location 95724, 2021/11/23
+Location 95724, 2021/11/30
+Location 95724, 2021/12/7
+Location 95724, 2021/12/14
+Location 95724, 2021/12/21
+Location 95724, 2021/12/28
+Location 95724, 2022/1/4
+Location 95724, 2022/1/11
+Location 95724, 2022/1/18
+Location 95724, 2022/1/25
+Location 95724, 2022/2/1
+Location 95724, 2022/2/8
+Location 95728, 2021/9/21
+Location 95728, 2021/9/28
+Location 95728, 2021/10/5
+Location 95728, 2021/10/12
+Location 95728, 2021/10/19
+Location 95728, 2021/10/26
+Location 95728, 2021/11/2
+Location 95728, 2021/11/9
+Location 95728, 2021/11/16
+Location 95728, 2021/11/23
+Location 95728, 2021/11/30
+Location 95728, 2021/12/7
+Location 95728, 2021/12/14
+Location 95728, 2021/12/21
+Location 95728, 2021/12/28
+Location 95728, 2022/1/4
+Location 95728, 2022/1/11
+Location 95728, 2022/1/18
+Location 95728, 2022/1/25
+Location 95728, 2022/2/1
+Location 95728, 2022/2/8
+Location 95735, 2021/9/21
+Location 95735, 2021/9/28
+Location 95735, 2021/10/5
+Location 95735, 2021/10/12
+Location 95735, 2021/10/19
+Location 95735, 2021/10/26
+Location 95735, 2021/11/2
+Location 95735, 2021/11/9
+Location 95735, 2021/11/16
+Location 95735, 2021/11/23
+Location 95735, 2021/11/30
+Location 95735, 2021/12/7
+Location 95735, 2021/12/14
+Location 95735, 2021/12/21
+Location 95735, 2021/12/28
+Location 95735, 2022/1/4
+Location 95735, 2022/1/11
+Location 95735, 2022/1/18
+Location 95735, 2022/1/25
+Location 95735, 2022/2/1
+Location 95735, 2022/2/8
+Location 95736, 2021/9/21
+Location 95736, 2021/9/28
+Location 95736, 2021/10/5
+Location 95736, 2021/10/12
+Location 95736, 2021/10/19
+Location 95736, 2021/10/26
+Location 95736, 2021/11/2
+Location 95736, 2021/11/9
+Location 95736, 2021/11/16
+Location 95736, 2021/11/23
+Location 95736, 2021/11/30
+Location 95736, 2021/12/7
+Location 95736, 2021/12/14
+Location 95736, 2021/12/21
+Location 95736, 2021/12/28
+Location 95736, 2022/1/4
+Location 95736, 2022/1/11
+Location 95736, 2022/1/18
+Location 95736, 2022/1/25
+Location 95736, 2022/2/1
+Location 95736, 2022/2/8
+Location 95742, 2021/12/21
+Location 95742, 2021/12/28
+Location 95742, 2022/1/4
+Location 95742, 2022/1/11
+Location 95742, 2022/1/18
+Location 95742, 2022/1/25
+Location 95742, 2022/2/1
+Location 95742, 2022/2/8
+Location 95837, 2021/9/21
+Location 95837, 2021/9/28
+Location 95837, 2021/10/5
+Location 95837, 2021/10/12
+Location 95837, 2021/10/19
+Location 95837, 2021/10/26
+Location 95837, 2021/11/2
+Location 95837, 2021/11/9
+Location 95837, 2021/11/16
+Location 95837, 2021/11/23
+Location 95837, 2021/11/30
+Location 95837, 2021/12/7
+Location 95837, 2021/12/14
+Location 95837, 2021/12/21
+Location 95837, 2021/12/28
+Location 95837, 2022/1/4
+Location 95837, 2022/1/11
+Location 95837, 2022/1/18
+Location 95837, 2022/1/25
+Location 95837, 2022/2/1
+Location 95837, 2022/2/8
+Location 95910, 2021/9/21
+Location 95910, 2021/9/28
+Location 95910, 2021/10/5
+Location 95910, 2021/10/12
+Location 95910, 2021/10/19
+Location 95910, 2021/10/26
+Location 95910, 2021/11/2
+Location 95910, 2021/11/9
+Location 95910, 2021/11/16
+Location 95910, 2021/11/23
+Location 95910, 2021/11/30
+Location 95910, 2021/12/7
+Location 95910, 2021/12/14
+Location 95910, 2021/12/21
+Location 95910, 2021/12/28
+Location 95910, 2022/1/4
+Location 95910, 2022/1/11
+Location 95910, 2022/1/18
+Location 95910, 2022/1/25
+Location 95910, 2022/2/1
+Location 95910, 2022/2/8
+Location 95915, 2021/9/21
+Location 95915, 2021/9/28
+Location 95915, 2021/10/5
+Location 95915, 2021/10/12
+Location 95915, 2021/10/19
+Location 95915, 2021/10/26
+Location 95915, 2021/11/2
+Location 95915, 2021/11/9
+Location 95915, 2021/11/16
+Location 95915, 2021/11/23
+Location 95915, 2021/11/30
+Location 95915, 2021/12/7
+Location 95915, 2021/12/14
+Location 95915, 2021/12/21
+Location 95915, 2021/12/28
+Location 95915, 2022/1/4
+Location 95915, 2022/1/11
+Location 95915, 2022/1/18
+Location 95915, 2022/1/25
+Location 95915, 2022/2/1
+Location 95915, 2022/2/8
+Location 95920, 2021/10/5
+Location 95920, 2021/10/12
+Location 95920, 2021/10/19
+Location 95920, 2021/10/26
+Location 95923, 2021/9/21
+Location 95923, 2021/9/28
+Location 95923, 2021/10/5
+Location 95923, 2021/10/12
+Location 95923, 2021/10/19
+Location 95923, 2021/10/26
+Location 95923, 2021/11/2
+Location 95923, 2021/11/9
+Location 95923, 2021/11/16
+Location 95923, 2021/11/23
+Location 95923, 2021/11/30
+Location 95923, 2021/12/7
+Location 95923, 2021/12/14
+Location 95923, 2021/12/21
+Location 95923, 2021/12/28
+Location 95923, 2022/1/4
+Location 95923, 2022/1/11
+Location 95923, 2022/1/18
+Location 95923, 2022/1/25
+Location 95923, 2022/2/1
+Location 95923, 2022/2/8
+Location 95925, 2021/9/21
+Location 95925, 2021/9/28
+Location 95925, 2021/10/5
+Location 95925, 2021/10/12
+Location 95925, 2021/10/19
+Location 95925, 2021/10/26
+Location 95925, 2021/11/2
+Location 95925, 2021/11/9
+Location 95925, 2021/11/16
+Location 95925, 2021/11/23
+Location 95925, 2021/11/30
+Location 95925, 2021/12/7
+Location 95930, 2021/9/21
+Location 95930, 2021/9/28
+Location 95930, 2021/10/5
+Location 95930, 2021/10/12
+Location 95930, 2021/10/19
+Location 95930, 2021/10/26
+Location 95930, 2021/11/2
+Location 95930, 2021/11/9
+Location 95930, 2021/11/16
+Location 95930, 2021/11/23
+Location 95930, 2021/11/30
+Location 95930, 2021/12/7
+Location 95930, 2021/12/14
+Location 95930, 2021/12/21
+Location 95930, 2021/12/28
+Location 95930, 2022/1/4
+Location 95930, 2022/1/11
+Location 95930, 2022/1/18
+Location 95930, 2022/1/25
+Location 95930, 2022/2/1
+Location 95930, 2022/2/8
+Location 95934, 2021/11/30
+Location 95934, 2022/1/4
+Location 95934, 2022/1/11
+Location 95934, 2022/1/18
+Location 95934, 2022/1/25
+Location 95934, 2022/2/1
+Location 95934, 2022/2/8
+Location 95935, 2021/9/21
+Location 95935, 2021/9/28
+Location 95935, 2021/10/5
+Location 95935, 2021/10/12
+Location 95935, 2021/10/19
+Location 95935, 2021/10/26
+Location 95935, 2021/11/2
+Location 95935, 2021/11/9
+Location 95935, 2021/11/16
+Location 95935, 2021/11/23
+Location 95935, 2021/11/30
+Location 95935, 2021/12/7
+Location 95935, 2021/12/14
+Location 95935, 2021/12/21
+Location 95935, 2021/12/28
+Location 95935, 2022/1/4
+Location 95935, 2022/1/11
+Location 95935, 2022/1/18
+Location 95935, 2022/1/25
+Location 95935, 2022/2/1
+Location 95935, 2022/2/8
+Location 95936, 2021/9/21
+Location 95936, 2021/9/28
+Location 95936, 2021/10/5
+Location 95936, 2021/10/12
+Location 95936, 2021/10/19
+Location 95936, 2021/10/26
+Location 95936, 2021/11/2
+Location 95936, 2021/11/9
+Location 95936, 2021/11/16
+Location 95936, 2021/11/23
+Location 95936, 2021/11/30
+Location 95936, 2021/12/7
+Location 95936, 2021/12/14
+Location 95936, 2021/12/21
+Location 95936, 2021/12/28
+Location 95936, 2022/1/4
+Location 95936, 2022/1/11
+Location 95936, 2022/1/18
+Location 95936, 2022/1/25
+Location 95936, 2022/2/1
+Location 95936, 2022/2/8
+Location 95939, 2021/9/21
+Location 95939, 2021/9/28
+Location 95939, 2021/10/5
+Location 95939, 2021/10/12
+Location 95939, 2021/10/19
+Location 95939, 2021/10/26
+Location 95939, 2021/11/2
+Location 95939, 2021/11/9
+Location 95939, 2021/11/16
+Location 95939, 2021/11/23
+Location 95939, 2021/11/30
+Location 95939, 2021/12/7
+Location 95939, 2021/12/28
+Location 95939, 2022/1/4
+Location 95939, 2022/1/11
+Location 95939, 2022/1/18
+Location 95939, 2022/1/25
+Location 95939, 2022/2/1
+Location 95939, 2022/2/8
+Location 95941, 2021/10/5
+Location 95941, 2021/10/12
+Location 95941, 2021/10/19
+Location 95941, 2021/10/26
+Location 95941, 2021/11/2
+Location 95941, 2021/11/9
+Location 95941, 2021/11/16
+Location 95941, 2021/11/23
+Location 95941, 2021/11/30
+Location 95941, 2021/12/7
+Location 95941, 2021/12/28
+Location 95941, 2022/1/4
+Location 95941, 2022/2/8
+Location 95944, 2021/9/21
+Location 95944, 2021/9/28
+Location 95944, 2021/10/5
+Location 95944, 2021/10/12
+Location 95944, 2021/10/19
+Location 95944, 2021/10/26
+Location 95944, 2021/11/2
+Location 95944, 2021/11/9
+Location 95944, 2021/11/16
+Location 95944, 2021/11/23
+Location 95944, 2021/11/30
+Location 95944, 2021/12/7
+Location 95944, 2021/12/14
+Location 95944, 2021/12/21
+Location 95944, 2021/12/28
+Location 95944, 2022/1/4
+Location 95944, 2022/1/11
+Location 95944, 2022/1/18
+Location 95944, 2022/1/25
+Location 95944, 2022/2/1
+Location 95944, 2022/2/8
+Location 95956, 2021/10/26
+Location 95974, 2021/9/21
+Location 95974, 2021/9/28
+Location 95974, 2021/10/5
+Location 95974, 2021/10/12
+Location 95974, 2021/10/19
+Location 95974, 2021/10/26
+Location 95974, 2021/11/2
+Location 95974, 2021/11/9
+Location 95974, 2021/11/16
+Location 95974, 2021/11/23
+Location 95974, 2021/11/30
+Location 95974, 2021/12/7
+Location 95974, 2021/12/14
+Location 95974, 2021/12/21
+Location 95974, 2021/12/28
+Location 95974, 2022/1/4
+Location 95974, 2022/1/11
+Location 95974, 2022/1/18
+Location 95974, 2022/1/25
+Location 95974, 2022/2/1
+Location 95974, 2022/2/8
+Location 95978, 2021/9/21
+Location 95978, 2021/9/28
+Location 95978, 2021/10/5
+Location 95978, 2021/10/12
+Location 95978, 2021/10/19
+Location 95978, 2021/10/26
+Location 95978, 2021/11/2
+Location 95978, 2021/11/9
+Location 95978, 2021/11/16
+Location 95978, 2021/11/23
+Location 95978, 2021/11/30
+Location 95978, 2021/12/7
+Location 95978, 2021/12/14
+Location 95978, 2021/12/21
+Location 95978, 2021/12/28
+Location 95978, 2022/1/4
+Location 95978, 2022/1/11
+Location 95978, 2022/1/18
+Location 95978, 2022/1/25
+Location 95978, 2022/2/1
+Location 95978, 2022/2/8
+Location 95981, 2021/9/21
+Location 95981, 2021/9/28
+Location 95981, 2021/10/5
+Location 95981, 2021/10/12
+Location 95981, 2021/10/19
+Location 95981, 2021/10/26
+Location 95981, 2021/11/2
+Location 95981, 2021/11/9
+Location 95981, 2021/11/16
+Location 95981, 2021/11/23
+Location 95981, 2021/11/30
+Location 95981, 2021/12/7
+Location 95981, 2021/12/14
+Location 95981, 2021/12/21
+Location 95981, 2021/12/28
+Location 95981, 2022/1/4
+Location 95981, 2022/1/11
+Location 95981, 2022/1/18
+Location 95981, 2022/1/25
+Location 95981, 2022/2/1
+Location 95981, 2022/2/8
+Location 95984, 2021/9/21
+Location 95984, 2021/9/28
+Location 95984, 2021/10/5
+Location 95984, 2021/10/12
+Location 95984, 2021/10/19
+Location 95984, 2021/10/26
+Location 95984, 2021/11/2
+Location 95984, 2021/11/9
+Location 95984, 2021/11/16
+Location 95984, 2021/11/23
+Location 95984, 2021/11/30
+Location 95984, 2021/12/7
+Location 95984, 2021/12/14
+Location 95984, 2021/12/21
+Location 95984, 2021/12/28
+Location 95984, 2022/1/4
+Location 95984, 2022/1/11
+Location 95984, 2022/1/18
+Location 95984, 2022/1/25
+Location 95984, 2022/2/1
+Location 95984, 2022/2/8
+Location 95986, 2021/9/21
+Location 95986, 2021/9/28
+Location 95986, 2021/10/5
+Location 95986, 2021/10/12
+Location 95986, 2021/10/19
+Location 95986, 2021/10/26
+Location 95986, 2021/11/2
+Location 95986, 2021/11/9
+Location 95986, 2021/11/16
+Location 95986, 2021/11/23
+Location 95986, 2021/11/30
+Location 95986, 2021/12/7
+Location 95986, 2021/12/14
+Location 95986, 2021/12/21
+Location 95986, 2021/12/28
+Location 95986, 2022/1/4
+Location 95986, 2022/1/11
+Location 95986, 2022/1/18
+Location 95986, 2022/1/25
+Location 95986, 2022/2/1
+Location 95986, 2022/2/8
+Location 96008, 2021/9/21
+Location 96008, 2021/9/28
+Location 96008, 2021/10/5
+Location 96008, 2021/10/12
+Location 96008, 2021/10/19
+Location 96008, 2021/10/26
+Location 96008, 2021/11/2
+Location 96008, 2021/11/9
+Location 96008, 2021/11/16
+Location 96008, 2021/11/23
+Location 96008, 2021/11/30
+Location 96008, 2021/12/7
+Location 96008, 2021/12/14
+Location 96008, 2021/12/21
+Location 96008, 2021/12/28
+Location 96008, 2022/1/4
+Location 96008, 2022/1/11
+Location 96008, 2022/1/18
+Location 96008, 2022/1/25
+Location 96008, 2022/2/1
+Location 96008, 2022/2/8
+Location 96010, 2021/9/21
+Location 96010, 2021/10/5
+Location 96010, 2021/10/12
+Location 96010, 2021/11/23
+Location 96010, 2021/11/30
+Location 96010, 2021/12/7
+Location 96010, 2021/12/14
+Location 96010, 2021/12/21
+Location 96010, 2021/12/28
+Location 96010, 2022/1/4
+Location 96010, 2022/1/11
+Location 96010, 2022/1/18
+Location 96010, 2022/1/25
+Location 96010, 2022/2/1
+Location 96010, 2022/2/8
+Location 96011, 2021/9/21
+Location 96011, 2021/9/28
+Location 96011, 2021/10/5
+Location 96011, 2021/10/12
+Location 96011, 2021/10/19
+Location 96011, 2021/10/26
+Location 96011, 2021/11/2
+Location 96011, 2021/11/9
+Location 96011, 2021/11/16
+Location 96011, 2021/11/23
+Location 96011, 2021/11/30
+Location 96011, 2021/12/7
+Location 96011, 2021/12/14
+Location 96011, 2021/12/21
+Location 96011, 2021/12/28
+Location 96011, 2022/1/4
+Location 96011, 2022/1/11
+Location 96011, 2022/1/18
+Location 96011, 2022/1/25
+Location 96011, 2022/2/1
+Location 96011, 2022/2/8
+Location 96014, 2021/9/21
+Location 96014, 2021/9/28
+Location 96014, 2021/10/5
+Location 96014, 2021/10/12
+Location 96014, 2021/10/19
+Location 96014, 2021/10/26
+Location 96014, 2021/11/2
+Location 96014, 2021/11/9
+Location 96014, 2021/11/16
+Location 96014, 2021/11/23
+Location 96014, 2021/11/30
+Location 96014, 2021/12/7
+Location 96014, 2021/12/14
+Location 96014, 2021/12/21
+Location 96014, 2021/12/28
+Location 96014, 2022/1/4
+Location 96014, 2022/1/11
+Location 96014, 2022/1/18
+Location 96014, 2022/1/25
+Location 96014, 2022/2/1
+Location 96014, 2022/2/8
+Location 96015, 2021/9/21
+Location 96015, 2021/9/28
+Location 96015, 2021/10/5
+Location 96015, 2021/10/26
+Location 96015, 2021/11/2
+Location 96015, 2021/11/9
+Location 96015, 2021/11/16
+Location 96015, 2021/11/23
+Location 96015, 2021/11/30
+Location 96015, 2021/12/7
+Location 96015, 2021/12/14
+Location 96015, 2022/1/25
+Location 96015, 2022/2/1
+Location 96015, 2022/2/8
+Location 96017, 2021/9/21
+Location 96017, 2021/9/28
+Location 96017, 2021/10/5
+Location 96017, 2021/10/12
+Location 96017, 2021/10/19
+Location 96017, 2021/10/26
+Location 96017, 2021/11/2
+Location 96017, 2021/11/9
+Location 96017, 2021/11/16
+Location 96017, 2021/11/23
+Location 96017, 2021/11/30
+Location 96017, 2021/12/7
+Location 96017, 2021/12/14
+Location 96017, 2021/12/21
+Location 96017, 2021/12/28
+Location 96017, 2022/1/4
+Location 96017, 2022/1/11
+Location 96017, 2022/1/18
+Location 96017, 2022/1/25
+Location 96017, 2022/2/1
+Location 96017, 2022/2/8
+Location 96029, 2021/9/21
+Location 96029, 2021/9/28
+Location 96029, 2021/10/5
+Location 96029, 2021/10/12
+Location 96029, 2021/10/19
+Location 96029, 2021/10/26
+Location 96029, 2021/11/2
+Location 96029, 2021/11/9
+Location 96029, 2021/11/16
+Location 96029, 2021/11/23
+Location 96029, 2021/11/30
+Location 96029, 2021/12/7
+Location 96029, 2021/12/14
+Location 96029, 2021/12/21
+Location 96029, 2021/12/28
+Location 96029, 2022/1/4
+Location 96029, 2022/1/11
+Location 96029, 2022/1/18
+Location 96029, 2022/1/25
+Location 96029, 2022/2/1
+Location 96029, 2022/2/8
+Location 96031, 2021/9/21
+Location 96031, 2021/9/28
+Location 96031, 2021/10/5
+Location 96031, 2021/10/12
+Location 96031, 2021/10/19
+Location 96031, 2021/10/26
+Location 96031, 2021/11/2
+Location 96031, 2021/11/9
+Location 96031, 2021/11/16
+Location 96031, 2021/11/23
+Location 96031, 2021/11/30
+Location 96031, 2021/12/7
+Location 96031, 2021/12/14
+Location 96031, 2021/12/21
+Location 96031, 2021/12/28
+Location 96031, 2022/1/4
+Location 96031, 2022/1/11
+Location 96031, 2022/1/18
+Location 96031, 2022/1/25
+Location 96031, 2022/2/1
+Location 96031, 2022/2/8
+Location 96034, 2021/10/12
+Location 96037, 2021/9/21
+Location 96037, 2021/9/28
+Location 96037, 2021/10/5
+Location 96037, 2021/10/12
+Location 96037, 2021/10/19
+Location 96037, 2021/10/26
+Location 96037, 2021/11/23
+Location 96037, 2021/11/30
+Location 96037, 2021/12/7
+Location 96037, 2021/12/14
+Location 96037, 2021/12/21
+Location 96037, 2021/12/28
+Location 96037, 2022/1/4
+Location 96037, 2022/1/11
+Location 96037, 2022/1/18
+Location 96037, 2022/1/25
+Location 96037, 2022/2/1
+Location 96037, 2022/2/8
+Location 96040, 2021/9/21
+Location 96040, 2021/9/28
+Location 96040, 2021/10/5
+Location 96040, 2021/10/12
+Location 96040, 2021/10/19
+Location 96040, 2021/10/26
+Location 96040, 2021/11/2
+Location 96040, 2021/11/9
+Location 96040, 2021/11/16
+Location 96040, 2021/11/23
+Location 96040, 2021/11/30
+Location 96040, 2021/12/7
+Location 96040, 2021/12/14
+Location 96040, 2021/12/21
+Location 96040, 2021/12/28
+Location 96040, 2022/1/4
+Location 96040, 2022/1/11
+Location 96040, 2022/1/18
+Location 96040, 2022/1/25
+Location 96040, 2022/2/1
+Location 96040, 2022/2/8
+Location 96046, 2021/9/21
+Location 96046, 2021/9/28
+Location 96046, 2021/10/5
+Location 96046, 2021/10/12
+Location 96046, 2021/10/19
+Location 96046, 2021/10/26
+Location 96046, 2021/11/2
+Location 96046, 2021/11/9
+Location 96046, 2021/11/16
+Location 96046, 2021/11/23
+Location 96046, 2021/11/30
+Location 96046, 2021/12/7
+Location 96046, 2021/12/14
+Location 96046, 2021/12/21
+Location 96046, 2021/12/28
+Location 96046, 2022/1/4
+Location 96046, 2022/1/11
+Location 96046, 2022/1/18
+Location 96046, 2022/1/25
+Location 96046, 2022/2/1
+Location 96046, 2022/2/8
+Location 96049, 2021/9/21
+Location 96049, 2021/9/28
+Location 96049, 2021/10/5
+Location 96049, 2021/10/12
+Location 96049, 2021/10/19
+Location 96049, 2021/10/26
+Location 96049, 2021/11/2
+Location 96049, 2021/11/9
+Location 96049, 2021/11/16
+Location 96049, 2021/11/23
+Location 96049, 2021/11/30
+Location 96049, 2021/12/7
+Location 96049, 2021/12/14
+Location 96049, 2021/12/21
+Location 96049, 2021/12/28
+Location 96049, 2022/1/4
+Location 96049, 2022/1/11
+Location 96049, 2022/1/18
+Location 96049, 2022/1/25
+Location 96049, 2022/2/1
+Location 96049, 2022/2/8
+Location 96050, 2021/9/21
+Location 96050, 2021/10/19
+Location 96050, 2021/10/26
+Location 96050, 2021/11/2
+Location 96050, 2021/11/9
+Location 96054, 2021/11/2
+Location 96054, 2021/11/9
+Location 96054, 2021/11/16
+Location 96054, 2021/11/23
+Location 96054, 2021/11/30
+Location 96054, 2021/12/7
+Location 96054, 2021/12/14
+Location 96054, 2021/12/21
+Location 96054, 2021/12/28
+Location 96054, 2022/1/4
+Location 96054, 2022/1/11
+Location 96054, 2022/1/18
+Location 96054, 2022/1/25
+Location 96054, 2022/2/1
+Location 96054, 2022/2/8
+Location 96061, 2021/9/21
+Location 96061, 2021/9/28
+Location 96061, 2021/10/5
+Location 96061, 2021/10/12
+Location 96061, 2021/10/19
+Location 96061, 2021/10/26
+Location 96061, 2021/11/2
+Location 96061, 2021/11/9
+Location 96061, 2021/11/16
+Location 96061, 2021/11/23
+Location 96061, 2021/11/30
+Location 96061, 2021/12/7
+Location 96061, 2021/12/14
+Location 96061, 2021/12/21
+Location 96061, 2021/12/28
+Location 96061, 2022/1/4
+Location 96061, 2022/1/11
+Location 96061, 2022/1/18
+Location 96061, 2022/1/25
+Location 96061, 2022/2/1
+Location 96061, 2022/2/8
+Location 96063, 2021/9/21
+Location 96063, 2021/9/28
+Location 96063, 2021/10/5
+Location 96063, 2021/10/12
+Location 96063, 2021/10/19
+Location 96063, 2021/10/26
+Location 96063, 2021/11/2
+Location 96063, 2021/11/9
+Location 96063, 2021/11/16
+Location 96063, 2021/11/23
+Location 96063, 2021/11/30
+Location 96063, 2021/12/7
+Location 96063, 2021/12/14
+Location 96063, 2021/12/21
+Location 96063, 2021/12/28
+Location 96063, 2022/1/4
+Location 96063, 2022/1/11
+Location 96063, 2022/1/18
+Location 96063, 2022/1/25
+Location 96063, 2022/2/1
+Location 96063, 2022/2/8
+Location 96068, 2021/9/21
+Location 96068, 2021/9/28
+Location 96068, 2021/10/5
+Location 96068, 2021/10/12
+Location 96068, 2021/10/19
+Location 96068, 2021/10/26
+Location 96068, 2021/11/2
+Location 96068, 2021/11/9
+Location 96068, 2021/11/16
+Location 96068, 2021/11/23
+Location 96068, 2021/11/30
+Location 96068, 2021/12/7
+Location 96068, 2021/12/14
+Location 96068, 2021/12/21
+Location 96068, 2021/12/28
+Location 96068, 2022/1/4
+Location 96068, 2022/1/11
+Location 96068, 2022/1/18
+Location 96068, 2022/1/25
+Location 96068, 2022/2/1
+Location 96068, 2022/2/8
+Location 96071, 2021/9/21
+Location 96071, 2021/9/28
+Location 96071, 2021/10/5
+Location 96071, 2021/10/12
+Location 96071, 2021/10/19
+Location 96071, 2021/10/26
+Location 96071, 2021/11/2
+Location 96071, 2021/11/9
+Location 96071, 2021/11/16
+Location 96071, 2021/11/23
+Location 96071, 2021/11/30
+Location 96071, 2021/12/7
+Location 96071, 2021/12/14
+Location 96071, 2021/12/21
+Location 96071, 2021/12/28
+Location 96071, 2022/1/4
+Location 96071, 2022/1/11
+Location 96071, 2022/1/18
+Location 96071, 2022/1/25
+Location 96071, 2022/2/1
+Location 96071, 2022/2/8
+Location 96074, 2021/9/21
+Location 96074, 2021/9/28
+Location 96074, 2021/10/5
+Location 96074, 2021/10/12
+Location 96074, 2021/10/19
+Location 96074, 2021/10/26
+Location 96074, 2021/11/2
+Location 96074, 2021/11/9
+Location 96074, 2021/11/16
+Location 96074, 2021/11/23
+Location 96074, 2021/11/30
+Location 96074, 2021/12/7
+Location 96074, 2021/12/14
+Location 96074, 2021/12/21
+Location 96074, 2021/12/28
+Location 96074, 2022/1/4
+Location 96074, 2022/1/11
+Location 96074, 2022/1/18
+Location 96074, 2022/1/25
+Location 96074, 2022/2/1
+Location 96074, 2022/2/8
+Location 96075, 2021/9/21
+Location 96075, 2021/9/28
+Location 96075, 2021/10/5
+Location 96075, 2021/10/12
+Location 96075, 2021/10/19
+Location 96075, 2021/10/26
+Location 96075, 2021/11/2
+Location 96075, 2021/11/9
+Location 96075, 2021/11/16
+Location 96075, 2021/11/23
+Location 96075, 2021/11/30
+Location 96075, 2021/12/7
+Location 96075, 2021/12/14
+Location 96075, 2021/12/21
+Location 96075, 2021/12/28
+Location 96075, 2022/1/4
+Location 96075, 2022/1/11
+Location 96075, 2022/1/18
+Location 96075, 2022/1/25
+Location 96075, 2022/2/1
+Location 96075, 2022/2/8
+Location 96076, 2021/9/28
+Location 96076, 2021/10/5
+Location 96076, 2021/10/12
+Location 96076, 2021/10/19
+Location 96076, 2021/10/26
+Location 96076, 2021/11/2
+Location 96076, 2021/11/9
+Location 96076, 2021/11/16
+Location 96076, 2021/11/23
+Location 96076, 2021/11/30
+Location 96076, 2021/12/7
+Location 96076, 2021/12/14
+Location 96076, 2021/12/21
+Location 96076, 2021/12/28
+Location 96076, 2022/1/4
+Location 96076, 2022/1/11
+Location 96076, 2022/1/18
+Location 96076, 2022/1/25
+Location 96076, 2022/2/1
+Location 96076, 2022/2/8
+Location 96085, 2021/9/21
+Location 96085, 2021/9/28
+Location 96085, 2021/10/5
+Location 96085, 2021/10/12
+Location 96085, 2021/10/19
+Location 96085, 2021/10/26
+Location 96085, 2021/11/2
+Location 96085, 2021/11/9
+Location 96085, 2021/11/16
+Location 96085, 2021/11/23
+Location 96085, 2021/11/30
+Location 96085, 2021/12/7
+Location 96085, 2021/12/14
+Location 96085, 2021/12/21
+Location 96085, 2021/12/28
+Location 96085, 2022/1/4
+Location 96085, 2022/1/11
+Location 96085, 2022/1/18
+Location 96085, 2022/1/25
+Location 96085, 2022/2/1
+Location 96085, 2022/2/8
+Location 96086, 2021/9/28
+Location 96086, 2021/10/5
+Location 96086, 2021/10/12
+Location 96086, 2021/10/19
+Location 96086, 2021/10/26
+Location 96086, 2021/11/2
+Location 96086, 2021/11/9
+Location 96105, 2021/10/19
+Location 96105, 2021/10/26
+Location 96105, 2021/11/2
+Location 96105, 2021/11/9
+Location 96105, 2021/11/16
+Location 96105, 2021/11/23
+Location 96105, 2021/12/7
+Location 96105, 2021/12/14
+Location 96105, 2021/12/21
+Location 96105, 2021/12/28
+Location 96105, 2022/1/4
+Location 96105, 2022/1/11
+Location 96105, 2022/2/8
+Location 96106, 2021/9/21
+Location 96106, 2021/9/28
+Location 96106, 2021/10/5
+Location 96106, 2021/10/12
+Location 96106, 2021/10/19
+Location 96106, 2021/10/26
+Location 96106, 2021/11/2
+Location 96106, 2021/11/9
+Location 96106, 2021/11/16
+Location 96106, 2021/11/23
+Location 96106, 2021/11/30
+Location 96106, 2021/12/7
+Location 96106, 2021/12/14
+Location 96106, 2021/12/21
+Location 96106, 2021/12/28
+Location 96106, 2022/1/4
+Location 96106, 2022/1/11
+Location 96106, 2022/1/18
+Location 96106, 2022/1/25
+Location 96106, 2022/2/1
+Location 96106, 2022/2/8
+Location 96108, 2021/9/21
+Location 96108, 2021/9/28
+Location 96108, 2021/10/5
+Location 96108, 2021/10/12
+Location 96108, 2021/10/19
+Location 96108, 2021/10/26
+Location 96108, 2021/11/2
+Location 96108, 2021/11/9
+Location 96108, 2021/11/16
+Location 96108, 2021/11/23
+Location 96108, 2021/11/30
+Location 96108, 2021/12/7
+Location 96108, 2021/12/14
+Location 96108, 2021/12/21
+Location 96108, 2021/12/28
+Location 96108, 2022/1/4
+Location 96108, 2022/1/11
+Location 96108, 2022/1/18
+Location 96108, 2022/1/25
+Location 96108, 2022/2/1
+Location 96108, 2022/2/8
+Location 96110, 2021/9/21
+Location 96110, 2021/9/28
+Location 96110, 2021/10/5
+Location 96110, 2021/10/12
+Location 96110, 2021/10/19
+Location 96110, 2021/10/26
+Location 96110, 2021/11/2
+Location 96110, 2021/11/9
+Location 96110, 2021/11/16
+Location 96110, 2021/11/23
+Location 96110, 2021/11/30
+Location 96110, 2021/12/7
+Location 96110, 2021/12/14
+Location 96110, 2021/12/21
+Location 96110, 2021/12/28
+Location 96110, 2022/1/4
+Location 96110, 2022/1/11
+Location 96110, 2022/1/18
+Location 96110, 2022/1/25
+Location 96110, 2022/2/1
+Location 96110, 2022/2/8
+Location 96111, 2021/9/21
+Location 96111, 2021/9/28
+Location 96111, 2021/10/5
+Location 96111, 2021/10/12
+Location 96111, 2021/10/19
+Location 96111, 2021/10/26
+Location 96111, 2021/11/2
+Location 96111, 2021/11/9
+Location 96111, 2021/11/16
+Location 96111, 2021/11/23
+Location 96111, 2021/11/30
+Location 96111, 2021/12/7
+Location 96111, 2021/12/14
+Location 96111, 2021/12/21
+Location 96111, 2021/12/28
+Location 96111, 2022/1/4
+Location 96111, 2022/1/11
+Location 96111, 2022/1/18
+Location 96111, 2022/1/25
+Location 96111, 2022/2/1
+Location 96111, 2022/2/8
+Location 96112, 2021/9/21
+Location 96112, 2021/9/28
+Location 96112, 2021/10/5
+Location 96112, 2021/10/12
+Location 96112, 2021/10/19
+Location 96112, 2021/10/26
+Location 96112, 2021/11/2
+Location 96112, 2021/11/9
+Location 96112, 2021/11/16
+Location 96112, 2021/11/23
+Location 96112, 2021/11/30
+Location 96112, 2021/12/7
+Location 96112, 2021/12/14
+Location 96112, 2021/12/21
+Location 96112, 2021/12/28
+Location 96112, 2022/1/4
+Location 96112, 2022/1/11
+Location 96112, 2022/1/18
+Location 96112, 2022/1/25
+Location 96112, 2022/2/1
+Location 96112, 2022/2/8
+Location 96115, 2021/9/21
+Location 96115, 2021/9/28
+Location 96115, 2021/10/5
+Location 96115, 2021/10/12
+Location 96115, 2021/10/19
+Location 96115, 2021/10/26
+Location 96115, 2021/11/2
+Location 96115, 2021/11/9
+Location 96115, 2021/11/16
+Location 96115, 2021/11/23
+Location 96115, 2021/11/30
+Location 96115, 2021/12/7
+Location 96115, 2021/12/14
+Location 96115, 2021/12/21
+Location 96115, 2021/12/28
+Location 96115, 2022/1/4
+Location 96115, 2022/1/11
+Location 96115, 2022/1/18
+Location 96115, 2022/1/25
+Location 96115, 2022/2/1
+Location 96115, 2022/2/8
+Location 96116, 2021/9/21
+Location 96116, 2021/9/28
+Location 96116, 2021/10/5
+Location 96116, 2021/10/12
+Location 96116, 2021/10/19
+Location 96116, 2021/10/26
+Location 96116, 2021/11/2
+Location 96116, 2021/11/9
+Location 96116, 2021/11/16
+Location 96116, 2021/11/23
+Location 96116, 2021/11/30
+Location 96116, 2021/12/7
+Location 96116, 2021/12/14
+Location 96116, 2021/12/21
+Location 96116, 2021/12/28
+Location 96116, 2022/1/4
+Location 96116, 2022/1/11
+Location 96116, 2022/1/18
+Location 96116, 2022/1/25
+Location 96116, 2022/2/1
+Location 96116, 2022/2/8
+Location 96117, 2021/9/21
+Location 96117, 2021/9/28
+Location 96117, 2021/10/5
+Location 96117, 2021/10/12
+Location 96117, 2021/10/19
+Location 96117, 2021/10/26
+Location 96117, 2021/11/2
+Location 96117, 2021/11/9
+Location 96117, 2021/11/16
+Location 96117, 2021/11/23
+Location 96117, 2021/11/30
+Location 96117, 2021/12/7
+Location 96117, 2021/12/14
+Location 96117, 2021/12/21
+Location 96117, 2021/12/28
+Location 96117, 2022/1/4
+Location 96117, 2022/1/11
+Location 96117, 2022/1/18
+Location 96117, 2022/1/25
+Location 96117, 2022/2/1
+Location 96117, 2022/2/8
+Location 96119, 2021/9/21
+Location 96119, 2021/9/28
+Location 96119, 2021/10/5
+Location 96119, 2021/10/12
+Location 96119, 2021/10/19
+Location 96119, 2021/10/26
+Location 96119, 2021/11/2
+Location 96119, 2021/11/9
+Location 96119, 2021/11/16
+Location 96119, 2021/11/23
+Location 96119, 2021/11/30
+Location 96119, 2021/12/7
+Location 96119, 2021/12/14
+Location 96119, 2021/12/21
+Location 96119, 2021/12/28
+Location 96119, 2022/1/4
+Location 96119, 2022/1/11
+Location 96119, 2022/1/18
+Location 96119, 2022/1/25
+Location 96119, 2022/2/1
+Location 96119, 2022/2/8
+Location 96123, 2021/9/21
+Location 96123, 2021/9/28
+Location 96123, 2021/10/5
+Location 96123, 2021/10/12
+Location 96123, 2021/10/19
+Location 96123, 2021/10/26
+Location 96123, 2021/11/2
+Location 96123, 2021/11/9
+Location 96123, 2021/11/16
+Location 96123, 2021/11/23
+Location 96123, 2021/11/30
+Location 96123, 2021/12/7
+Location 96123, 2021/12/14
+Location 96123, 2021/12/21
+Location 96123, 2021/12/28
+Location 96123, 2022/1/4
+Location 96123, 2022/1/11
+Location 96123, 2022/1/18
+Location 96123, 2022/1/25
+Location 96123, 2022/2/1
+Location 96123, 2022/2/8
+Location 96124, 2021/9/28
+Location 96124, 2021/10/5
+Location 96124, 2021/10/12
+Location 96124, 2021/10/19
+Location 96124, 2021/10/26
+Location 96124, 2021/11/2
+Location 96124, 2021/11/9
+Location 96124, 2021/11/16
+Location 96124, 2021/11/23
+Location 96124, 2021/12/21
+Location 96124, 2021/12/28
+Location 96124, 2022/1/4
+Location 96124, 2022/1/11
+Location 96124, 2022/1/18
+Location 96124, 2022/2/1
+Location 96124, 2022/2/8
+Location 96125, 2021/9/21
+Location 96125, 2021/9/28
+Location 96125, 2021/10/5
+Location 96125, 2021/10/12
+Location 96125, 2021/10/19
+Location 96125, 2021/10/26
+Location 96125, 2021/11/2
+Location 96125, 2021/11/9
+Location 96125, 2021/11/16
+Location 96125, 2021/11/23
+Location 96125, 2021/11/30
+Location 96125, 2021/12/7
+Location 96125, 2021/12/14
+Location 96125, 2021/12/21
+Location 96125, 2021/12/28
+Location 96125, 2022/1/4
+Location 96125, 2022/1/11
+Location 96125, 2022/1/18
+Location 96125, 2022/1/25
+Location 96125, 2022/2/1
+Location 96125, 2022/2/8
+Location 96126, 2021/9/21
+Location 96126, 2021/9/28
+Location 96126, 2021/10/5
+Location 96126, 2021/10/12
+Location 96126, 2021/10/19
+Location 96126, 2021/10/26
+Location 96126, 2021/11/2
+Location 96126, 2021/11/9
+Location 96126, 2021/11/16
+Location 96126, 2021/11/23
+Location 96126, 2021/11/30
+Location 96126, 2021/12/7
+Location 96126, 2021/12/14
+Location 96126, 2021/12/21
+Location 96126, 2021/12/28
+Location 96126, 2022/1/4
+Location 96126, 2022/1/11
+Location 96126, 2022/1/18
+Location 96126, 2022/1/25
+Location 96126, 2022/2/1
+Location 96126, 2022/2/8
+Location 96129, 2021/10/19
+Location 96129, 2021/10/26
+Location 96132, 2021/9/21
+Location 96132, 2021/9/28
+Location 96132, 2021/10/5
+Location 96132, 2021/10/12
+Location 96132, 2021/10/19
+Location 96132, 2021/10/26
+Location 96132, 2021/11/2
+Location 96132, 2021/11/9
+Location 96132, 2021/11/16
+Location 96132, 2021/11/23
+Location 96132, 2021/11/30
+Location 96132, 2021/12/7
+Location 96132, 2021/12/14
+Location 96132, 2021/12/21
+Location 96132, 2021/12/28
+Location 96132, 2022/1/4
+Location 96132, 2022/1/11
+Location 96132, 2022/1/18
+Location 96132, 2022/1/25
+Location 96132, 2022/2/1
+Location 96132, 2022/2/8
+Location 96133, 2021/9/21
+Location 96133, 2021/9/28
+Location 96133, 2021/10/5
+Location 96133, 2021/10/12
+Location 96133, 2021/10/19
+Location 96133, 2021/10/26
+Location 96133, 2021/11/2
+Location 96133, 2021/11/9
+Location 96133, 2021/11/16
+Location 96133, 2021/11/23
+Location 96133, 2021/11/30
+Location 96133, 2021/12/7
+Location 96133, 2021/12/14
+Location 96133, 2021/12/21
+Location 96133, 2021/12/28
+Location 96133, 2022/1/4
+Location 96133, 2022/1/11
+Location 96133, 2022/1/18
+Location 96133, 2022/1/25
+Location 96133, 2022/2/1
+Location 96133, 2022/2/8
+Location 96135, 2021/9/21
+Location 96135, 2021/9/28
+Location 96135, 2021/10/5
+Location 96135, 2021/10/12
+Location 96135, 2021/10/19
+Location 96135, 2021/10/26
+Location 96135, 2021/11/2
+Location 96135, 2021/11/9
+Location 96135, 2021/11/16
+Location 96135, 2021/11/23
+Location 96135, 2021/11/30
+Location 96135, 2021/12/7
+Location 96135, 2021/12/14
+Location 96135, 2021/12/21
+Location 96135, 2021/12/28
+Location 96135, 2022/1/4
+Location 96135, 2022/1/11
+Location 96135, 2022/1/18
+Location 96135, 2022/1/25
+Location 96135, 2022/2/1
+Location 96135, 2022/2/8
+Location 96136, 2021/9/21
+Location 96136, 2021/9/28
+Location 96136, 2021/10/5
+Location 96136, 2021/10/12
+Location 96136, 2021/10/19
+Location 96136, 2021/10/26
+Location 96136, 2021/11/2
+Location 96136, 2021/11/9
+Location 96136, 2021/11/16
+Location 96136, 2021/11/23
+Location 96136, 2021/11/30
+Location 96136, 2021/12/7
+Location 96136, 2021/12/14
+Location 96136, 2021/12/21
+Location 96136, 2021/12/28
+Location 96136, 2022/1/4
+Location 96136, 2022/1/11
+Location 96136, 2022/1/18
+Location 96136, 2022/1/25
+Location 96136, 2022/2/1
+Location 96136, 2022/2/8
+Location 96141, 2021/9/21
+Location 96141, 2021/9/28
+Location 96141, 2021/10/5
+Location 96141, 2021/10/12
+Location 96141, 2021/10/19
+Location 96141, 2021/10/26
+Location 96141, 2021/11/2
+Location 96141, 2021/11/9
+Location 96141, 2021/11/16
+Location 96141, 2021/11/23
+Location 96141, 2021/11/30
+Location 96141, 2021/12/7
+Location 96141, 2021/12/14
+Location 96141, 2021/12/21
+Location 96141, 2021/12/28
+Location 96141, 2022/1/4
+Location 96141, 2022/1/11
+Location 96141, 2022/1/18
+Location 96141, 2022/1/25
+Location 96141, 2022/2/1
+Location 96141, 2022/2/8
+Location 96145, 2021/9/21
+Location 96145, 2021/9/28
+Location 96145, 2021/10/5
+Location 96145, 2021/10/12
+Location 96145, 2021/10/19
+Location 96145, 2021/10/26
+Location 96145, 2021/11/2
+Location 96145, 2021/11/9
+Location 96145, 2021/11/16
+Location 96145, 2021/11/23
+Location 96145, 2021/11/30
+Location 96145, 2021/12/7
+Location 96145, 2021/12/14
+Location 96145, 2021/12/21
+Location 96145, 2021/12/28
+Location 96145, 2022/1/4
+Location 96145, 2022/1/11
+Location 96145, 2022/1/18
+Location 96145, 2022/1/25
+Location 96145, 2022/2/1
+Location 96145, 2022/2/8
+Location 96148, 2021/9/21
+Location 96148, 2021/9/28
+Location 96148, 2021/10/5
+Location 96148, 2021/10/12
+Location 96148, 2021/10/19
+Location 96148, 2021/10/26
+Location 96148, 2021/11/2
+Location 96148, 2021/11/9
+Location 96148, 2021/11/16
+Location 96148, 2021/11/23
+Location 96148, 2021/11/30
+Location 96148, 2021/12/7
+Location 96148, 2021/12/14
+Location 96148, 2021/12/21
+Location 96148, 2021/12/28
+Location 96148, 2022/1/4
+Location 96148, 2022/1/11
+Location 96148, 2022/1/18
+Location 96148, 2022/1/25
+Location 96148, 2022/2/1
+Location 96148, 2022/2/8
+Location 96155, 2021/9/21
+Location 96155, 2021/9/28
+Location 96155, 2021/10/5
+Location 96155, 2021/10/12
+Location 96155, 2021/10/19
+Location 96155, 2021/10/26
+Location 96155, 2021/11/2
+Location 96155, 2021/11/9
+Location 96155, 2021/11/16
+Location 96155, 2021/11/23
+Location 96155, 2021/11/30
+Location 96155, 2021/12/7
+Location 96155, 2021/12/14
+Location 96155, 2021/12/21
+Location 96155, 2021/12/28
+Location 96155, 2022/1/4
+Location 96155, 2022/1/11
+Location 96155, 2022/1/18
+Location 96155, 2022/1/25
+Location 96155, 2022/2/1
+Location 96155, 2022/2/8
+Location 97635, 2021/9/21
+Location 97635, 2021/9/28
+Location 97635, 2021/10/5
+Location 97635, 2021/10/12
+Location 97635, 2021/10/19
+Location 97635, 2021/10/26
+Location 97635, 2021/11/2
+Location 97635, 2021/11/9
+Location 97635, 2021/11/16
+Location 97635, 2021/11/23
+Location 97635, 2021/11/30
+Location 97635, 2021/12/7
+Location 97635, 2021/12/14
+Location 97635, 2021/12/21
+Location 97635, 2021/12/28
+Location 97635, 2022/1/4
+Location 97635, 2022/1/11
+Location 97635, 2022/1/18
+Location 97635, 2022/1/25
+Location 97635, 2022/2/1
+Location 97635, 2022/2/8
+_______________________________________________________________________________________________
+
+PARAMETER SETTINGS
+
+Input
+-----
+  Case File        : /tmp/RtmpX7OyNf/CAvax.cas
+  Population File  : /tmp/RtmpX7OyNf/CAvax.pop
+  Time Precision   : Day
+  Start Time       : 2021/09/21
+  End Time         : 2022/02/08
+  Coordinates File : /tmp/RtmpX7OyNf/CAvax.geo
+  Coordinates      : Latitude/Longitude
+
+Analysis
+--------
+  Type of Analysis        : Prospective Space-Time
+  Probability Model       : Discrete Poisson
+  Scan for Areas with     : Low Rates
+  Time Aggregation Units  : Day
+  Time Aggregation Length : 7
+
+Output
+------
+  Main Results File       : /tmp/RtmpX7OyNf/CAvax.txt
+  Google Maps File        : /tmp/RtmpX7OyNf/CAvax.clustermap.html
+  Shapefile (Cluster)     : /tmp/RtmpX7OyNf/CAvax.clustermap.col.shp
+  Cluster File            : /tmp/RtmpX7OyNf/CAvax.clustermap.col.dbf
+  Stratified Cluster File : /tmp/RtmpX7OyNf/CAvax.clustermap.sci.dbf
+  Location File           : /tmp/RtmpX7OyNf/CAvax.clustermap.gis.dbf
+  Shapefile (Locations)   : /tmp/RtmpX7OyNf/CAvax.clustermap.gis.shp
+  Risk Estimates File     : /tmp/RtmpX7OyNf/CAvax.clustermap.rr.dbf
+  Simulated LLRs File     : /tmp/RtmpX7OyNf/CAvax.clustermap.llr.dbf
+
+Data Checking
+-------------
+  Temporal Data Check     : Check to ensure that all cases and controls are within the specified temporal study period.
+  Geographical Data Check : Check to ensure that all observations (cases, controls and populations) are within the specified geographical area.
+
+Spatial Neighbors
+-----------------
+  Use Non-Euclidean Neighbors file : No
+  Use Meta Locations File          : No
+  Multiple Coordinates Type        : Allow only one set of coordinates per location ID.
+
+Locations Network
+-----------------
+  Use Locations Network File : No
+  Locations Network File     : 
+  Locations Network Purpose  : Network Definition
+
+Spatial Window
+--------------
+  Maximum Spatial Cluster Size     : 50 percent of population at risk
+  Maximum Spatial Cluster Size     : 50 km
+  Include Purely Temporal Clusters : No
+  Window Shape                     : Circular
+
+Temporal Window
+---------------
+  Minimum Temporal Cluster Size   : 1 Day
+  Maximum Temporal Cluster Size   : 40 Days
+  Include Purely Spatial Clusters : No
+
+Cluster Restrictions
+--------------------
+  Restrict Low Rate Clusters       : Yes
+  Risk Threshold Low Rate Clusters : 0.1
+
+Space And Time Adjustments
+--------------------------
+  Temporal Adjustment                     : None
+  Adjust for Weekly Trends, Nonparametric : No
+  Spatial Adjustment                      : None
+  Adjust for known relative risks         : No
+
+Inference
+---------
+  P-Value Reporting                  : Default Combination
+  Number of Replications             : 999
+  Adjusting for More Likely Clusters : No
+
+Cluster Drilldown
+-----------------
+  Standard Drilldown on Detected Clusters  : No
+  Bernoulli Drilldown on Detected Clusters : No
+
+Miscellaneous Analysis
+----------------------
+  Prospective Analysis Frequency : Same As Time Aggregation
+
+Spatial Output
+--------------
+  Automatically Launch Map                  : Yes
+  Report Hierarchical Clusters              : Yes
+  Criteria for Reporting Secondary Clusters : No Geographical Overlap
+  Restrict Reporting to Smaller Clusters    : No
+
+Temporal Graphs
+---------------
+  Produce Temporal Graphs : No
+
+Other Output
+------------
+  Report Critical Values  : No
+  Report Monte Carlo Rank : No
+
+Run Options
+-----------
+  Processor Usage   : All Available Processors
+  Suppress Warnings : No
+  Logging Analysis  : No
+
+System
+------
+  Parameters Version : 10.1.1
+_______________________________________________________________________________________________
+
+Program completed  : Mon Jun  3 17:23:04 2024
+Total Running Time : 4 seconds
+Processor Usage    : 32 processors
